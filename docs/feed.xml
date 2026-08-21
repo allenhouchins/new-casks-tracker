@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>New Homebrew Casks</title>
+    <link>https://allenhouchins.github.io/new-casks-tracker/</link>
+    <description>Newly added Homebrew casks, checked every 6 hours</description>
+    <lastBuildDate>Fri, 21 Aug 2026 15:30:04 +0000</lastBuildDate>
+  </channel>
+</rss>

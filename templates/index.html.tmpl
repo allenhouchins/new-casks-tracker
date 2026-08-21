@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{{.Title}}</title>
+  <link rel="stylesheet" href="style.css">
+  <link rel="alternate" type="application/rss+xml" title="New Homebrew Casks" href="feed.xml">
+</head>
+<body>
+  <header>
+    <h1>🍺 {{.Title}}</h1>
+    <p class="subtitle">
+      Newly added <a href="https://formulae.brew.sh/cask/">Homebrew casks</a>,
+      checked every 6 hours. Newest first.
+    </p>
+  </header>
+
+  <main>
+    {{if .Entries}}
+      {{if .Capped}}
+        <p class="notice">
+          Showing the {{len .Entries}} most recent of {{.TotalNew}} casks —
+          <a href="history.html">see the full history</a>.
+        </p>
+      {{end}}
+      <ul class="casks">
+        {{range .Entries}}
+        <li class="cask">
+          <div class="cask-head">
+            <span class="cask-name">{{.Name}}</span>
+            {{if .Version}}<span class="cask-version">{{.Version}}</span>{{end}}
+          </div>
+          {{if .Desc}}<p class="cask-desc">{{.Desc}}</p>{{end}}
+          <div class="cask-meta">
+            <code class="cask-token">{{.Token}}</code>
+            {{if .Homepage}}<a href="{{.Homepage}}" rel="noopener">Homepage</a>{{end}}
+            <a href="https://formulae.brew.sh/cask/{{.Token}}" rel="noopener">Cask page</a>
+            <time datetime="{{.DetectedAt.Format "2006-01-02T15:04:05Z07:00"}}">Detected {{fmtTime .DetectedAt}}</time>
+          </div>
+        </li>
+        {{end}}
+      </ul>
+    {{else}}
+      <p class="empty">
+        No new casks recorded yet. The first run establishes a baseline;
+        casks added to Homebrew after that will show up here.
+      </p>
+    {{end}}
+  </main>
+
+  <footer>
+    {{if .IsHistory}}
+      <p><a href="index.html">← Back to recent casks</a></p>
+    {{else if .Capped}}
+      <p><a href="history.html">Full history ({{.TotalNew}} casks) →</a></p>
+    {{end}}
+    <p>
+      Last updated {{fmtTime .GeneratedAt}} ·
+      <a href="feed.xml">RSS feed</a> ·
+      Data from the <a href="https://formulae.brew.sh/">Homebrew formulae API</a>
+    </p>
+  </footer>
+</body>
+</html>
