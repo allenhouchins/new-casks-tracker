@@ -4,6 +4,13 @@
     <title>New Homebrew Casks</title>
     <link>https://allenhouchins.github.io/new-casks-tracker/</link>
     <description>Newly added Homebrew casks, checked every 6 hours</description>
-    <lastBuildDate>Sat, 22 Aug 2026 12:19:23 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 22 Aug 2026 18:15:27 +0000</lastBuildDate>
+    <item>
+      <title>Keyty 1.3.0</title>
+      <link>https://formulae.brew.sh/cask/keyty</link>
+      <description>Keyboard and mouse input visualizer — https://keyty.app/</description>
+      <guid isPermaLink="false">keyty@2026-08-22T18:15:27Z</guid>
+      <pubDate>Sat, 22 Aug 2026 18:15:27 +0000</pubDate>
+    </item>
   </channel>
 </rss>
