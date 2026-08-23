@@ -4,7 +4,14 @@
     <title>New Homebrew Casks</title>
     <link>https://allenhouchins.github.io/new-casks-tracker/</link>
     <description>Newly added Homebrew casks, checked every 6 hours</description>
-    <lastBuildDate>Sun, 23 Aug 2026 12:19:52 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 23 Aug 2026 18:15:20 +0000</lastBuildDate>
+    <item>
+      <title>Bramble 0.4.0</title>
+      <link>https://formulae.brew.sh/cask/bramble</link>
+      <description>Password manager — https://bramble.sh/</description>
+      <guid isPermaLink="false">bramble@2026-08-23T18:15:20Z</guid>
+      <pubDate>Sun, 23 Aug 2026 18:15:20 +0000</pubDate>
+    </item>
     <item>
       <title>Keyty 1.3.0</title>
       <link>https://formulae.brew.sh/cask/keyty</link>
