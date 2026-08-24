@@ -14,5 +14,45 @@
     "homepage": "https://bramble.sh/",
     "version": "0.4.0",
     "detected_at": "2026-08-23T18:15:20.332194356Z"
+  },
+  {
+    "token": "amethyst-nostr",
+    "name": "Amethyst",
+    "desc": "Nostr client",
+    "homepage": "https://github.com/vitorpamplona/amethyst",
+    "version": "1.14.0",
+    "detected_at": "2026-08-24T06:36:49.177431073Z"
+  },
+  {
+    "token": "anarlog",
+    "name": "Anarlog",
+    "desc": "AI notepad for meetings",
+    "homepage": "https://anarlog.so/",
+    "version": "1.4.12",
+    "detected_at": "2026-08-24T06:36:49.177431073Z"
+  },
+  {
+    "token": "android-performance-analyzer",
+    "name": "Android Performance Analyzer",
+    "desc": "Toolchain for profiling apps and games",
+    "homepage": "https://developer.android.com/android-performance-analyzer",
+    "version": "0.9.0",
+    "detected_at": "2026-08-24T06:36:49.177431073Z"
+  },
+  {
+    "token": "riverscript",
+    "name": "RiverScript",
+    "desc": "AI platform for recording and transcribing system audio from any app",
+    "homepage": "https://riverscript.com/",
+    "version": "1.2.0",
+    "detected_at": "2026-08-24T06:36:49.177431073Z"
+  },
+  {
+    "token": "skills-manager",
+    "name": "Skills Manager",
+    "desc": "Manage, sync, and organise AI agent skills across coding tools",
+    "homepage": "https://github.com/xingkongliang/skills-manager",
+    "version": "1.34.2",
+    "detected_at": "2026-08-24T06:36:49.177431073Z"
   }
 ]

@@ -4,7 +4,42 @@
     <title>New Homebrew Casks</title>
     <link>https://allenhouchins.github.io/new-casks-tracker/</link>
     <description>Newly added Homebrew casks, checked every 6 hours</description>
-    <lastBuildDate>Mon, 24 Aug 2026 00:41:58 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 24 Aug 2026 06:36:49 +0000</lastBuildDate>
+    <item>
+      <title>Amethyst 1.14.0</title>
+      <link>https://formulae.brew.sh/cask/amethyst-nostr</link>
+      <description>Nostr client — https://github.com/vitorpamplona/amethyst</description>
+      <guid isPermaLink="false">amethyst-nostr@2026-08-24T06:36:49Z</guid>
+      <pubDate>Mon, 24 Aug 2026 06:36:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>Anarlog 1.4.12</title>
+      <link>https://formulae.brew.sh/cask/anarlog</link>
+      <description>AI notepad for meetings — https://anarlog.so/</description>
+      <guid isPermaLink="false">anarlog@2026-08-24T06:36:49Z</guid>
+      <pubDate>Mon, 24 Aug 2026 06:36:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>Android Performance Analyzer 0.9.0</title>
+      <link>https://formulae.brew.sh/cask/android-performance-analyzer</link>
+      <description>Toolchain for profiling apps and games — https://developer.android.com/android-performance-analyzer</description>
+      <guid isPermaLink="false">android-performance-analyzer@2026-08-24T06:36:49Z</guid>
+      <pubDate>Mon, 24 Aug 2026 06:36:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>RiverScript 1.2.0</title>
+      <link>https://formulae.brew.sh/cask/riverscript</link>
+      <description>AI platform for recording and transcribing system audio from any app — https://riverscript.com/</description>
+      <guid isPermaLink="false">riverscript@2026-08-24T06:36:49Z</guid>
+      <pubDate>Mon, 24 Aug 2026 06:36:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>Skills Manager 1.34.2</title>
+      <link>https://formulae.brew.sh/cask/skills-manager</link>
+      <description>Manage, sync, and organise AI agent skills across coding tools — https://github.com/xingkongliang/skills-manager</description>
+      <guid isPermaLink="false">skills-manager@2026-08-24T06:36:49Z</guid>
+      <pubDate>Mon, 24 Aug 2026 06:36:49 +0000</pubDate>
+    </item>
     <item>
       <title>Bramble 0.4.0</title>
       <link>https://formulae.brew.sh/cask/bramble</link>
