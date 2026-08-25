@@ -4,7 +4,14 @@
     <title>New Homebrew Casks</title>
     <link>https://allenhouchins.github.io/new-casks-tracker/</link>
     <description>Newly added Homebrew casks, checked every 6 hours</description>
-    <lastBuildDate>Tue, 25 Aug 2026 12:28:09 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 25 Aug 2026 18:24:35 +0000</lastBuildDate>
+    <item>
+      <title>Motrix Beta 2.0.0-beta.26</title>
+      <link>https://formulae.brew.sh/cask/motrix@beta</link>
+      <description>Open-source download manager — https://motrix.app/</description>
+      <guid isPermaLink="false">motrix@beta@2026-08-25T18:24:35Z</guid>
+      <pubDate>Tue, 25 Aug 2026 18:24:35 +0000</pubDate>
+    </item>
     <item>
       <title>Paper Mono 0.300</title>
       <link>https://formulae.brew.sh/cask/font-paper-mono</link>

@@ -93,5 +93,13 @@
     "homepage": "https://github.com/paper-design/paper-mono",
     "version": "0.300",
     "detected_at": "2026-08-25T12:28:09.796573064Z"
+  },
+  {
+    "token": "motrix@beta",
+    "name": "Motrix Beta",
+    "desc": "Open-source download manager",
+    "homepage": "https://motrix.app/",
+    "version": "2.0.0-beta.26",
+    "detected_at": "2026-08-25T18:24:35.844937107Z"
   }
 ]
