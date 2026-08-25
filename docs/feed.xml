@@ -4,7 +4,14 @@
     <title>New Homebrew Casks</title>
     <link>https://allenhouchins.github.io/new-casks-tracker/</link>
     <description>Newly added Homebrew casks, checked every 6 hours</description>
-    <lastBuildDate>Tue, 25 Aug 2026 00:40:59 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 25 Aug 2026 06:28:30 +0000</lastBuildDate>
+    <item>
+      <title>Channel Works 12.0.6</title>
+      <link>https://formulae.brew.sh/cask/channel-works</link>
+      <description>AI Business OS for customer support, analytics, collaboration, and marketing — https://channel.io/</description>
+      <guid isPermaLink="false">channel-works@2026-08-25T06:28:30Z</guid>
+      <pubDate>Tue, 25 Aug 2026 06:28:30 +0000</pubDate>
+    </item>
     <item>
       <title>Atlas 0.2.6</title>
       <link>https://formulae.brew.sh/cask/atlas-app</link>
