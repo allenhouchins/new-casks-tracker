@@ -4,7 +4,14 @@
     <title>New Homebrew Casks</title>
     <link>https://allenhouchins.github.io/new-casks-tracker/</link>
     <description>Newly added Homebrew casks, checked every 6 hours</description>
-    <lastBuildDate>Tue, 25 Aug 2026 06:28:30 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 25 Aug 2026 12:28:09 +0000</lastBuildDate>
+    <item>
+      <title>Paper Mono 0.300</title>
+      <link>https://formulae.brew.sh/cask/font-paper-mono</link>
+      <description>— https://github.com/paper-design/paper-mono</description>
+      <guid isPermaLink="false">font-paper-mono@2026-08-25T12:28:09Z</guid>
+      <pubDate>Tue, 25 Aug 2026 12:28:09 +0000</pubDate>
+    </item>
     <item>
       <title>Channel Works 12.0.6</title>
       <link>https://formulae.brew.sh/cask/channel-works</link>

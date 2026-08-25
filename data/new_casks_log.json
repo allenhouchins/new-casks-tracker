@@ -86,5 +86,12 @@
     "homepage": "https://channel.io/",
     "version": "12.0.6",
     "detected_at": "2026-08-25T06:28:30.584141961Z"
+  },
+  {
+    "token": "font-paper-mono",
+    "name": "Paper Mono",
+    "homepage": "https://github.com/paper-design/paper-mono",
+    "version": "0.300",
+    "detected_at": "2026-08-25T12:28:09.796573064Z"
   }
 ]
