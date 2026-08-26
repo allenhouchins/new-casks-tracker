@@ -4,7 +4,35 @@
     <title>New Homebrew Casks</title>
     <link>https://allenhouchins.github.io/new-casks-tracker/</link>
     <description>Newly added Homebrew casks, checked every 6 hours</description>
-    <lastBuildDate>Tue, 25 Aug 2026 18:24:35 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 26 Aug 2026 00:42:11 +0000</lastBuildDate>
+    <item>
+      <title>Bifrost 2.1.4</title>
+      <link>https://formulae.brew.sh/cask/bifrost</link>
+      <description>Samsung firmware downloader — https://bifrost.zwander.dev/</description>
+      <guid isPermaLink="false">bifrost@2026-08-26T00:42:11Z</guid>
+      <pubDate>Wed, 26 Aug 2026 00:42:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>Keychron Assistant 1.1.5</title>
+      <link>https://formulae.brew.sh/cask/keychron-assistant</link>
+      <description>Companion app for Keychron Launcher&#39;s Quick Start feature — https://www.keychron.com/blogs/news/how-to-download-and-install-keychron-assist</description>
+      <guid isPermaLink="false">keychron-assistant@2026-08-26T00:42:11Z</guid>
+      <pubDate>Wed, 26 Aug 2026 00:42:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>LeiGod 1.1.4</title>
+      <link>https://formulae.brew.sh/cask/leigod</link>
+      <description>Game network accelerator — https://www.leigod.com/</description>
+      <guid isPermaLink="false">leigod@2026-08-26T00:42:11Z</guid>
+      <pubDate>Wed, 26 Aug 2026 00:42:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>Nativ 0.3.4</title>
+      <link>https://formulae.brew.sh/cask/nativ</link>
+      <description>Run AI models locally — https://blaizzy.github.io/nativ/</description>
+      <guid isPermaLink="false">nativ@2026-08-26T00:42:11Z</guid>
+      <pubDate>Wed, 26 Aug 2026 00:42:11 +0000</pubDate>
+    </item>
     <item>
       <title>Motrix Beta 2.0.0-beta.26</title>
       <link>https://formulae.brew.sh/cask/motrix@beta</link>

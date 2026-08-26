@@ -101,5 +101,37 @@
     "homepage": "https://motrix.app/",
     "version": "2.0.0-beta.26",
     "detected_at": "2026-08-25T18:24:35.844937107Z"
+  },
+  {
+    "token": "bifrost",
+    "name": "Bifrost",
+    "desc": "Samsung firmware downloader",
+    "homepage": "https://bifrost.zwander.dev/",
+    "version": "2.1.4",
+    "detected_at": "2026-08-26T00:42:11.102554332Z"
+  },
+  {
+    "token": "keychron-assistant",
+    "name": "Keychron Assistant",
+    "desc": "Companion app for Keychron Launcher's Quick Start feature",
+    "homepage": "https://www.keychron.com/blogs/news/how-to-download-and-install-keychron-assist",
+    "version": "1.1.5",
+    "detected_at": "2026-08-26T00:42:11.102554332Z"
+  },
+  {
+    "token": "leigod",
+    "name": "LeiGod",
+    "desc": "Game network accelerator",
+    "homepage": "https://www.leigod.com/",
+    "version": "1.1.4",
+    "detected_at": "2026-08-26T00:42:11.102554332Z"
+  },
+  {
+    "token": "nativ",
+    "name": "Nativ",
+    "desc": "Run AI models locally",
+    "homepage": "https://blaizzy.github.io/nativ/",
+    "version": "0.3.4",
+    "detected_at": "2026-08-26T00:42:11.102554332Z"
   }
 ]
