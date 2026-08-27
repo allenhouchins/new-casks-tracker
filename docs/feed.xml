@@ -4,7 +4,14 @@
     <title>New Homebrew Casks</title>
     <link>https://allenhouchins.github.io/new-casks-tracker/</link>
     <description>Newly added Homebrew casks, checked every 6 hours</description>
-    <lastBuildDate>Thu, 27 Aug 2026 05:46:52 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 27 Aug 2026 17:05:42 +0000</lastBuildDate>
+    <item>
+      <title>Crisp 1.5.0</title>
+      <link>https://formulae.brew.sh/cask/crisp</link>
+      <description>Menu bar display manager: DDC brightness, HiDPI, presets, virtual displays — https://crispmac.app/</description>
+      <guid isPermaLink="false">crisp@2026-08-27T17:05:42Z</guid>
+      <pubDate>Thu, 27 Aug 2026 17:05:42 +0000</pubDate>
+    </item>
     <item>
       <title>Davit 0.1.24</title>
       <link>https://formulae.brew.sh/cask/davit</link>

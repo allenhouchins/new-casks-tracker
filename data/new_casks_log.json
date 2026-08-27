@@ -157,5 +157,13 @@
     "homepage": "https://unsloth.ai/",
     "version": "0.1.803-beta",
     "detected_at": "2026-08-27T05:46:52.97462501Z"
+  },
+  {
+    "token": "crisp",
+    "name": "Crisp",
+    "desc": "Menu bar display manager: DDC brightness, HiDPI, presets, virtual displays",
+    "homepage": "https://crispmac.app/",
+    "version": "1.5.0",
+    "detected_at": "2026-08-27T17:05:42.644448823Z"
   }
 ]
