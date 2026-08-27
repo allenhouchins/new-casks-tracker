@@ -4,7 +4,28 @@
     <title>New Homebrew Casks</title>
     <link>https://allenhouchins.github.io/new-casks-tracker/</link>
     <description>Newly added Homebrew casks, checked every 6 hours</description>
-    <lastBuildDate>Wed, 26 Aug 2026 19:34:58 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 27 Aug 2026 05:46:52 +0000</lastBuildDate>
+    <item>
+      <title>Davit 0.1.24</title>
+      <link>https://formulae.brew.sh/cask/davit</link>
+      <description>GUI for Apple&#39;s container CLI — https://davit.app/</description>
+      <guid isPermaLink="false">davit@2026-08-27T05:46:52Z</guid>
+      <pubDate>Thu, 27 Aug 2026 05:46:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>像素蛋糕 9.3.1-23</title>
+      <link>https://formulae.brew.sh/cask/pixcake</link>
+      <description>AI photo editing software for commercial photography — https://www.pixcakeai.com/</description>
+      <guid isPermaLink="false">pixcake@2026-08-27T05:46:52Z</guid>
+      <pubDate>Thu, 27 Aug 2026 05:46:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>Unsloth Desktop 0.1.803-beta</title>
+      <link>https://formulae.brew.sh/cask/unsloth</link>
+      <description>Desktop application for Unsloth Studio — https://unsloth.ai/</description>
+      <guid isPermaLink="false">unsloth@2026-08-27T05:46:52Z</guid>
+      <pubDate>Thu, 27 Aug 2026 05:46:52 +0000</pubDate>
+    </item>
     <item>
       <title>Bifrost 2.1.4</title>
       <link>https://formulae.brew.sh/cask/bifrost</link>
