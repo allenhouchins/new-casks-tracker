@@ -165,5 +165,13 @@
     "homepage": "https://crispmac.app/",
     "version": "1.5.0",
     "detected_at": "2026-08-27T17:05:42.644448823Z"
+  },
+  {
+    "token": "arm-performix",
+    "name": "Arm Performix",
+    "desc": "Performance analysis toolkit for Arm server and cloud environments",
+    "homepage": "https://developer.arm.com/servers-and-cloud-computing/arm-performix",
+    "version": "2026.3.2",
+    "detected_at": "2026-08-28T17:53:31.895641506Z"
   }
 ]
