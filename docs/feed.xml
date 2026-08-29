@@ -4,7 +4,14 @@
     <title>New Homebrew Casks</title>
     <link>https://allenhouchins.github.io/new-casks-tracker/</link>
     <description>Newly added Homebrew casks, checked every 6 hours</description>
-    <lastBuildDate>Fri, 28 Aug 2026 17:53:31 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 29 Aug 2026 01:19:13 +0000</lastBuildDate>
+    <item>
+      <title>Afterglow 1.0</title>
+      <link>https://formulae.brew.sh/cask/afterglow</link>
+      <description>Classic After Dark screen savers emulator — https://morphing.cloud/afterglow/</description>
+      <guid isPermaLink="false">afterglow@2026-08-29T01:19:13Z</guid>
+      <pubDate>Sat, 29 Aug 2026 01:19:13 +0000</pubDate>
+    </item>
     <item>
       <title>Arm Performix 2026.3.2</title>
       <link>https://formulae.brew.sh/cask/arm-performix</link>

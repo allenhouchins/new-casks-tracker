@@ -173,5 +173,13 @@
     "homepage": "https://developer.arm.com/servers-and-cloud-computing/arm-performix",
     "version": "2026.3.2",
     "detected_at": "2026-08-28T17:53:31.895641506Z"
+  },
+  {
+    "token": "afterglow",
+    "name": "Afterglow",
+    "desc": "Classic After Dark screen savers emulator",
+    "homepage": "https://morphing.cloud/afterglow/",
+    "version": "1.0",
+    "detected_at": "2026-08-29T01:19:13.055568376Z"
   }
 ]
