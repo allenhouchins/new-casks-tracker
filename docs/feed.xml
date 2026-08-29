@@ -4,7 +4,14 @@
     <title>New Homebrew Casks</title>
     <link>https://allenhouchins.github.io/new-casks-tracker/</link>
     <description>Newly added Homebrew casks, checked every 6 hours</description>
-    <lastBuildDate>Sat, 29 Aug 2026 11:58:18 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 29 Aug 2026 16:13:55 +0000</lastBuildDate>
+    <item>
+      <title>TCP Viewer 1.12.0,36</title>
+      <link>https://formulae.brew.sh/cask/tcp-viewer</link>
+      <description>Packet capture and inspection tool — https://tcpviewer.proxyman.com/</description>
+      <guid isPermaLink="false">tcp-viewer@2026-08-29T16:13:55Z</guid>
+      <pubDate>Sat, 29 Aug 2026 16:13:55 +0000</pubDate>
+    </item>
     <item>
       <title>Droppy 14.2.0</title>
       <link>https://formulae.brew.sh/cask/droppy</link>
