@@ -4,7 +4,14 @@
     <title>New Homebrew Casks</title>
     <link>https://allenhouchins.github.io/new-casks-tracker/</link>
     <description>Newly added Homebrew casks, checked every 6 hours</description>
-    <lastBuildDate>Sun, 30 Aug 2026 10:55:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 30 Aug 2026 15:43:07 +0000</lastBuildDate>
+    <item>
+      <title>Universal Control 5.1.1.113315,10153</title>
+      <link>https://formulae.brew.sh/cask/fender-universal-control</link>
+      <description>Fender software control interface — https://www.presonus.com/pages/universal-control</description>
+      <guid isPermaLink="false">fender-universal-control@2026-08-30T15:43:07Z</guid>
+      <pubDate>Sun, 30 Aug 2026 15:43:07 +0000</pubDate>
+    </item>
     <item>
       <title>TCP Viewer 1.12.0,36</title>
       <link>https://formulae.brew.sh/cask/tcp-viewer</link>

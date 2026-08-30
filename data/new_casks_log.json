@@ -197,5 +197,13 @@
     "homepage": "https://tcpviewer.proxyman.com/",
     "version": "1.12.0,36",
     "detected_at": "2026-08-29T16:13:55.518974162Z"
+  },
+  {
+    "token": "fender-universal-control",
+    "name": "Universal Control",
+    "desc": "Fender software control interface",
+    "homepage": "https://www.presonus.com/pages/universal-control",
+    "version": "5.1.1.113315,10153",
+    "detected_at": "2026-08-30T15:43:07.743251529Z"
   }
 ]
