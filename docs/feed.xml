@@ -4,7 +4,14 @@
     <title>New Homebrew Casks</title>
     <link>https://allenhouchins.github.io/new-casks-tracker/</link>
     <description>Newly added Homebrew casks, checked every 6 hours</description>
-    <lastBuildDate>Sun, 30 Aug 2026 15:43:07 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 30 Aug 2026 20:17:51 +0000</lastBuildDate>
+    <item>
+      <title>SJMCL 1.2.0</title>
+      <link>https://formulae.brew.sh/cask/sjmcl</link>
+      <description>Minecraft launcher built with the community — https://mc.sjtu.cn/sjmcl/</description>
+      <guid isPermaLink="false">sjmcl@2026-08-30T20:17:51Z</guid>
+      <pubDate>Sun, 30 Aug 2026 20:17:51 +0000</pubDate>
+    </item>
     <item>
       <title>Universal Control 5.1.1.113315,10153</title>
       <link>https://formulae.brew.sh/cask/fender-universal-control</link>
