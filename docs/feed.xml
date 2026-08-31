@@ -4,7 +4,28 @@
     <title>New Homebrew Casks</title>
     <link>https://allenhouchins.github.io/new-casks-tracker/</link>
     <description>Newly added Homebrew casks, checked every 6 hours</description>
-    <lastBuildDate>Mon, 31 Aug 2026 12:09:42 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 31 Aug 2026 22:11:39 +0000</lastBuildDate>
+    <item>
+      <title>Asap Sharp latest</title>
+      <link>https://formulae.brew.sh/cask/font-asap-sharp</link>
+      <description>— https://fonts.google.com/specimen/Asap+Sharp</description>
+      <guid isPermaLink="false">font-asap-sharp@2026-08-31T22:11:39Z</guid>
+      <pubDate>Mon, 31 Aug 2026 22:11:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>Nevermind latest</title>
+      <link>https://formulae.brew.sh/cask/font-nevermind</link>
+      <description>— https://github.com/lamzhonghang/nevermind</description>
+      <guid isPermaLink="false">font-nevermind@2026-08-31T22:11:39Z</guid>
+      <pubDate>Mon, 31 Aug 2026 22:11:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>Valley Sans latest</title>
+      <link>https://formulae.brew.sh/cask/font-valley-sans</link>
+      <description>— https://fonts.google.com/specimen/Valley+Sans</description>
+      <guid isPermaLink="false">font-valley-sans@2026-08-31T22:11:39Z</guid>
+      <pubDate>Mon, 31 Aug 2026 22:11:39 +0000</pubDate>
+    </item>
     <item>
       <title>MarkViewer 1.8.4</title>
       <link>https://formulae.brew.sh/cask/markviewer</link>

@@ -245,5 +245,26 @@
     "homepage": "https://javis-ai.com/token-monitor/",
     "version": "0.50.0",
     "detected_at": "2026-08-31T12:09:42.043482284Z"
+  },
+  {
+    "token": "font-asap-sharp",
+    "name": "Asap Sharp",
+    "homepage": "https://fonts.google.com/specimen/Asap+Sharp",
+    "version": "latest",
+    "detected_at": "2026-08-31T22:11:39.450976688Z"
+  },
+  {
+    "token": "font-nevermind",
+    "name": "Nevermind",
+    "homepage": "https://github.com/lamzhonghang/nevermind",
+    "version": "latest",
+    "detected_at": "2026-08-31T22:11:39.450976688Z"
+  },
+  {
+    "token": "font-valley-sans",
+    "name": "Valley Sans",
+    "homepage": "https://fonts.google.com/specimen/Valley+Sans",
+    "version": "latest",
+    "detected_at": "2026-08-31T22:11:39.450976688Z"
   }
 ]
