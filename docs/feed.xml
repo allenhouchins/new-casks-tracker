@@ -4,7 +4,35 @@
     <title>New Homebrew Casks</title>
     <link>https://allenhouchins.github.io/new-casks-tracker/</link>
     <description>Newly added Homebrew casks, checked every 6 hours</description>
-    <lastBuildDate>Mon, 31 Aug 2026 02:21:36 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 31 Aug 2026 12:09:42 +0000</lastBuildDate>
+    <item>
+      <title>MarkViewer 1.8.4</title>
+      <link>https://formulae.brew.sh/cask/markviewer</link>
+      <description>Minimal markdown editor — https://markviewer.com/</description>
+      <guid isPermaLink="false">markviewer@2026-08-31T12:09:42Z</guid>
+      <pubDate>Mon, 31 Aug 2026 12:09:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>Quark Cloud Drive 7.0.6.771,3120899</title>
+      <link>https://formulae.brew.sh/cask/quarkclouddrive</link>
+      <description>Cloud storage and file management platform — https://pan.quark.cn/</description>
+      <guid isPermaLink="false">quarkclouddrive@2026-08-31T12:09:42Z</guid>
+      <pubDate>Mon, 31 Aug 2026 12:09:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>Tabularis 0.21.0</title>
+      <link>https://formulae.brew.sh/cask/tabularis</link>
+      <description>Lightweight database management tool — https://tabularis.dev/</description>
+      <guid isPermaLink="false">tabularis@2026-08-31T12:09:42Z</guid>
+      <pubDate>Mon, 31 Aug 2026 12:09:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>Token Monitor 0.50.0</title>
+      <link>https://formulae.brew.sh/cask/token-monitor</link>
+      <description>Monitor token usage, costs, and limits across AI coding tools — https://javis-ai.com/token-monitor/</description>
+      <guid isPermaLink="false">token-monitor@2026-08-31T12:09:42Z</guid>
+      <pubDate>Mon, 31 Aug 2026 12:09:42 +0000</pubDate>
+    </item>
     <item>
       <title>SJMCL 1.2.0</title>
       <link>https://formulae.brew.sh/cask/sjmcl</link>

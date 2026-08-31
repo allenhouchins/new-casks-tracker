@@ -213,5 +213,37 @@
     "homepage": "https://mc.sjtu.cn/sjmcl/",
     "version": "1.2.0",
     "detected_at": "2026-08-30T20:17:51.508187043Z"
+  },
+  {
+    "token": "markviewer",
+    "name": "MarkViewer",
+    "desc": "Minimal markdown editor",
+    "homepage": "https://markviewer.com/",
+    "version": "1.8.4",
+    "detected_at": "2026-08-31T12:09:42.043482284Z"
+  },
+  {
+    "token": "quarkclouddrive",
+    "name": "Quark Cloud Drive",
+    "desc": "Cloud storage and file management platform",
+    "homepage": "https://pan.quark.cn/",
+    "version": "7.0.6.771,3120899",
+    "detected_at": "2026-08-31T12:09:42.043482284Z"
+  },
+  {
+    "token": "tabularis",
+    "name": "Tabularis",
+    "desc": "Lightweight database management tool",
+    "homepage": "https://tabularis.dev/",
+    "version": "0.21.0",
+    "detected_at": "2026-08-31T12:09:42.043482284Z"
+  },
+  {
+    "token": "token-monitor",
+    "name": "Token Monitor",
+    "desc": "Monitor token usage, costs, and limits across AI coding tools",
+    "homepage": "https://javis-ai.com/token-monitor/",
+    "version": "0.50.0",
+    "detected_at": "2026-08-31T12:09:42.043482284Z"
   }
 ]
