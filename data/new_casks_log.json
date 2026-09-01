@@ -266,5 +266,13 @@
     "homepage": "https://fonts.google.com/specimen/Valley+Sans",
     "version": "latest",
     "detected_at": "2026-08-31T22:11:39.450976688Z"
+  },
+  {
+    "token": "waku",
+    "name": "Waku",
+    "desc": "Native desktop app for coding agents",
+    "homepage": "https://waku.sh/",
+    "version": "0.1.16",
+    "detected_at": "2026-09-01T15:45:55.39687244Z"
   }
 ]

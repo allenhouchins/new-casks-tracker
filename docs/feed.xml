@@ -4,7 +4,14 @@
     <title>New Homebrew Casks</title>
     <link>https://allenhouchins.github.io/new-casks-tracker/</link>
     <description>Newly added Homebrew casks, checked every 6 hours</description>
-    <lastBuildDate>Tue, 01 Sep 2026 10:46:43 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2026 15:45:55 +0000</lastBuildDate>
+    <item>
+      <title>Waku 0.1.16</title>
+      <link>https://formulae.brew.sh/cask/waku</link>
+      <description>Native desktop app for coding agents — https://waku.sh/</description>
+      <guid isPermaLink="false">waku@2026-09-01T15:45:55Z</guid>
+      <pubDate>Tue, 01 Sep 2026 15:45:55 +0000</pubDate>
+    </item>
     <item>
       <title>Asap Sharp latest</title>
       <link>https://formulae.brew.sh/cask/font-asap-sharp</link>
