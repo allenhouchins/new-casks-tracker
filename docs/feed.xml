@@ -4,7 +4,28 @@
     <title>New Homebrew Casks</title>
     <link>https://allenhouchins.github.io/new-casks-tracker/</link>
     <description>Newly added Homebrew casks, checked every 6 hours</description>
-    <lastBuildDate>Thu, 03 Sep 2026 02:04:34 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 03 Sep 2026 10:23:08 +0000</lastBuildDate>
+    <item>
+      <title>DiskBoard 1.0.8</title>
+      <link>https://formulae.brew.sh/cask/diskboard</link>
+      <description>Disk benchmark and S.M.A.R.T. health monitor — https://www.diskboard.com/</description>
+      <guid isPermaLink="false">diskboard@2026-09-03T10:23:08Z</guid>
+      <pubDate>Thu, 03 Sep 2026 10:23:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Mac Performance Monitor 1.7.0.205</title>
+      <link>https://formulae.brew.sh/cask/mac-performance-monitor</link>
+      <description>Menu bar performance monitor with recorded history and analytics — https://macperformancemonitor.com/</description>
+      <guid isPermaLink="false">mac-performance-monitor@2026-09-03T10:23:08Z</guid>
+      <pubDate>Thu, 03 Sep 2026 10:23:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>macshot Offline 4.2.1</title>
+      <link>https://formulae.brew.sh/cask/macshot-offline</link>
+      <description>Screenshot and screen recording tool without upload integrations — https://github.com/sw33tLie/macshot</description>
+      <guid isPermaLink="false">macshot-offline@2026-09-03T10:23:08Z</guid>
+      <pubDate>Thu, 03 Sep 2026 10:23:08 +0000</pubDate>
+    </item>
     <item>
       <title>AirStats 1.4</title>
       <link>https://formulae.brew.sh/cask/airstats</link>

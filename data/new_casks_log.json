@@ -322,5 +322,29 @@
     "homepage": "https://www.tone3000.com/",
     "version": "0.0.4",
     "detected_at": "2026-09-03T02:04:34.524215132Z"
+  },
+  {
+    "token": "diskboard",
+    "name": "DiskBoard",
+    "desc": "Disk benchmark and S.M.A.R.T. health monitor",
+    "homepage": "https://www.diskboard.com/",
+    "version": "1.0.8",
+    "detected_at": "2026-09-03T10:23:08.943129608Z"
+  },
+  {
+    "token": "mac-performance-monitor",
+    "name": "Mac Performance Monitor",
+    "desc": "Menu bar performance monitor with recorded history and analytics",
+    "homepage": "https://macperformancemonitor.com/",
+    "version": "1.7.0.205",
+    "detected_at": "2026-09-03T10:23:08.943129608Z"
+  },
+  {
+    "token": "macshot-offline",
+    "name": "macshot Offline",
+    "desc": "Screenshot and screen recording tool without upload integrations",
+    "homepage": "https://github.com/sw33tLie/macshot",
+    "version": "4.2.1",
+    "detected_at": "2026-09-03T10:23:08.943129608Z"
   }
 ]
