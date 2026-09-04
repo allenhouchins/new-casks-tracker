@@ -4,7 +4,21 @@
     <title>New Homebrew Casks</title>
     <link>https://allenhouchins.github.io/new-casks-tracker/</link>
     <description>Newly added Homebrew casks, checked every 6 hours</description>
-    <lastBuildDate>Thu, 03 Sep 2026 20:17:18 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 04 Sep 2026 02:01:00 +0000</lastBuildDate>
+    <item>
+      <title>terminal-browser 0.7.6</title>
+      <link>https://formulae.brew.sh/cask/terminal-browser</link>
+      <description>Terminal-based web browser — https://terminal-browser.com/</description>
+      <guid isPermaLink="false">terminal-browser@2026-09-04T02:01:00Z</guid>
+      <pubDate>Fri, 04 Sep 2026 02:01:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Vernier Graphical Analysis 6.3.0-4399</title>
+      <link>https://formulae.brew.sh/cask/vernier-graphical-analysis</link>
+      <description>Instrument data analysis tool — https://www.vernier.com/product/graphical-analysis/</description>
+      <guid isPermaLink="false">vernier-graphical-analysis@2026-09-04T02:01:00Z</guid>
+      <pubDate>Fri, 04 Sep 2026 02:01:00 +0000</pubDate>
+    </item>
     <item>
       <title>DiskBoard 1.0.8</title>
       <link>https://formulae.brew.sh/cask/diskboard</link>

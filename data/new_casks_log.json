@@ -346,5 +346,21 @@
     "homepage": "https://github.com/sw33tLie/macshot",
     "version": "4.2.1",
     "detected_at": "2026-09-03T10:23:08.943129608Z"
+  },
+  {
+    "token": "terminal-browser",
+    "name": "terminal-browser",
+    "desc": "Terminal-based web browser",
+    "homepage": "https://terminal-browser.com/",
+    "version": "0.7.6",
+    "detected_at": "2026-09-04T02:01:00.950791871Z"
+  },
+  {
+    "token": "vernier-graphical-analysis",
+    "name": "Vernier Graphical Analysis",
+    "desc": "Instrument data analysis tool",
+    "homepage": "https://www.vernier.com/product/graphical-analysis/",
+    "version": "6.3.0-4399",
+    "detected_at": "2026-09-04T02:01:00.950791871Z"
   }
 ]
