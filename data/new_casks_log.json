@@ -362,5 +362,13 @@
     "homepage": "https://www.vernier.com/product/graphical-analysis/",
     "version": "6.3.0-4399",
     "detected_at": "2026-09-04T02:01:00.950791871Z"
+  },
+  {
+    "token": "sxitch",
+    "name": "Sxitch",
+    "desc": "Tree-based app switcher",
+    "homepage": "https://sxitch.app/",
+    "version": "1.4.2",
+    "detected_at": "2026-09-04T15:26:38.353884217Z"
   }
 ]
