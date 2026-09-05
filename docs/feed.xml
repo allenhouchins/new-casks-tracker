@@ -4,7 +4,14 @@
     <title>New Homebrew Casks</title>
     <link>https://allenhouchins.github.io/new-casks-tracker/</link>
     <description>Newly added Homebrew casks, checked every 6 hours</description>
-    <lastBuildDate>Sat, 05 Sep 2026 02:01:20 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 05 Sep 2026 09:39:13 +0000</lastBuildDate>
+    <item>
+      <title>MangoDisk 1.0.9</title>
+      <link>https://formulae.brew.sh/cask/mangodisk</link>
+      <description>Disk cleaner and storage analyser — https://mangodisk.app/</description>
+      <guid isPermaLink="false">mangodisk@2026-09-05T09:39:13Z</guid>
+      <pubDate>Sat, 05 Sep 2026 09:39:13 +0000</pubDate>
+    </item>
     <item>
       <title>Sxitch 1.4.2</title>
       <link>https://formulae.brew.sh/cask/sxitch</link>
