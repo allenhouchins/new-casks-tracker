@@ -378,5 +378,13 @@
     "homepage": "https://mangodisk.app/",
     "version": "1.0.9",
     "detected_at": "2026-09-05T09:39:13.083475849Z"
+  },
+  {
+    "token": "agentide",
+    "name": "AgentIDE",
+    "desc": "IDE for agent-based development",
+    "homepage": "https://github.com/MikeMcQuaid/AgentIDE",
+    "version": "0.9.0",
+    "detected_at": "2026-09-05T14:14:16.94609198Z"
   }
 ]
