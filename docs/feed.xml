@@ -4,7 +4,21 @@
     <title>New Homebrew Casks</title>
     <link>https://allenhouchins.github.io/new-casks-tracker/</link>
     <description>Newly added Homebrew casks, checked every 6 hours</description>
-    <lastBuildDate>Sun, 06 Sep 2026 09:54:28 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 06 Sep 2026 14:37:47 +0000</lastBuildDate>
+    <item>
+      <title>GameMaker Beta 2026.100.0.1142</title>
+      <link>https://formulae.brew.sh/cask/gamemaker@beta</link>
+      <description>Complete development tool for making 2D games — https://gamemaker.io/</description>
+      <guid isPermaLink="false">gamemaker@beta@2026-09-06T14:37:47Z</guid>
+      <pubDate>Sun, 06 Sep 2026 14:37:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>OmniWM 0.6.7</title>
+      <link>https://formulae.brew.sh/cask/omniwm</link>
+      <description>Tiling window manager — https://omniwm.app/</description>
+      <guid isPermaLink="false">omniwm@2026-09-06T14:37:47Z</guid>
+      <pubDate>Sun, 06 Sep 2026 14:37:47 +0000</pubDate>
+    </item>
     <item>
       <title>Clarity City latest</title>
       <link>https://formulae.brew.sh/cask/font-clarity-city</link>

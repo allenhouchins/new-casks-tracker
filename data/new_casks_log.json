@@ -414,5 +414,21 @@
     "homepage": "https://github.com/ertekinno/libre-caslon-condensed",
     "version": "latest",
     "detected_at": "2026-09-06T01:56:46.697956181Z"
+  },
+  {
+    "token": "gamemaker@beta",
+    "name": "GameMaker Beta",
+    "desc": "Complete development tool for making 2D games",
+    "homepage": "https://gamemaker.io/",
+    "version": "2026.100.0.1142",
+    "detected_at": "2026-09-06T14:37:47.008177335Z"
+  },
+  {
+    "token": "omniwm",
+    "name": "OmniWM",
+    "desc": "Tiling window manager",
+    "homepage": "https://omniwm.app/",
+    "version": "0.6.7",
+    "detected_at": "2026-09-06T14:37:47.008177335Z"
   }
 ]
