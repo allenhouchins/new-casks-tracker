@@ -386,5 +386,33 @@
     "homepage": "https://github.com/MikeMcQuaid/AgentIDE",
     "version": "0.9.0",
     "detected_at": "2026-09-05T14:14:16.94609198Z"
+  },
+  {
+    "token": "font-clarity-city",
+    "name": "Clarity City",
+    "homepage": "https://github.com/googlefonts/clarity-city",
+    "version": "latest",
+    "detected_at": "2026-09-06T01:56:46.697956181Z"
+  },
+  {
+    "token": "font-isometra",
+    "name": "Isometra",
+    "homepage": "https://github.com/field2/isometra",
+    "version": "latest",
+    "detected_at": "2026-09-06T01:56:46.697956181Z"
+  },
+  {
+    "token": "font-kripa",
+    "name": "Kripa",
+    "homepage": "https://github.com/kedar9/kripa",
+    "version": "latest",
+    "detected_at": "2026-09-06T01:56:46.697956181Z"
+  },
+  {
+    "token": "font-libre-caslon-condensed",
+    "name": "Libre Caslon Condensed",
+    "homepage": "https://github.com/ertekinno/libre-caslon-condensed",
+    "version": "latest",
+    "detected_at": "2026-09-06T01:56:46.697956181Z"
   }
 ]

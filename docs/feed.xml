@@ -4,7 +4,35 @@
     <title>New Homebrew Casks</title>
     <link>https://allenhouchins.github.io/new-casks-tracker/</link>
     <description>Newly added Homebrew casks, checked every 6 hours</description>
-    <lastBuildDate>Sat, 05 Sep 2026 19:42:45 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 06 Sep 2026 01:56:46 +0000</lastBuildDate>
+    <item>
+      <title>Clarity City latest</title>
+      <link>https://formulae.brew.sh/cask/font-clarity-city</link>
+      <description>— https://github.com/googlefonts/clarity-city</description>
+      <guid isPermaLink="false">font-clarity-city@2026-09-06T01:56:46Z</guid>
+      <pubDate>Sun, 06 Sep 2026 01:56:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>Isometra latest</title>
+      <link>https://formulae.brew.sh/cask/font-isometra</link>
+      <description>— https://github.com/field2/isometra</description>
+      <guid isPermaLink="false">font-isometra@2026-09-06T01:56:46Z</guid>
+      <pubDate>Sun, 06 Sep 2026 01:56:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>Kripa latest</title>
+      <link>https://formulae.brew.sh/cask/font-kripa</link>
+      <description>— https://github.com/kedar9/kripa</description>
+      <guid isPermaLink="false">font-kripa@2026-09-06T01:56:46Z</guid>
+      <pubDate>Sun, 06 Sep 2026 01:56:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>Libre Caslon Condensed latest</title>
+      <link>https://formulae.brew.sh/cask/font-libre-caslon-condensed</link>
+      <description>— https://github.com/ertekinno/libre-caslon-condensed</description>
+      <guid isPermaLink="false">font-libre-caslon-condensed@2026-09-06T01:56:46Z</guid>
+      <pubDate>Sun, 06 Sep 2026 01:56:46 +0000</pubDate>
+    </item>
     <item>
       <title>AgentIDE 0.9.0</title>
       <link>https://formulae.brew.sh/cask/agentide</link>
