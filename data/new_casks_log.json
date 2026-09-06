@@ -430,5 +430,13 @@
     "homepage": "https://omniwm.app/",
     "version": "0.6.7",
     "detected_at": "2026-09-06T14:37:47.008177335Z"
+  },
+  {
+    "token": "minmaxcal",
+    "name": "MinMaxCal",
+    "desc": "Minimal menu bar calendar, maximal full-screen notifications",
+    "homepage": "https://github.com/MikeMcQuaid/MinMaxCal",
+    "version": "0.9.1",
+    "detected_at": "2026-09-06T19:45:49.230285319Z"
   }
 ]
