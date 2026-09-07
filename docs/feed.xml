@@ -4,7 +4,14 @@
     <title>New Homebrew Casks</title>
     <link>https://allenhouchins.github.io/new-casks-tracker/</link>
     <description>Newly added Homebrew casks, checked every 6 hours</description>
-    <lastBuildDate>Mon, 07 Sep 2026 11:02:36 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 07 Sep 2026 16:52:01 +0000</lastBuildDate>
+    <item>
+      <title>Stockbit 2.2.0</title>
+      <link>https://formulae.brew.sh/cask/stockbit</link>
+      <description>Indonesian stock trading and analysis platform — https://stockbit.com/desktop</description>
+      <guid isPermaLink="false">stockbit@2026-09-07T16:52:01Z</guid>
+      <pubDate>Mon, 07 Sep 2026 16:52:01 +0000</pubDate>
+    </item>
     <item>
       <title>Open Science 0.26.0</title>
       <link>https://formulae.brew.sh/cask/open-science</link>

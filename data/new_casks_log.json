@@ -446,5 +446,13 @@
     "homepage": "https://aipoch.com/open-science",
     "version": "0.26.0",
     "detected_at": "2026-09-07T11:02:36.938762309Z"
+  },
+  {
+    "token": "stockbit",
+    "name": "Stockbit",
+    "desc": "Indonesian stock trading and analysis platform",
+    "homepage": "https://stockbit.com/desktop",
+    "version": "2.2.0",
+    "detected_at": "2026-09-07T16:52:01.345250109Z"
   }
 ]
