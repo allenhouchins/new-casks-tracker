@@ -438,5 +438,13 @@
     "homepage": "https://github.com/MikeMcQuaid/MinMaxCal",
     "version": "0.9.1",
     "detected_at": "2026-09-06T19:45:49.230285319Z"
+  },
+  {
+    "token": "open-science",
+    "name": "Open Science",
+    "desc": "AI research workbench with scientific agents and notebooks",
+    "homepage": "https://aipoch.com/open-science",
+    "version": "0.26.0",
+    "detected_at": "2026-09-07T11:02:36.938762309Z"
   }
 ]

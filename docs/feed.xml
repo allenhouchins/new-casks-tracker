@@ -4,7 +4,14 @@
     <title>New Homebrew Casks</title>
     <link>https://allenhouchins.github.io/new-casks-tracker/</link>
     <description>Newly added Homebrew casks, checked every 6 hours</description>
-    <lastBuildDate>Mon, 07 Sep 2026 01:54:05 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 07 Sep 2026 11:02:36 +0000</lastBuildDate>
+    <item>
+      <title>Open Science 0.26.0</title>
+      <link>https://formulae.brew.sh/cask/open-science</link>
+      <description>AI research workbench with scientific agents and notebooks — https://aipoch.com/open-science</description>
+      <guid isPermaLink="false">open-science@2026-09-07T11:02:36Z</guid>
+      <pubDate>Mon, 07 Sep 2026 11:02:36 +0000</pubDate>
+    </item>
     <item>
       <title>MinMaxCal 0.9.1</title>
       <link>https://formulae.brew.sh/cask/minmaxcal</link>
