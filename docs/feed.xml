@@ -4,7 +4,21 @@
     <title>New Homebrew Casks</title>
     <link>https://allenhouchins.github.io/new-casks-tracker/</link>
     <description>Newly added Homebrew casks, checked every 6 hours</description>
-    <lastBuildDate>Tue, 08 Sep 2026 02:05:19 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 08 Sep 2026 10:17:14 +0000</lastBuildDate>
+    <item>
+      <title>Pyeojin Gothic 1.3</title>
+      <link>https://formulae.brew.sh/cask/font-pyeojin-gothic</link>
+      <description>— https://notforall.tistory.com/7</description>
+      <guid isPermaLink="false">font-pyeojin-gothic@2026-09-08T10:17:14Z</guid>
+      <pubDate>Tue, 08 Sep 2026 10:17:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>PrivacyNotes 0.505.1</title>
+      <link>https://formulae.brew.sh/cask/privacynotes</link>
+      <description>End-to-end encrypted notes, tasks, files, journal, passwords and bookmark sync — https://privacynotes.app/</description>
+      <guid isPermaLink="false">privacynotes@2026-09-08T10:17:14Z</guid>
+      <pubDate>Tue, 08 Sep 2026 10:17:14 +0000</pubDate>
+    </item>
     <item>
       <title>Stockbit 2.2.0</title>
       <link>https://formulae.brew.sh/cask/stockbit</link>
