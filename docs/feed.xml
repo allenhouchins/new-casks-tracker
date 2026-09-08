@@ -4,7 +4,14 @@
     <title>New Homebrew Casks</title>
     <link>https://allenhouchins.github.io/new-casks-tracker/</link>
     <description>Newly added Homebrew casks, checked every 6 hours</description>
-    <lastBuildDate>Tue, 08 Sep 2026 10:17:14 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 08 Sep 2026 15:40:07 +0000</lastBuildDate>
+    <item>
+      <title>Audacity 3.7.9</title>
+      <link>https://formulae.brew.sh/cask/audacity@3</link>
+      <description>Multi-track audio editor and recorder — https://www.audacityteam.org/</description>
+      <guid isPermaLink="false">audacity@3@2026-09-08T15:40:07Z</guid>
+      <pubDate>Tue, 08 Sep 2026 15:40:07 +0000</pubDate>
+    </item>
     <item>
       <title>Pyeojin Gothic 1.3</title>
       <link>https://formulae.brew.sh/cask/font-pyeojin-gothic</link>

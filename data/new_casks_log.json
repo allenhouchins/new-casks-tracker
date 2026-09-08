@@ -469,5 +469,13 @@
     "homepage": "https://privacynotes.app/",
     "version": "0.505.1",
     "detected_at": "2026-09-08T10:17:14.802779649Z"
+  },
+  {
+    "token": "audacity@3",
+    "name": "Audacity",
+    "desc": "Multi-track audio editor and recorder",
+    "homepage": "https://www.audacityteam.org/",
+    "version": "3.7.9",
+    "detected_at": "2026-09-08T15:40:07.493710995Z"
   }
 ]
