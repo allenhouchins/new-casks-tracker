@@ -4,7 +4,14 @@
     <title>New Homebrew Casks</title>
     <link>https://allenhouchins.github.io/new-casks-tracker/</link>
     <description>Newly added Homebrew casks, checked every 6 hours</description>
-    <lastBuildDate>Tue, 08 Sep 2026 20:29:34 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 09 Sep 2026 02:09:49 +0000</lastBuildDate>
+    <item>
+      <title>Zentty 0.3.0</title>
+      <link>https://formulae.brew.sh/cask/zentty</link>
+      <description>Terminal for agent-driven development — https://zentty.org/</description>
+      <guid isPermaLink="false">zentty@2026-09-09T02:09:49Z</guid>
+      <pubDate>Wed, 09 Sep 2026 02:09:49 +0000</pubDate>
+    </item>
     <item>
       <title>Audacity 3.7.9</title>
       <link>https://formulae.brew.sh/cask/audacity@3</link>
