@@ -4,7 +4,14 @@
     <title>New Homebrew Casks</title>
     <link>https://allenhouchins.github.io/new-casks-tracker/</link>
     <description>Newly added Homebrew casks, checked every 6 hours</description>
-    <lastBuildDate>Wed, 09 Sep 2026 15:33:59 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 09 Sep 2026 20:11:58 +0000</lastBuildDate>
+    <item>
+      <title>Homebrew 0.3.0</title>
+      <link>https://formulae.brew.sh/cask/homebrew-app</link>
+      <description>Homebrew&#39;s official GUI — https://github.com/Homebrew/BrewUI</description>
+      <guid isPermaLink="false">homebrew-app@2026-09-09T20:11:58Z</guid>
+      <pubDate>Wed, 09 Sep 2026 20:11:58 +0000</pubDate>
+    </item>
     <item>
       <title>EasyMac Cleaner 1.3</title>
       <link>https://formulae.brew.sh/cask/easymac-cleaner</link>
