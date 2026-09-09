@@ -493,5 +493,21 @@
     "homepage": "https://getflick.dev/",
     "version": "1.0.0",
     "detected_at": "2026-09-09T10:24:01.909243504Z"
+  },
+  {
+    "token": "easymac-cleaner",
+    "name": "EasyMac Cleaner",
+    "desc": "Cleaning, privacy, and system optimisation utility",
+    "homepage": "https://martiancat.space/products/cleaner.html",
+    "version": "1.3",
+    "detected_at": "2026-09-09T15:33:59.705393538Z"
+  },
+  {
+    "token": "tabularis@nightly",
+    "name": "Tabularis Nightly",
+    "desc": "Lightweight database management tool",
+    "homepage": "https://tabularis.dev/",
+    "version": "0.22.1-3,20260904-d470693",
+    "detected_at": "2026-09-09T15:33:59.705393538Z"
   }
 ]

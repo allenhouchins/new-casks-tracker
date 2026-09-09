@@ -4,7 +4,21 @@
     <title>New Homebrew Casks</title>
     <link>https://allenhouchins.github.io/new-casks-tracker/</link>
     <description>Newly added Homebrew casks, checked every 6 hours</description>
-    <lastBuildDate>Wed, 09 Sep 2026 10:24:01 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 09 Sep 2026 15:33:59 +0000</lastBuildDate>
+    <item>
+      <title>EasyMac Cleaner 1.3</title>
+      <link>https://formulae.brew.sh/cask/easymac-cleaner</link>
+      <description>Cleaning, privacy, and system optimisation utility — https://martiancat.space/products/cleaner.html</description>
+      <guid isPermaLink="false">easymac-cleaner@2026-09-09T15:33:59Z</guid>
+      <pubDate>Wed, 09 Sep 2026 15:33:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>Tabularis Nightly 0.22.1-3,20260904-d470693</title>
+      <link>https://formulae.brew.sh/cask/tabularis@nightly</link>
+      <description>Lightweight database management tool — https://tabularis.dev/</description>
+      <guid isPermaLink="false">tabularis@nightly@2026-09-09T15:33:59Z</guid>
+      <pubDate>Wed, 09 Sep 2026 15:33:59 +0000</pubDate>
+    </item>
     <item>
       <title>Flick 1.0.0</title>
       <link>https://formulae.brew.sh/cask/flick</link>
