@@ -4,7 +4,14 @@
     <title>New Homebrew Casks</title>
     <link>https://allenhouchins.github.io/new-casks-tracker/</link>
     <description>Newly added Homebrew casks, checked every 6 hours</description>
-    <lastBuildDate>Wed, 09 Sep 2026 02:09:49 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 09 Sep 2026 10:24:01 +0000</lastBuildDate>
+    <item>
+      <title>Flick 1.0.0</title>
+      <link>https://formulae.brew.sh/cask/flick</link>
+      <description>Radial command wheel triggered by holding a key and flicking the mouse — https://getflick.dev/</description>
+      <guid isPermaLink="false">flick@2026-09-09T10:24:01Z</guid>
+      <pubDate>Wed, 09 Sep 2026 10:24:01 +0000</pubDate>
+    </item>
     <item>
       <title>Zentty 0.3.0</title>
       <link>https://formulae.brew.sh/cask/zentty</link>
