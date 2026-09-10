@@ -517,5 +517,13 @@
     "homepage": "https://github.com/Homebrew/BrewUI",
     "version": "0.3.0",
     "detected_at": "2026-09-09T20:11:58.566079507Z"
+  },
+  {
+    "token": "wsl-manager",
+    "name": "WSL Manager",
+    "desc": "Manage native Linux VMs and remote WSL distros",
+    "homepage": "https://wslmanager.com/",
+    "version": "2.0.2",
+    "detected_at": "2026-09-10T02:07:03.535559955Z"
   }
 ]
