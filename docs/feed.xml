@@ -4,7 +4,14 @@
     <title>New Homebrew Casks</title>
     <link>https://allenhouchins.github.io/new-casks-tracker/</link>
     <description>Newly added Homebrew casks, checked every 6 hours</description>
-    <lastBuildDate>Thu, 10 Sep 2026 02:07:03 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 10 Sep 2026 10:15:39 +0000</lastBuildDate>
+    <item>
+      <title>RealVNC Connect Viewer 8.5.0</title>
+      <link>https://formulae.brew.sh/cask/realvnc-connect-viewer</link>
+      <description>Remote desktop application focusing on security — https://www.realvnc.com/</description>
+      <guid isPermaLink="false">realvnc-connect-viewer@2026-09-10T10:15:39Z</guid>
+      <pubDate>Thu, 10 Sep 2026 10:15:39 +0000</pubDate>
+    </item>
     <item>
       <title>WSL Manager 2.0.2</title>
       <link>https://formulae.brew.sh/cask/wsl-manager</link>
