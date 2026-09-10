@@ -533,5 +533,13 @@
     "homepage": "https://www.realvnc.com/",
     "version": "8.5.0",
     "detected_at": "2026-09-10T10:15:39.623802336Z"
+  },
+  {
+    "token": "psysonic",
+    "name": "Psysonic",
+    "desc": "Desktop client for Navidrome and other Subsonic-compatible servers",
+    "homepage": "https://www.psysonic.de/",
+    "version": "1.52.0",
+    "detected_at": "2026-09-10T15:29:40.5156695Z"
   }
 ]

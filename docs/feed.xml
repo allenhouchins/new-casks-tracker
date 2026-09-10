@@ -4,7 +4,14 @@
     <title>New Homebrew Casks</title>
     <link>https://allenhouchins.github.io/new-casks-tracker/</link>
     <description>Newly added Homebrew casks, checked every 6 hours</description>
-    <lastBuildDate>Thu, 10 Sep 2026 10:15:39 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 10 Sep 2026 15:29:40 +0000</lastBuildDate>
+    <item>
+      <title>Psysonic 1.52.0</title>
+      <link>https://formulae.brew.sh/cask/psysonic</link>
+      <description>Desktop client for Navidrome and other Subsonic-compatible servers — https://www.psysonic.de/</description>
+      <guid isPermaLink="false">psysonic@2026-09-10T15:29:40Z</guid>
+      <pubDate>Thu, 10 Sep 2026 15:29:40 +0000</pubDate>
+    </item>
     <item>
       <title>RealVNC Connect Viewer 8.5.0</title>
       <link>https://formulae.brew.sh/cask/realvnc-connect-viewer</link>
