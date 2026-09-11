@@ -541,5 +541,44 @@
     "homepage": "https://www.psysonic.de/",
     "version": "1.52.0",
     "detected_at": "2026-09-10T15:29:40.5156695Z"
+  },
+  {
+    "token": "capsomnia",
+    "name": "Capsomnia",
+    "desc": "Utility that keeps your computer awake with the lid closed",
+    "homepage": "https://github.com/fuji-mak/Capsomnia/",
+    "version": "4.0.0",
+    "detected_at": "2026-09-11T15:31:32.925045499Z"
+  },
+  {
+    "token": "font-nebula-sans",
+    "name": "Nebula Sans",
+    "homepage": "https://www.nebulasans.com/",
+    "version": "1.010",
+    "detected_at": "2026-09-11T15:31:32.925045499Z"
+  },
+  {
+    "token": "ollama-binary",
+    "name": "Ollama",
+    "desc": "Get up and running with large language models locally",
+    "homepage": "https://ollama.com/",
+    "version": "0.34.0",
+    "detected_at": "2026-09-11T15:31:32.925045499Z"
+  },
+  {
+    "token": "workbuddy-ai",
+    "name": "WorkBuddy AI",
+    "desc": "AI agent for everyday office work",
+    "homepage": "https://www.workbuddy.ai/",
+    "version": "5.5.2.37849279-910352f0",
+    "detected_at": "2026-09-11T15:31:32.925045499Z"
+  },
+  {
+    "token": "workbuddy-cn",
+    "name": "WorkBuddy",
+    "desc": "AI agent for everyday office work",
+    "homepage": "https://www.workbuddy.cn/",
+    "version": "5.5.4.38151288-1ca4889a",
+    "detected_at": "2026-09-11T15:31:32.925045499Z"
   }
 ]

@@ -4,7 +4,42 @@
     <title>New Homebrew Casks</title>
     <link>https://allenhouchins.github.io/new-casks-tracker/</link>
     <description>Newly added Homebrew casks, checked every 6 hours</description>
-    <lastBuildDate>Fri, 11 Sep 2026 10:13:41 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 11 Sep 2026 15:31:32 +0000</lastBuildDate>
+    <item>
+      <title>Capsomnia 4.0.0</title>
+      <link>https://formulae.brew.sh/cask/capsomnia</link>
+      <description>Utility that keeps your computer awake with the lid closed — https://github.com/fuji-mak/Capsomnia/</description>
+      <guid isPermaLink="false">capsomnia@2026-09-11T15:31:32Z</guid>
+      <pubDate>Fri, 11 Sep 2026 15:31:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>Nebula Sans 1.010</title>
+      <link>https://formulae.brew.sh/cask/font-nebula-sans</link>
+      <description>— https://www.nebulasans.com/</description>
+      <guid isPermaLink="false">font-nebula-sans@2026-09-11T15:31:32Z</guid>
+      <pubDate>Fri, 11 Sep 2026 15:31:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ollama 0.34.0</title>
+      <link>https://formulae.brew.sh/cask/ollama-binary</link>
+      <description>Get up and running with large language models locally — https://ollama.com/</description>
+      <guid isPermaLink="false">ollama-binary@2026-09-11T15:31:32Z</guid>
+      <pubDate>Fri, 11 Sep 2026 15:31:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>WorkBuddy AI 5.5.2.37849279-910352f0</title>
+      <link>https://formulae.brew.sh/cask/workbuddy-ai</link>
+      <description>AI agent for everyday office work — https://www.workbuddy.ai/</description>
+      <guid isPermaLink="false">workbuddy-ai@2026-09-11T15:31:32Z</guid>
+      <pubDate>Fri, 11 Sep 2026 15:31:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>WorkBuddy 5.5.4.38151288-1ca4889a</title>
+      <link>https://formulae.brew.sh/cask/workbuddy-cn</link>
+      <description>AI agent for everyday office work — https://www.workbuddy.cn/</description>
+      <guid isPermaLink="false">workbuddy-cn@2026-09-11T15:31:32Z</guid>
+      <pubDate>Fri, 11 Sep 2026 15:31:32 +0000</pubDate>
+    </item>
     <item>
       <title>Psysonic 1.52.0</title>
       <link>https://formulae.brew.sh/cask/psysonic</link>
