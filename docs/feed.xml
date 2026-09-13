@@ -4,7 +4,21 @@
     <title>New Homebrew Casks</title>
     <link>https://allenhouchins.github.io/new-casks-tracker/</link>
     <description>Newly added Homebrew casks, checked every 6 hours</description>
-    <lastBuildDate>Sat, 12 Sep 2026 19:52:24 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 13 Sep 2026 02:05:46 +0000</lastBuildDate>
+    <item>
+      <title>Google Sans Flex latest</title>
+      <link>https://formulae.brew.sh/cask/font-google-sans-flex</link>
+      <description>— https://fonts.google.com/specimen/Google+Sans+Flex</description>
+      <guid isPermaLink="false">font-google-sans-flex@2026-09-13T02:05:46Z</guid>
+      <pubDate>Sun, 13 Sep 2026 02:05:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>Tiny5 Duo latest</title>
+      <link>https://formulae.brew.sh/cask/font-tiny5-duo</link>
+      <description>— https://github.com/Gissio/font_tiny5</description>
+      <guid isPermaLink="false">font-tiny5-duo@2026-09-13T02:05:46Z</guid>
+      <pubDate>Sun, 13 Sep 2026 02:05:46 +0000</pubDate>
+    </item>
     <item>
       <title>Capsomnia 4.0.0</title>
       <link>https://formulae.brew.sh/cask/capsomnia</link>

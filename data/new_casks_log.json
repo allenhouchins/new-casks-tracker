@@ -580,5 +580,19 @@
     "homepage": "https://www.workbuddy.cn/",
     "version": "5.5.4.38151288-1ca4889a",
     "detected_at": "2026-09-11T15:31:32.925045499Z"
+  },
+  {
+    "token": "font-google-sans-flex",
+    "name": "Google Sans Flex",
+    "homepage": "https://fonts.google.com/specimen/Google+Sans+Flex",
+    "version": "latest",
+    "detected_at": "2026-09-13T02:05:46.104528036Z"
+  },
+  {
+    "token": "font-tiny5-duo",
+    "name": "Tiny5 Duo",
+    "homepage": "https://github.com/Gissio/font_tiny5",
+    "version": "latest",
+    "detected_at": "2026-09-13T02:05:46.104528036Z"
   }
 ]
