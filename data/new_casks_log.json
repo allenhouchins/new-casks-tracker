@@ -602,5 +602,13 @@
     "homepage": "https://langdock.com/products/desktop",
     "version": "1.0.5",
     "detected_at": "2026-09-13T10:48:17.611707076Z"
+  },
+  {
+    "token": "nuphyio",
+    "name": "NuPhyIO",
+    "desc": "Keyboard configurator for NuPhy devices",
+    "homepage": "https://www.nuphyio.com/",
+    "version": "2.2.7,1788243270464",
+    "detected_at": "2026-09-13T20:00:37.475702186Z"
   }
 ]
