@@ -4,7 +4,35 @@
     <title>New Homebrew Casks</title>
     <link>https://allenhouchins.github.io/new-casks-tracker/</link>
     <description>Newly added Homebrew casks, checked every 6 hours</description>
-    <lastBuildDate>Tue, 15 Sep 2026 10:41:20 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 15:55:04 +0000</lastBuildDate>
+    <item>
+      <title>BitMuse 1.3.33</title>
+      <link>https://formulae.brew.sh/cask/bitmuse</link>
+      <description>Bit-perfect music player for local hi-res libraries — https://bitmuse.app/</description>
+      <guid isPermaLink="false">bitmuse@2026-09-15T15:55:04Z</guid>
+      <pubDate>Tue, 15 Sep 2026 15:55:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>Distill Web Monitor 4.1.1-beta</title>
+      <link>https://formulae.brew.sh/cask/distill-web-monitor</link>
+      <description>Monitor webpages for changes — https://distill.io/</description>
+      <guid isPermaLink="false">distill-web-monitor@2026-09-15T15:55:04Z</guid>
+      <pubDate>Tue, 15 Sep 2026 15:55:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>GitDifferent 2.1.0</title>
+      <link>https://formulae.brew.sh/cask/gitdifferent</link>
+      <description>Git client built around a three-way merge tool — https://vheissulabs.com/projects/gitdifferent</description>
+      <guid isPermaLink="false">gitdifferent@2026-09-15T15:55:04Z</guid>
+      <pubDate>Tue, 15 Sep 2026 15:55:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>NVIDIA Personal AI Router 0.1.1</title>
+      <link>https://formulae.brew.sh/cask/nvidia-pair</link>
+      <description>Local inference router for a group of compatible computers — https://github.com/NVIDIA/Personal-AI-Router</description>
+      <guid isPermaLink="false">nvidia-pair@2026-09-15T15:55:04Z</guid>
+      <pubDate>Tue, 15 Sep 2026 15:55:04 +0000</pubDate>
+    </item>
     <item>
       <title>Calyx 0.41.0</title>
       <link>https://formulae.brew.sh/cask/calyx</link>

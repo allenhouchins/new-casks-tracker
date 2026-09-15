@@ -666,5 +666,37 @@
     "homepage": "https://tungstenedge.app/",
     "version": "0.11.4",
     "detected_at": "2026-09-14T02:23:36.709498604Z"
+  },
+  {
+    "token": "bitmuse",
+    "name": "BitMuse",
+    "desc": "Bit-perfect music player for local hi-res libraries",
+    "homepage": "https://bitmuse.app/",
+    "version": "1.3.33",
+    "detected_at": "2026-09-15T15:55:04.215104763Z"
+  },
+  {
+    "token": "distill-web-monitor",
+    "name": "Distill Web Monitor",
+    "desc": "Monitor webpages for changes",
+    "homepage": "https://distill.io/",
+    "version": "4.1.1-beta",
+    "detected_at": "2026-09-15T15:55:04.215104763Z"
+  },
+  {
+    "token": "gitdifferent",
+    "name": "GitDifferent",
+    "desc": "Git client built around a three-way merge tool",
+    "homepage": "https://vheissulabs.com/projects/gitdifferent",
+    "version": "2.1.0",
+    "detected_at": "2026-09-15T15:55:04.215104763Z"
+  },
+  {
+    "token": "nvidia-pair",
+    "name": "NVIDIA Personal AI Router",
+    "desc": "Local inference router for a group of compatible computers",
+    "homepage": "https://github.com/NVIDIA/Personal-AI-Router",
+    "version": "0.1.1",
+    "detected_at": "2026-09-15T15:55:04.215104763Z"
   }
 ]
