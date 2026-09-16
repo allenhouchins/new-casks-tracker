@@ -4,7 +4,21 @@
     <title>New Homebrew Casks</title>
     <link>https://allenhouchins.github.io/new-casks-tracker/</link>
     <description>Newly added Homebrew casks, checked every 6 hours</description>
-    <lastBuildDate>Tue, 15 Sep 2026 20:39:10 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 02:22:50 +0000</lastBuildDate>
+    <item>
+      <title>KKTerm 3000.0.14</title>
+      <link>https://formulae.brew.sh/cask/kkterm</link>
+      <description>Local-first administration workspace for terminals, SSH, and SFTP — https://github.com/ryantsai/KKTerm</description>
+      <guid isPermaLink="false">kkterm@2026-09-16T02:22:50Z</guid>
+      <pubDate>Wed, 16 Sep 2026 02:22:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>Telegram for macOS 12.10,282985</title>
+      <link>https://formulae.brew.sh/cask/telegram@beta</link>
+      <description>Messaging app with a focus on speed and security — https://macos.telegram.org/</description>
+      <guid isPermaLink="false">telegram@beta@2026-09-16T02:22:50Z</guid>
+      <pubDate>Wed, 16 Sep 2026 02:22:50 +0000</pubDate>
+    </item>
     <item>
       <title>BitMuse 1.3.33</title>
       <link>https://formulae.brew.sh/cask/bitmuse</link>

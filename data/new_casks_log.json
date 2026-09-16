@@ -698,5 +698,21 @@
     "homepage": "https://github.com/NVIDIA/Personal-AI-Router",
     "version": "0.1.1",
     "detected_at": "2026-09-15T15:55:04.215104763Z"
+  },
+  {
+    "token": "kkterm",
+    "name": "KKTerm",
+    "desc": "Local-first administration workspace for terminals, SSH, and SFTP",
+    "homepage": "https://github.com/ryantsai/KKTerm",
+    "version": "3000.0.14",
+    "detected_at": "2026-09-16T02:22:50.0253657Z"
+  },
+  {
+    "token": "telegram@beta",
+    "name": "Telegram for macOS",
+    "desc": "Messaging app with a focus on speed and security",
+    "homepage": "https://macos.telegram.org/",
+    "version": "12.10,282985",
+    "detected_at": "2026-09-16T02:22:50.0253657Z"
   }
 ]
