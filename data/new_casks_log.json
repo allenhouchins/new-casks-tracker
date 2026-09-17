@@ -714,5 +714,61 @@
     "homepage": "https://macos.telegram.org/",
     "version": "12.10,282985",
     "detected_at": "2026-09-16T02:22:50.0253657Z"
+  },
+  {
+    "token": "agentiloop-agent",
+    "name": "Agent!",
+    "desc": "Autonomous agent",
+    "homepage": "https://github.com/AgentiLoop/Agent",
+    "version": "1.1.33.233",
+    "detected_at": "2026-09-17T02:26:50.771405009Z"
+  },
+  {
+    "token": "bettermacwidgets",
+    "name": "BetterMacWidgets",
+    "desc": "Live-animated widgets that sit on the desktop",
+    "homepage": "https://bettermacwidgets.de/",
+    "version": "2.3.0",
+    "detected_at": "2026-09-17T02:26:50.771405009Z"
+  },
+  {
+    "token": "hoptodesk",
+    "name": "HopToDesk",
+    "desc": "Remote desktop and remote support tool with end-to-end encryption",
+    "homepage": "https://www.hoptodesk.com/",
+    "version": "1.46.50",
+    "detected_at": "2026-09-17T02:26:50.771405009Z"
+  },
+  {
+    "token": "opendisk",
+    "name": "OpenDisk",
+    "desc": "Disk space analyser",
+    "homepage": "https://opendisk.app/",
+    "version": "1.2.0",
+    "detected_at": "2026-09-17T02:26:50.771405009Z"
+  },
+  {
+    "token": "sidex",
+    "name": "SideX",
+    "desc": "Code editor based on VS Code and Tauri",
+    "homepage": "https://github.com/Sidenai/sidex",
+    "version": "0.1.2",
+    "detected_at": "2026-09-17T02:26:50.771405009Z"
+  },
+  {
+    "token": "snapline",
+    "name": "Snapline",
+    "desc": "Screenshot, screen recording and GIF tool",
+    "homepage": "https://snap-line.app/",
+    "version": "2.36.0",
+    "detected_at": "2026-09-17T02:26:50.771405009Z"
+  },
+  {
+    "token": "telari",
+    "name": "Telari",
+    "desc": "Markdown reader built for typography",
+    "homepage": "https://telari.app/",
+    "version": "0.5.4",
+    "detected_at": "2026-09-17T02:26:50.771405009Z"
   }
 ]

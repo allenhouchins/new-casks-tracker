@@ -4,7 +4,56 @@
     <title>New Homebrew Casks</title>
     <link>https://allenhouchins.github.io/new-casks-tracker/</link>
     <description>Newly added Homebrew casks, checked every 6 hours</description>
-    <lastBuildDate>Wed, 16 Sep 2026 20:38:23 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 02:26:50 +0000</lastBuildDate>
+    <item>
+      <title>Agent! 1.1.33.233</title>
+      <link>https://formulae.brew.sh/cask/agentiloop-agent</link>
+      <description>Autonomous agent — https://github.com/AgentiLoop/Agent</description>
+      <guid isPermaLink="false">agentiloop-agent@2026-09-17T02:26:50Z</guid>
+      <pubDate>Thu, 17 Sep 2026 02:26:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>BetterMacWidgets 2.3.0</title>
+      <link>https://formulae.brew.sh/cask/bettermacwidgets</link>
+      <description>Live-animated widgets that sit on the desktop — https://bettermacwidgets.de/</description>
+      <guid isPermaLink="false">bettermacwidgets@2026-09-17T02:26:50Z</guid>
+      <pubDate>Thu, 17 Sep 2026 02:26:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>HopToDesk 1.46.50</title>
+      <link>https://formulae.brew.sh/cask/hoptodesk</link>
+      <description>Remote desktop and remote support tool with end-to-end encryption — https://www.hoptodesk.com/</description>
+      <guid isPermaLink="false">hoptodesk@2026-09-17T02:26:50Z</guid>
+      <pubDate>Thu, 17 Sep 2026 02:26:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>OpenDisk 1.2.0</title>
+      <link>https://formulae.brew.sh/cask/opendisk</link>
+      <description>Disk space analyser — https://opendisk.app/</description>
+      <guid isPermaLink="false">opendisk@2026-09-17T02:26:50Z</guid>
+      <pubDate>Thu, 17 Sep 2026 02:26:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>SideX 0.1.2</title>
+      <link>https://formulae.brew.sh/cask/sidex</link>
+      <description>Code editor based on VS Code and Tauri — https://github.com/Sidenai/sidex</description>
+      <guid isPermaLink="false">sidex@2026-09-17T02:26:50Z</guid>
+      <pubDate>Thu, 17 Sep 2026 02:26:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>Snapline 2.36.0</title>
+      <link>https://formulae.brew.sh/cask/snapline</link>
+      <description>Screenshot, screen recording and GIF tool — https://snap-line.app/</description>
+      <guid isPermaLink="false">snapline@2026-09-17T02:26:50Z</guid>
+      <pubDate>Thu, 17 Sep 2026 02:26:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>Telari 0.5.4</title>
+      <link>https://formulae.brew.sh/cask/telari</link>
+      <description>Markdown reader built for typography — https://telari.app/</description>
+      <guid isPermaLink="false">telari@2026-09-17T02:26:50Z</guid>
+      <pubDate>Thu, 17 Sep 2026 02:26:50 +0000</pubDate>
+    </item>
     <item>
       <title>KKTerm 3000.0.14</title>
       <link>https://formulae.brew.sh/cask/kkterm</link>
