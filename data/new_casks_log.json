@@ -770,5 +770,21 @@
     "homepage": "https://telari.app/",
     "version": "0.5.4",
     "detected_at": "2026-09-17T02:26:50.771405009Z"
+  },
+  {
+    "token": "kaku",
+    "name": "Kaku",
+    "desc": "Terminal optimised for AI coding",
+    "homepage": "https://github.com/tw93/Kaku",
+    "version": "0.20.0",
+    "detected_at": "2026-09-17T10:39:30.800684026Z"
+  },
+  {
+    "token": "saega",
+    "name": "Saega",
+    "desc": "Dictation app for Swedish and Norwegian",
+    "homepage": "https://saega.app/",
+    "version": "1.0.19",
+    "detected_at": "2026-09-17T10:39:30.800684026Z"
   }
 ]

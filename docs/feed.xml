@@ -4,7 +4,21 @@
     <title>New Homebrew Casks</title>
     <link>https://allenhouchins.github.io/new-casks-tracker/</link>
     <description>Newly added Homebrew casks, checked every 6 hours</description>
-    <lastBuildDate>Thu, 17 Sep 2026 02:26:50 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 10:39:30 +0000</lastBuildDate>
+    <item>
+      <title>Kaku 0.20.0</title>
+      <link>https://formulae.brew.sh/cask/kaku</link>
+      <description>Terminal optimised for AI coding — https://github.com/tw93/Kaku</description>
+      <guid isPermaLink="false">kaku@2026-09-17T10:39:30Z</guid>
+      <pubDate>Thu, 17 Sep 2026 10:39:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>Saega 1.0.19</title>
+      <link>https://formulae.brew.sh/cask/saega</link>
+      <description>Dictation app for Swedish and Norwegian — https://saega.app/</description>
+      <guid isPermaLink="false">saega@2026-09-17T10:39:30Z</guid>
+      <pubDate>Thu, 17 Sep 2026 10:39:30 +0000</pubDate>
+    </item>
     <item>
       <title>Agent! 1.1.33.233</title>
       <link>https://formulae.brew.sh/cask/agentiloop-agent</link>
