@@ -786,5 +786,13 @@
     "homepage": "https://saega.app/",
     "version": "1.0.19",
     "detected_at": "2026-09-17T10:39:30.800684026Z"
+  },
+  {
+    "token": "tapmap",
+    "name": "TapMap",
+    "desc": "Visualise network connections on an interactive world map",
+    "homepage": "https://tip.no/tapmap/",
+    "version": "1.14.1",
+    "detected_at": "2026-09-18T15:27:12.427082651Z"
   }
 ]
