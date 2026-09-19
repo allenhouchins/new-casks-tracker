@@ -4,7 +4,42 @@
     <title>New Homebrew Casks</title>
     <link>https://allenhouchins.github.io/new-casks-tracker/</link>
     <description>Newly added Homebrew casks, checked every 6 hours</description>
-    <lastBuildDate>Sat, 19 Sep 2026 02:15:28 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 19 Sep 2026 09:57:15 +0000</lastBuildDate>
+    <item>
+      <title>ColaMD 2.4.3</title>
+      <link>https://formulae.brew.sh/cask/colamd</link>
+      <description>Markdown editor — https://colamd.com/</description>
+      <guid isPermaLink="false">colamd@2026-09-19T09:57:15Z</guid>
+      <pubDate>Sat, 19 Sep 2026 09:57:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>INCY 3.8.6</title>
+      <link>https://formulae.brew.sh/cask/incy</link>
+      <description>Proxy client — https://incy.cc/</description>
+      <guid isPermaLink="false">incy@2026-09-19T09:57:15Z</guid>
+      <pubDate>Sat, 19 Sep 2026 09:57:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>Muse 2.0</title>
+      <link>https://formulae.brew.sh/cask/muse</link>
+      <description>AI assistant for managing tasks, projects, and long-term goals — https://muse.ai/</description>
+      <guid isPermaLink="false">muse@2026-09-19T09:57:15Z</guid>
+      <pubDate>Sat, 19 Sep 2026 09:57:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>OpenPLC Editor 4.3.0</title>
+      <link>https://formulae.brew.sh/cask/openplc-editor</link>
+      <description>IDE for creating programs for the OpenPLC Runtime — https://github.com/Autonomy-Logic/openplc-editor</description>
+      <guid isPermaLink="false">openplc-editor@2026-09-19T09:57:15Z</guid>
+      <pubDate>Sat, 19 Sep 2026 09:57:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>腾讯应用宝 0.8.1.2162,v86aPbKEPoXhM6CV</title>
+      <link>https://formulae.brew.sh/cask/tencent-yingyongbao</link>
+      <description>Tencent application store — https://sj.qq.com/download/macbrand</description>
+      <guid isPermaLink="false">tencent-yingyongbao@2026-09-19T09:57:15Z</guid>
+      <pubDate>Sat, 19 Sep 2026 09:57:15 +0000</pubDate>
+    </item>
     <item>
       <title>TapMap 1.14.1</title>
       <link>https://formulae.brew.sh/cask/tapmap</link>
@@ -669,41 +704,6 @@
       <description>Nostr client — https://github.com/vitorpamplona/amethyst</description>
       <guid isPermaLink="false">amethyst-nostr@2026-08-24T06:36:49Z</guid>
       <pubDate>Mon, 24 Aug 2026 06:36:49 +0000</pubDate>
-    </item>
-    <item>
-      <title>Anarlog 1.4.12</title>
-      <link>https://formulae.brew.sh/cask/anarlog</link>
-      <description>AI notepad for meetings — https://anarlog.so/</description>
-      <guid isPermaLink="false">anarlog@2026-08-24T06:36:49Z</guid>
-      <pubDate>Mon, 24 Aug 2026 06:36:49 +0000</pubDate>
-    </item>
-    <item>
-      <title>Android Performance Analyzer 0.9.0</title>
-      <link>https://formulae.brew.sh/cask/android-performance-analyzer</link>
-      <description>Toolchain for profiling apps and games — https://developer.android.com/android-performance-analyzer</description>
-      <guid isPermaLink="false">android-performance-analyzer@2026-08-24T06:36:49Z</guid>
-      <pubDate>Mon, 24 Aug 2026 06:36:49 +0000</pubDate>
-    </item>
-    <item>
-      <title>RiverScript 1.2.0</title>
-      <link>https://formulae.brew.sh/cask/riverscript</link>
-      <description>AI platform for recording and transcribing system audio from any app — https://riverscript.com/</description>
-      <guid isPermaLink="false">riverscript@2026-08-24T06:36:49Z</guid>
-      <pubDate>Mon, 24 Aug 2026 06:36:49 +0000</pubDate>
-    </item>
-    <item>
-      <title>Skills Manager 1.34.2</title>
-      <link>https://formulae.brew.sh/cask/skills-manager</link>
-      <description>Manage, sync, and organise AI agent skills across coding tools — https://github.com/xingkongliang/skills-manager</description>
-      <guid isPermaLink="false">skills-manager@2026-08-24T06:36:49Z</guid>
-      <pubDate>Mon, 24 Aug 2026 06:36:49 +0000</pubDate>
-    </item>
-    <item>
-      <title>Bramble 0.4.0</title>
-      <link>https://formulae.brew.sh/cask/bramble</link>
-      <description>Password manager — https://bramble.sh/</description>
-      <guid isPermaLink="false">bramble@2026-08-23T18:15:20Z</guid>
-      <pubDate>Sun, 23 Aug 2026 18:15:20 +0000</pubDate>
     </item>
   </channel>
 </rss>

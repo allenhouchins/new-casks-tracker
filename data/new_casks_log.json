@@ -794,5 +794,45 @@
     "homepage": "https://tip.no/tapmap/",
     "version": "1.14.1",
     "detected_at": "2026-09-18T15:27:12.427082651Z"
+  },
+  {
+    "token": "colamd",
+    "name": "ColaMD",
+    "desc": "Markdown editor",
+    "homepage": "https://colamd.com/",
+    "version": "2.4.3",
+    "detected_at": "2026-09-19T09:57:15.086846201Z"
+  },
+  {
+    "token": "incy",
+    "name": "INCY",
+    "desc": "Proxy client",
+    "homepage": "https://incy.cc/",
+    "version": "3.8.6",
+    "detected_at": "2026-09-19T09:57:15.086846201Z"
+  },
+  {
+    "token": "muse",
+    "name": "Muse",
+    "desc": "AI assistant for managing tasks, projects, and long-term goals",
+    "homepage": "https://muse.ai/",
+    "version": "2.0",
+    "detected_at": "2026-09-19T09:57:15.086846201Z"
+  },
+  {
+    "token": "openplc-editor",
+    "name": "OpenPLC Editor",
+    "desc": "IDE for creating programs for the OpenPLC Runtime",
+    "homepage": "https://github.com/Autonomy-Logic/openplc-editor",
+    "version": "4.3.0",
+    "detected_at": "2026-09-19T09:57:15.086846201Z"
+  },
+  {
+    "token": "tencent-yingyongbao",
+    "name": "腾讯应用宝",
+    "desc": "Tencent application store",
+    "homepage": "https://sj.qq.com/download/macbrand",
+    "version": "0.8.1.2162,v86aPbKEPoXhM6CV",
+    "detected_at": "2026-09-19T09:57:15.086846201Z"
   }
 ]
