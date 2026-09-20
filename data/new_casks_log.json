@@ -857,5 +857,13 @@
     "homepage": "https://reolink.com/software-and-manual/",
     "version": "8.21.12,2026.07,230926448887f151e9d6d10f",
     "detected_at": "2026-09-20T10:17:48.898900043Z"
+  },
+  {
+    "token": "ruswitcher",
+    "name": "RuSwitcher",
+    "desc": "Keyboard layout switcher",
+    "homepage": "https://github.com/rashn/RuSwitcher",
+    "version": "3.3.0",
+    "detected_at": "2026-09-20T15:06:00.134427989Z"
   }
 ]
