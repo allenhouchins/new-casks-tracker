@@ -4,7 +4,21 @@
     <title>New Homebrew Casks</title>
     <link>https://allenhouchins.github.io/new-casks-tracker/</link>
     <description>Newly added Homebrew casks, checked every 6 hours</description>
-    <lastBuildDate>Sun, 20 Sep 2026 02:23:52 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 20 Sep 2026 10:17:48 +0000</lastBuildDate>
+    <item>
+      <title>JLCONE 1.0.71</title>
+      <link>https://formulae.brew.sh/cask/jlcone</link>
+      <description>Desktop client for JLCPCB quoting, ordering and order tracking — https://jlcone.com/download</description>
+      <guid isPermaLink="false">jlcone@2026-09-20T10:17:48Z</guid>
+      <pubDate>Sun, 20 Sep 2026 10:17:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>Reolink Client 8.21.12,2026.07,230926448887f151e9d6d10f</title>
+      <link>https://formulae.brew.sh/cask/reolink</link>
+      <description>Client for viewing and managing security cameras and NVRs — https://reolink.com/software-and-manual/</description>
+      <guid isPermaLink="false">reolink@2026-09-20T10:17:48Z</guid>
+      <pubDate>Sun, 20 Sep 2026 10:17:48 +0000</pubDate>
+    </item>
     <item>
       <title>Google Sans latest</title>
       <link>https://formulae.brew.sh/cask/font-google-sans</link>
@@ -689,20 +703,6 @@
       <link>https://formulae.brew.sh/cask/atlas-app</link>
       <description>Source control for coding agents — https://github.com/pacifio/atlas</description>
       <guid isPermaLink="false">atlas-app@2026-08-24T18:25:40Z</guid>
-      <pubDate>Mon, 24 Aug 2026 18:25:40 +0000</pubDate>
-    </item>
-    <item>
-      <title>ThoughtDAG 0.3.28</title>
-      <link>https://formulae.brew.sh/cask/thoughtdag</link>
-      <description>Visual workspace for editable LLM context graphs — https://chenxiachan.github.io/thoughtdag/</description>
-      <guid isPermaLink="false">thoughtdag@2026-08-24T18:25:40Z</guid>
-      <pubDate>Mon, 24 Aug 2026 18:25:40 +0000</pubDate>
-    </item>
-    <item>
-      <title>TriggerFlo 2.0.23</title>
-      <link>https://formulae.brew.sh/cask/triggerflo</link>
-      <description>Focus timer and Kanban board for tracking tasks — https://triggerflo.app/</description>
-      <guid isPermaLink="false">triggerflo@2026-08-24T18:25:40Z</guid>
       <pubDate>Mon, 24 Aug 2026 18:25:40 +0000</pubDate>
     </item>
   </channel>

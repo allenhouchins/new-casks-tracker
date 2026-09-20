@@ -841,5 +841,21 @@
     "homepage": "https://fonts.google.com/specimen/Google+Sans",
     "version": "latest",
     "detected_at": "2026-09-20T02:23:52.422292727Z"
+  },
+  {
+    "token": "jlcone",
+    "name": "JLCONE",
+    "desc": "Desktop client for JLCPCB quoting, ordering and order tracking",
+    "homepage": "https://jlcone.com/download",
+    "version": "1.0.71",
+    "detected_at": "2026-09-20T10:17:48.898900043Z"
+  },
+  {
+    "token": "reolink",
+    "name": "Reolink Client",
+    "desc": "Client for viewing and managing security cameras and NVRs",
+    "homepage": "https://reolink.com/software-and-manual/",
+    "version": "8.21.12,2026.07,230926448887f151e9d6d10f",
+    "detected_at": "2026-09-20T10:17:48.898900043Z"
   }
 ]
