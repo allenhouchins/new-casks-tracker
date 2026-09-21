@@ -4,7 +4,21 @@
     <title>New Homebrew Casks</title>
     <link>https://allenhouchins.github.io/new-casks-tracker/</link>
     <description>Newly added Homebrew casks, checked every 6 hours</description>
-    <lastBuildDate>Sun, 20 Sep 2026 19:58:53 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 21 Sep 2026 02:22:30 +0000</lastBuildDate>
+    <item>
+      <title>Gloomberb 0.14.1</title>
+      <link>https://formulae.brew.sh/cask/gloomberb</link>
+      <description>Finance terminal — https://gloom.sh/</description>
+      <guid isPermaLink="false">gloomberb@2026-09-21T02:22:30Z</guid>
+      <pubDate>Mon, 21 Sep 2026 02:22:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>Recordly 1.4.0</title>
+      <link>https://formulae.brew.sh/cask/recordly</link>
+      <description>Creator-focused screen recorder with auto-zoom, cursor effects, and more — https://github.com/webadderallorg/Recordly</description>
+      <guid isPermaLink="false">recordly@2026-09-21T02:22:30Z</guid>
+      <pubDate>Mon, 21 Sep 2026 02:22:30 +0000</pubDate>
+    </item>
     <item>
       <title>RuSwitcher 3.3.0</title>
       <link>https://formulae.brew.sh/cask/ruswitcher</link>
@@ -690,20 +704,6 @@
       <description>Open-source download manager — https://motrix.app/</description>
       <guid isPermaLink="false">motrix@beta@2026-08-25T18:24:35Z</guid>
       <pubDate>Tue, 25 Aug 2026 18:24:35 +0000</pubDate>
-    </item>
-    <item>
-      <title>Paper Mono 0.300</title>
-      <link>https://formulae.brew.sh/cask/font-paper-mono</link>
-      <description>— https://github.com/paper-design/paper-mono</description>
-      <guid isPermaLink="false">font-paper-mono@2026-08-25T12:28:09Z</guid>
-      <pubDate>Tue, 25 Aug 2026 12:28:09 +0000</pubDate>
-    </item>
-    <item>
-      <title>Channel Works 12.0.6</title>
-      <link>https://formulae.brew.sh/cask/channel-works</link>
-      <description>AI Business OS for customer support, analytics, collaboration, and marketing — https://channel.io/</description>
-      <guid isPermaLink="false">channel-works@2026-08-25T06:28:30Z</guid>
-      <pubDate>Tue, 25 Aug 2026 06:28:30 +0000</pubDate>
     </item>
   </channel>
 </rss>

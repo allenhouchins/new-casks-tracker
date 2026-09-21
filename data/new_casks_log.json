@@ -865,5 +865,21 @@
     "homepage": "https://github.com/rashn/RuSwitcher",
     "version": "3.3.0",
     "detected_at": "2026-09-20T15:06:00.134427989Z"
+  },
+  {
+    "token": "gloomberb",
+    "name": "Gloomberb",
+    "desc": "Finance terminal",
+    "homepage": "https://gloom.sh/",
+    "version": "0.14.1",
+    "detected_at": "2026-09-21T02:22:30.876683626Z"
+  },
+  {
+    "token": "recordly",
+    "name": "Recordly",
+    "desc": "Creator-focused screen recorder with auto-zoom, cursor effects, and more",
+    "homepage": "https://github.com/webadderallorg/Recordly",
+    "version": "1.4.0",
+    "detected_at": "2026-09-21T02:22:30.876683626Z"
   }
 ]
