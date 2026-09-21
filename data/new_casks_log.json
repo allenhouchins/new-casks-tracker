@@ -881,5 +881,13 @@
     "homepage": "https://github.com/webadderallorg/Recordly",
     "version": "1.4.0",
     "detected_at": "2026-09-21T02:22:30.876683626Z"
+  },
+  {
+    "token": "yap-app",
+    "name": "Yap",
+    "desc": "On-device voice dictation",
+    "homepage": "https://frigade.com/yap",
+    "version": "0.1.12",
+    "detected_at": "2026-09-21T21:24:49.417041425Z"
   }
 ]
