@@ -889,5 +889,13 @@
     "homepage": "https://frigade.com/yap",
     "version": "0.1.12",
     "detected_at": "2026-09-21T21:24:49.417041425Z"
+  },
+  {
+    "token": "openclip",
+    "name": "OpenClip",
+    "desc": "Instant actions for selected text",
+    "homepage": "https://www.getopenclip.app/",
+    "version": "1.6.2",
+    "detected_at": "2026-09-22T20:39:29.311611813Z"
   }
 ]
