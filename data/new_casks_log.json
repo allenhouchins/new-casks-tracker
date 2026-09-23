@@ -897,5 +897,53 @@
     "homepage": "https://www.getopenclip.app/",
     "version": "1.6.2",
     "detected_at": "2026-09-22T20:39:29.311611813Z"
+  },
+  {
+    "token": "caldera-amp",
+    "name": "Caldera Amp",
+    "desc": "Headless player for Plex music servers",
+    "homepage": "https://caldera.homes/music/amp/",
+    "version": "1.1.1",
+    "detected_at": "2026-09-23T10:28:23.190574792Z"
+  },
+  {
+    "token": "cline-app",
+    "name": "Cline",
+    "desc": "AI coding agent",
+    "homepage": "https://cline.bot/",
+    "version": "0.0.34",
+    "detected_at": "2026-09-23T10:28:23.190574792Z"
+  },
+  {
+    "token": "deviceshelf",
+    "name": "DeviceShelf",
+    "desc": "Scanner for devices, open ports and security risks on the local network",
+    "homepage": "https://deviceshelf.app/",
+    "version": "1.9.53",
+    "detected_at": "2026-09-23T10:28:23.190574792Z"
+  },
+  {
+    "token": "highball",
+    "name": "Highball",
+    "desc": "Tool to run Windows games",
+    "homepage": "https://github.com/gauthierpiarrette/highball",
+    "version": "0.9.35",
+    "detected_at": "2026-09-23T10:28:23.190574792Z"
+  },
+  {
+    "token": "hol-guard",
+    "name": "HOL Guard",
+    "desc": "Local-first runtime firewall for AI coding agents",
+    "homepage": "https://hol.org/guard",
+    "version": "3.0.97",
+    "detected_at": "2026-09-23T10:28:23.190574792Z"
+  },
+  {
+    "token": "look",
+    "name": "Look",
+    "desc": "Keyboard-first local launcher",
+    "homepage": "https://github.com/kunkka19xx/look",
+    "version": "0.7.1",
+    "detected_at": "2026-09-23T10:28:23.190574792Z"
   }
 ]

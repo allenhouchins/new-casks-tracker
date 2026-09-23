@@ -4,7 +4,49 @@
     <title>New Homebrew Casks</title>
     <link>https://allenhouchins.github.io/new-casks-tracker/</link>
     <description>Newly added Homebrew casks, checked every 6 hours</description>
-    <lastBuildDate>Wed, 23 Sep 2026 02:26:22 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 23 Sep 2026 10:28:23 +0000</lastBuildDate>
+    <item>
+      <title>Caldera Amp 1.1.1</title>
+      <link>https://formulae.brew.sh/cask/caldera-amp</link>
+      <description>Headless player for Plex music servers — https://caldera.homes/music/amp/</description>
+      <guid isPermaLink="false">caldera-amp@2026-09-23T10:28:23Z</guid>
+      <pubDate>Wed, 23 Sep 2026 10:28:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>Cline 0.0.34</title>
+      <link>https://formulae.brew.sh/cask/cline-app</link>
+      <description>AI coding agent — https://cline.bot/</description>
+      <guid isPermaLink="false">cline-app@2026-09-23T10:28:23Z</guid>
+      <pubDate>Wed, 23 Sep 2026 10:28:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>DeviceShelf 1.9.53</title>
+      <link>https://formulae.brew.sh/cask/deviceshelf</link>
+      <description>Scanner for devices, open ports and security risks on the local network — https://deviceshelf.app/</description>
+      <guid isPermaLink="false">deviceshelf@2026-09-23T10:28:23Z</guid>
+      <pubDate>Wed, 23 Sep 2026 10:28:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>Highball 0.9.35</title>
+      <link>https://formulae.brew.sh/cask/highball</link>
+      <description>Tool to run Windows games — https://github.com/gauthierpiarrette/highball</description>
+      <guid isPermaLink="false">highball@2026-09-23T10:28:23Z</guid>
+      <pubDate>Wed, 23 Sep 2026 10:28:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>HOL Guard 3.0.97</title>
+      <link>https://formulae.brew.sh/cask/hol-guard</link>
+      <description>Local-first runtime firewall for AI coding agents — https://hol.org/guard</description>
+      <guid isPermaLink="false">hol-guard@2026-09-23T10:28:23Z</guid>
+      <pubDate>Wed, 23 Sep 2026 10:28:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>Look 0.7.1</title>
+      <link>https://formulae.brew.sh/cask/look</link>
+      <description>Keyboard-first local launcher — https://github.com/kunkka19xx/look</description>
+      <guid isPermaLink="false">look@2026-09-23T10:28:23Z</guid>
+      <pubDate>Wed, 23 Sep 2026 10:28:23 +0000</pubDate>
+    </item>
     <item>
       <title>OpenClip 1.6.2</title>
       <link>https://formulae.brew.sh/cask/openclip</link>
@@ -662,48 +704,6 @@
       <description>Menu bar display manager: DDC brightness, HiDPI, presets, virtual displays — https://crispmac.app/</description>
       <guid isPermaLink="false">crisp@2026-08-27T17:05:42Z</guid>
       <pubDate>Thu, 27 Aug 2026 17:05:42 +0000</pubDate>
-    </item>
-    <item>
-      <title>Davit 0.1.24</title>
-      <link>https://formulae.brew.sh/cask/davit</link>
-      <description>GUI for Apple&#39;s container CLI — https://davit.app/</description>
-      <guid isPermaLink="false">davit@2026-08-27T05:46:52Z</guid>
-      <pubDate>Thu, 27 Aug 2026 05:46:52 +0000</pubDate>
-    </item>
-    <item>
-      <title>像素蛋糕 9.3.1-23</title>
-      <link>https://formulae.brew.sh/cask/pixcake</link>
-      <description>AI photo editing software for commercial photography — https://www.pixcakeai.com/</description>
-      <guid isPermaLink="false">pixcake@2026-08-27T05:46:52Z</guid>
-      <pubDate>Thu, 27 Aug 2026 05:46:52 +0000</pubDate>
-    </item>
-    <item>
-      <title>Unsloth Desktop 0.1.803-beta</title>
-      <link>https://formulae.brew.sh/cask/unsloth</link>
-      <description>Desktop application for Unsloth Studio — https://unsloth.ai/</description>
-      <guid isPermaLink="false">unsloth@2026-08-27T05:46:52Z</guid>
-      <pubDate>Thu, 27 Aug 2026 05:46:52 +0000</pubDate>
-    </item>
-    <item>
-      <title>Bifrost 2.1.4</title>
-      <link>https://formulae.brew.sh/cask/bifrost</link>
-      <description>Samsung firmware downloader — https://bifrost.zwander.dev/</description>
-      <guid isPermaLink="false">bifrost@2026-08-26T00:42:11Z</guid>
-      <pubDate>Wed, 26 Aug 2026 00:42:11 +0000</pubDate>
-    </item>
-    <item>
-      <title>Keychron Assistant 1.1.5</title>
-      <link>https://formulae.brew.sh/cask/keychron-assistant</link>
-      <description>Companion app for Keychron Launcher&#39;s Quick Start feature — https://www.keychron.com/blogs/news/how-to-download-and-install-keychron-assist</description>
-      <guid isPermaLink="false">keychron-assistant@2026-08-26T00:42:11Z</guid>
-      <pubDate>Wed, 26 Aug 2026 00:42:11 +0000</pubDate>
-    </item>
-    <item>
-      <title>LeiGod 1.1.4</title>
-      <link>https://formulae.brew.sh/cask/leigod</link>
-      <description>Game network accelerator — https://www.leigod.com/</description>
-      <guid isPermaLink="false">leigod@2026-08-26T00:42:11Z</guid>
-      <pubDate>Wed, 26 Aug 2026 00:42:11 +0000</pubDate>
     </item>
   </channel>
 </rss>
