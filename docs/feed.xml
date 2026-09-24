@@ -4,7 +4,14 @@
     <title>New Homebrew Casks</title>
     <link>https://allenhouchins.github.io/new-casks-tracker/</link>
     <description>Newly added Homebrew casks, checked every 6 hours</description>
-    <lastBuildDate>Thu, 24 Sep 2026 10:45:09 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 24 Sep 2026 16:08:26 +0000</lastBuildDate>
+    <item>
+      <title>BuhoLaunchpad 1.10.2</title>
+      <link>https://formulae.brew.sh/cask/buholaunchpad</link>
+      <description>Launchpad alternative — https://www.drbuho.com/buholaunchpad</description>
+      <guid isPermaLink="false">buholaunchpad@2026-09-24T16:08:26Z</guid>
+      <pubDate>Thu, 24 Sep 2026 16:08:26 +0000</pubDate>
+    </item>
     <item>
       <title>SSL 360 2.1.12.72214</title>
       <link>https://formulae.brew.sh/cask/ssl-360</link>
@@ -697,13 +704,6 @@
       <description>Classic After Dark screen savers emulator — https://morphing.cloud/afterglow/</description>
       <guid isPermaLink="false">afterglow@2026-08-29T01:19:13Z</guid>
       <pubDate>Sat, 29 Aug 2026 01:19:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>Arm Performix 2026.3.2</title>
-      <link>https://formulae.brew.sh/cask/arm-performix</link>
-      <description>Performance analysis toolkit for Arm server and cloud environments — https://developer.arm.com/servers-and-cloud-computing/arm-performix</description>
-      <guid isPermaLink="false">arm-performix@2026-08-28T17:53:31Z</guid>
-      <pubDate>Fri, 28 Aug 2026 17:53:31 +0000</pubDate>
     </item>
   </channel>
 </rss>
