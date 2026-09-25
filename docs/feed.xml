@@ -4,7 +4,14 @@
     <title>New Homebrew Casks</title>
     <link>https://allenhouchins.github.io/new-casks-tracker/</link>
     <description>Newly added Homebrew casks, checked every 6 hours</description>
-    <lastBuildDate>Thu, 24 Sep 2026 20:56:18 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 25 Sep 2026 02:31:26 +0000</lastBuildDate>
+    <item>
+      <title>MindRoom 2026.9.280</title>
+      <link>https://formulae.brew.sh/cask/mindroom</link>
+      <description>Self-hostable AI stack for multi-user, multi-agent workflows on Matrix — https://github.com/mindroom-ai/mindroom</description>
+      <guid isPermaLink="false">mindroom@2026-09-25T02:31:26Z</guid>
+      <pubDate>Fri, 25 Sep 2026 02:31:26 +0000</pubDate>
+    </item>
     <item>
       <title>BuhoLaunchpad 1.10.2</title>
       <link>https://formulae.brew.sh/cask/buholaunchpad</link>
@@ -697,13 +704,6 @@
       <description>Drag and drop file shelf — https://getdroppy.app/</description>
       <guid isPermaLink="false">droppy@2026-08-29T11:58:18Z</guid>
       <pubDate>Sat, 29 Aug 2026 11:58:18 +0000</pubDate>
-    </item>
-    <item>
-      <title>Afterglow 1.0</title>
-      <link>https://formulae.brew.sh/cask/afterglow</link>
-      <description>Classic After Dark screen savers emulator — https://morphing.cloud/afterglow/</description>
-      <guid isPermaLink="false">afterglow@2026-08-29T01:19:13Z</guid>
-      <pubDate>Sat, 29 Aug 2026 01:19:13 +0000</pubDate>
     </item>
   </channel>
 </rss>

@@ -961,5 +961,13 @@
     "homepage": "https://www.drbuho.com/buholaunchpad",
     "version": "1.10.2",
     "detected_at": "2026-09-24T16:08:26.807257118Z"
+  },
+  {
+    "token": "mindroom",
+    "name": "MindRoom",
+    "desc": "Self-hostable AI stack for multi-user, multi-agent workflows on Matrix",
+    "homepage": "https://github.com/mindroom-ai/mindroom",
+    "version": "2026.9.280",
+    "detected_at": "2026-09-25T02:31:26.73094021Z"
   }
 ]
