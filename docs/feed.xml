@@ -4,7 +4,35 @@
     <title>New Homebrew Casks</title>
     <link>https://allenhouchins.github.io/new-casks-tracker/</link>
     <description>Newly added Homebrew casks, checked every 6 hours</description>
-    <lastBuildDate>Fri, 25 Sep 2026 02:31:26 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 25 Sep 2026 10:49:38 +0000</lastBuildDate>
+    <item>
+      <title>ActivityWatch 0.14.0b8</title>
+      <link>https://formulae.brew.sh/cask/activitywatch@experimental</link>
+      <description>Time tracker — https://activitywatch.net/</description>
+      <guid isPermaLink="false">activitywatch@experimental@2026-09-25T10:49:38Z</guid>
+      <pubDate>Fri, 25 Sep 2026 10:49:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>Amp 1.0,540</title>
+      <link>https://formulae.brew.sh/cask/amp-app</link>
+      <description>Coding agent and development environment — https://ampcode.com/app</description>
+      <guid isPermaLink="false">amp-app@2026-09-25T10:49:38Z</guid>
+      <pubDate>Fri, 25 Sep 2026 10:49:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>Pennstander 0.4.1</title>
+      <link>https://formulae.brew.sh/cask/font-pennstander</link>
+      <description>— https://github.com/juliusross1/Pennstander</description>
+      <guid isPermaLink="false">font-pennstander@2026-09-25T10:49:38Z</guid>
+      <pubDate>Fri, 25 Sep 2026 10:49:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>Compositor 1.2.11</title>
+      <link>https://formulae.brew.sh/cask/robbietilton-compositor</link>
+      <description>Photoshop alternative — https://github.com/robbietilton/Compositor</description>
+      <guid isPermaLink="false">robbietilton-compositor@2026-09-25T10:49:38Z</guid>
+      <pubDate>Fri, 25 Sep 2026 10:49:38 +0000</pubDate>
+    </item>
     <item>
       <title>MindRoom 2026.9.280</title>
       <link>https://formulae.brew.sh/cask/mindroom</link>
@@ -676,34 +704,6 @@
       <description>Monitor token usage, costs, and limits across AI coding tools — https://javis-ai.com/token-monitor/</description>
       <guid isPermaLink="false">token-monitor@2026-08-31T12:09:42Z</guid>
       <pubDate>Mon, 31 Aug 2026 12:09:42 +0000</pubDate>
-    </item>
-    <item>
-      <title>SJMCL 1.2.0</title>
-      <link>https://formulae.brew.sh/cask/sjmcl</link>
-      <description>Minecraft launcher built with the community — https://mc.sjtu.cn/sjmcl/</description>
-      <guid isPermaLink="false">sjmcl@2026-08-30T20:17:51Z</guid>
-      <pubDate>Sun, 30 Aug 2026 20:17:51 +0000</pubDate>
-    </item>
-    <item>
-      <title>Universal Control 5.1.1.113315,10153</title>
-      <link>https://formulae.brew.sh/cask/fender-universal-control</link>
-      <description>Fender software control interface — https://www.presonus.com/pages/universal-control</description>
-      <guid isPermaLink="false">fender-universal-control@2026-08-30T15:43:07Z</guid>
-      <pubDate>Sun, 30 Aug 2026 15:43:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>TCP Viewer 1.12.0,36</title>
-      <link>https://formulae.brew.sh/cask/tcp-viewer</link>
-      <description>Packet capture and inspection tool — https://tcpviewer.proxyman.com/</description>
-      <guid isPermaLink="false">tcp-viewer@2026-08-29T16:13:55Z</guid>
-      <pubDate>Sat, 29 Aug 2026 16:13:55 +0000</pubDate>
-    </item>
-    <item>
-      <title>Droppy 14.2.0</title>
-      <link>https://formulae.brew.sh/cask/droppy</link>
-      <description>Drag and drop file shelf — https://getdroppy.app/</description>
-      <guid isPermaLink="false">droppy@2026-08-29T11:58:18Z</guid>
-      <pubDate>Sat, 29 Aug 2026 11:58:18 +0000</pubDate>
     </item>
   </channel>
 </rss>

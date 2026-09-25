@@ -969,5 +969,36 @@
     "homepage": "https://github.com/mindroom-ai/mindroom",
     "version": "2026.9.280",
     "detected_at": "2026-09-25T02:31:26.73094021Z"
+  },
+  {
+    "token": "activitywatch@experimental",
+    "name": "ActivityWatch",
+    "desc": "Time tracker",
+    "homepage": "https://activitywatch.net/",
+    "version": "0.14.0b8",
+    "detected_at": "2026-09-25T10:49:38.762722123Z"
+  },
+  {
+    "token": "amp-app",
+    "name": "Amp",
+    "desc": "Coding agent and development environment",
+    "homepage": "https://ampcode.com/app",
+    "version": "1.0,540",
+    "detected_at": "2026-09-25T10:49:38.762722123Z"
+  },
+  {
+    "token": "font-pennstander",
+    "name": "Pennstander",
+    "homepage": "https://github.com/juliusross1/Pennstander",
+    "version": "0.4.1",
+    "detected_at": "2026-09-25T10:49:38.762722123Z"
+  },
+  {
+    "token": "robbietilton-compositor",
+    "name": "Compositor",
+    "desc": "Photoshop alternative",
+    "homepage": "https://github.com/robbietilton/Compositor",
+    "version": "1.2.11",
+    "detected_at": "2026-09-25T10:49:38.762722123Z"
   }
 ]
