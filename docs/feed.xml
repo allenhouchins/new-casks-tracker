@@ -4,7 +4,14 @@
     <title>New Homebrew Casks</title>
     <link>https://allenhouchins.github.io/new-casks-tracker/</link>
     <description>Newly added Homebrew casks, checked every 6 hours</description>
-    <lastBuildDate>Fri, 25 Sep 2026 20:52:35 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 26 Sep 2026 02:34:13 +0000</lastBuildDate>
+    <item>
+      <title>Local Studio 2.16.0</title>
+      <link>https://formulae.brew.sh/cask/local-studio</link>
+      <description>Local workstation for running and managing language models — https://localstudio.ai/</description>
+      <guid isPermaLink="false">local-studio@2026-09-26T02:34:13Z</guid>
+      <pubDate>Sat, 26 Sep 2026 02:34:13 +0000</pubDate>
+    </item>
     <item>
       <title>ActivityWatch 0.14.0b8</title>
       <link>https://formulae.brew.sh/cask/activitywatch@experimental</link>
@@ -696,13 +703,6 @@
       <link>https://formulae.brew.sh/cask/tabularis</link>
       <description>Lightweight database management tool — https://tabularis.dev/</description>
       <guid isPermaLink="false">tabularis@2026-08-31T12:09:42Z</guid>
-      <pubDate>Mon, 31 Aug 2026 12:09:42 +0000</pubDate>
-    </item>
-    <item>
-      <title>Token Monitor 0.50.0</title>
-      <link>https://formulae.brew.sh/cask/token-monitor</link>
-      <description>Monitor token usage, costs, and limits across AI coding tools — https://javis-ai.com/token-monitor/</description>
-      <guid isPermaLink="false">token-monitor@2026-08-31T12:09:42Z</guid>
       <pubDate>Mon, 31 Aug 2026 12:09:42 +0000</pubDate>
     </item>
   </channel>

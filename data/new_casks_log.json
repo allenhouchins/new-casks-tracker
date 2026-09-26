@@ -1000,5 +1000,13 @@
     "homepage": "https://github.com/robbietilton/Compositor",
     "version": "1.2.11",
     "detected_at": "2026-09-25T10:49:38.762722123Z"
+  },
+  {
+    "token": "local-studio",
+    "name": "Local Studio",
+    "desc": "Local workstation for running and managing language models",
+    "homepage": "https://localstudio.ai/",
+    "version": "2.16.0",
+    "detected_at": "2026-09-26T02:34:13.214227293Z"
   }
 ]
