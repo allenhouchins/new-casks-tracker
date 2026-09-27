@@ -4,7 +4,14 @@
     <title>New Homebrew Casks</title>
     <link>https://allenhouchins.github.io/new-casks-tracker/</link>
     <description>Newly added Homebrew casks, checked every 6 hours</description>
-    <lastBuildDate>Sat, 26 Sep 2026 20:22:26 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 27 Sep 2026 02:32:15 +0000</lastBuildDate>
+    <item>
+      <title>Xmind latest</title>
+      <link>https://formulae.brew.sh/cask/font-xmind</link>
+      <description>— https://github.com/lamzhonghang/xmind</description>
+      <guid isPermaLink="false">font-xmind@2026-09-27T02:32:15Z</guid>
+      <pubDate>Sun, 27 Sep 2026 02:32:15 +0000</pubDate>
+    </item>
     <item>
       <title>SSL Download Manager 1.6.10</title>
       <link>https://formulae.brew.sh/cask/ssl-download-manager</link>
@@ -696,13 +703,6 @@
       <link>https://formulae.brew.sh/cask/markviewer</link>
       <description>Minimal markdown editor — https://markviewer.com/</description>
       <guid isPermaLink="false">markviewer@2026-08-31T12:09:42Z</guid>
-      <pubDate>Mon, 31 Aug 2026 12:09:42 +0000</pubDate>
-    </item>
-    <item>
-      <title>Quark Cloud Drive 7.0.6.771,3120899</title>
-      <link>https://formulae.brew.sh/cask/quarkclouddrive</link>
-      <description>Cloud storage and file management platform — https://pan.quark.cn/</description>
-      <guid isPermaLink="false">quarkclouddrive@2026-08-31T12:09:42Z</guid>
       <pubDate>Mon, 31 Aug 2026 12:09:42 +0000</pubDate>
     </item>
   </channel>
