@@ -1023,5 +1023,21 @@
     "homepage": "https://github.com/lamzhonghang/xmind",
     "version": "latest",
     "detected_at": "2026-09-27T02:32:15.71252956Z"
+  },
+  {
+    "token": "jpki",
+    "name": "JPKI User Client Software",
+    "desc": "Digital signature and authentication client for the My Number Card (JPKI)",
+    "homepage": "https://www.jpki.go.jp/",
+    "version": "3.9,01-01",
+    "detected_at": "2026-09-27T11:02:07.060420289Z"
+  },
+  {
+    "token": "unity-version-control",
+    "name": "Unity Version Control",
+    "desc": "Version control and source code management tool",
+    "homepage": "https://docs.unity.com/en-us/unity-version-control",
+    "version": "11.0.16.10371",
+    "detected_at": "2026-09-27T11:02:07.060420289Z"
   }
 ]

@@ -4,7 +4,21 @@
     <title>New Homebrew Casks</title>
     <link>https://allenhouchins.github.io/new-casks-tracker/</link>
     <description>Newly added Homebrew casks, checked every 6 hours</description>
-    <lastBuildDate>Sun, 27 Sep 2026 02:32:15 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 27 Sep 2026 11:02:07 +0000</lastBuildDate>
+    <item>
+      <title>JPKI User Client Software 3.9,01-01</title>
+      <link>https://formulae.brew.sh/cask/jpki</link>
+      <description>Digital signature and authentication client for the My Number Card (JPKI) — https://www.jpki.go.jp/</description>
+      <guid isPermaLink="false">jpki@2026-09-27T11:02:07Z</guid>
+      <pubDate>Sun, 27 Sep 2026 11:02:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>Unity Version Control 11.0.16.10371</title>
+      <link>https://formulae.brew.sh/cask/unity-version-control</link>
+      <description>Version control and source code management tool — https://docs.unity.com/en-us/unity-version-control</description>
+      <guid isPermaLink="false">unity-version-control@2026-09-27T11:02:07Z</guid>
+      <pubDate>Sun, 27 Sep 2026 11:02:07 +0000</pubDate>
+    </item>
     <item>
       <title>Xmind latest</title>
       <link>https://formulae.brew.sh/cask/font-xmind</link>
@@ -690,20 +704,6 @@
       <description>— https://github.com/lamzhonghang/nevermind</description>
       <guid isPermaLink="false">font-nevermind@2026-08-31T22:11:39Z</guid>
       <pubDate>Mon, 31 Aug 2026 22:11:39 +0000</pubDate>
-    </item>
-    <item>
-      <title>Valley Sans latest</title>
-      <link>https://formulae.brew.sh/cask/font-valley-sans</link>
-      <description>— https://fonts.google.com/specimen/Valley+Sans</description>
-      <guid isPermaLink="false">font-valley-sans@2026-08-31T22:11:39Z</guid>
-      <pubDate>Mon, 31 Aug 2026 22:11:39 +0000</pubDate>
-    </item>
-    <item>
-      <title>MarkViewer 1.8.4</title>
-      <link>https://formulae.brew.sh/cask/markviewer</link>
-      <description>Minimal markdown editor — https://markviewer.com/</description>
-      <guid isPermaLink="false">markviewer@2026-08-31T12:09:42Z</guid>
-      <pubDate>Mon, 31 Aug 2026 12:09:42 +0000</pubDate>
     </item>
   </channel>
 </rss>
