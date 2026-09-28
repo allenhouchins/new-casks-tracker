@@ -4,7 +4,14 @@
     <title>New Homebrew Casks</title>
     <link>https://allenhouchins.github.io/new-casks-tracker/</link>
     <description>Newly added Homebrew casks, checked every 6 hours</description>
-    <lastBuildDate>Mon, 28 Sep 2026 12:22:08 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 28 Sep 2026 22:45:29 +0000</lastBuildDate>
+    <item>
+      <title>Pally Companion 0.1.53,276.1</title>
+      <link>https://formulae.brew.sh/cask/pallycompanion</link>
+      <description>AI personal assistant you text — https://pally.com/</description>
+      <guid isPermaLink="false">pallycompanion@2026-09-28T22:45:29Z</guid>
+      <pubDate>Mon, 28 Sep 2026 22:45:29 +0000</pubDate>
+    </item>
     <item>
       <title>MDHero 0.2.10</title>
       <link>https://formulae.brew.sh/cask/mdhero</link>
@@ -697,13 +704,6 @@
       <description>Dock replacement with widgets, profiles and window previews — https://pro.dockdoor.net/</description>
       <guid isPermaLink="false">dockdoor-pro@2026-09-02T15:37:42Z</guid>
       <pubDate>Wed, 02 Sep 2026 15:37:42 +0000</pubDate>
-    </item>
-    <item>
-      <title>Waku 0.1.16</title>
-      <link>https://formulae.brew.sh/cask/waku</link>
-      <description>Native desktop app for coding agents — https://waku.sh/</description>
-      <guid isPermaLink="false">waku@2026-09-01T15:45:55Z</guid>
-      <pubDate>Tue, 01 Sep 2026 15:45:55 +0000</pubDate>
     </item>
   </channel>
 </rss>
