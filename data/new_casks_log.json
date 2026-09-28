@@ -1039,5 +1039,21 @@
     "homepage": "https://docs.unity.com/en-us/unity-version-control",
     "version": "11.0.16.10371",
     "detected_at": "2026-09-27T11:02:07.060420289Z"
+  },
+  {
+    "token": "mdhero",
+    "name": "MDHero",
+    "desc": "Markdown viewer and editor",
+    "homepage": "https://mdhero.app/",
+    "version": "0.2.10",
+    "detected_at": "2026-09-28T02:35:54.746958426Z"
+  },
+  {
+    "token": "plane",
+    "name": "Plane",
+    "desc": "Project management tool for tasks, sprints and docs",
+    "homepage": "https://plane.so/",
+    "version": "3.0.1,260806s32btpf34",
+    "detected_at": "2026-09-28T02:35:54.746958426Z"
   }
 ]

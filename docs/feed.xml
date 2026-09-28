@@ -4,7 +4,21 @@
     <title>New Homebrew Casks</title>
     <link>https://allenhouchins.github.io/new-casks-tracker/</link>
     <description>Newly added Homebrew casks, checked every 6 hours</description>
-    <lastBuildDate>Sun, 27 Sep 2026 20:36:32 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 28 Sep 2026 02:35:54 +0000</lastBuildDate>
+    <item>
+      <title>MDHero 0.2.10</title>
+      <link>https://formulae.brew.sh/cask/mdhero</link>
+      <description>Markdown viewer and editor — https://mdhero.app/</description>
+      <guid isPermaLink="false">mdhero@2026-09-28T02:35:54Z</guid>
+      <pubDate>Mon, 28 Sep 2026 02:35:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>Plane 3.0.1,260806s32btpf34</title>
+      <link>https://formulae.brew.sh/cask/plane</link>
+      <description>Project management tool for tasks, sprints and docs — https://plane.so/</description>
+      <guid isPermaLink="false">plane@2026-09-28T02:35:54Z</guid>
+      <pubDate>Mon, 28 Sep 2026 02:35:54 +0000</pubDate>
+    </item>
     <item>
       <title>JPKI User Client Software 3.9,01-01</title>
       <link>https://formulae.brew.sh/cask/jpki</link>
@@ -690,20 +704,6 @@
       <description>Native desktop app for coding agents — https://waku.sh/</description>
       <guid isPermaLink="false">waku@2026-09-01T15:45:55Z</guid>
       <pubDate>Tue, 01 Sep 2026 15:45:55 +0000</pubDate>
-    </item>
-    <item>
-      <title>Asap Sharp latest</title>
-      <link>https://formulae.brew.sh/cask/font-asap-sharp</link>
-      <description>— https://fonts.google.com/specimen/Asap+Sharp</description>
-      <guid isPermaLink="false">font-asap-sharp@2026-08-31T22:11:39Z</guid>
-      <pubDate>Mon, 31 Aug 2026 22:11:39 +0000</pubDate>
-    </item>
-    <item>
-      <title>Nevermind latest</title>
-      <link>https://formulae.brew.sh/cask/font-nevermind</link>
-      <description>— https://github.com/lamzhonghang/nevermind</description>
-      <guid isPermaLink="false">font-nevermind@2026-08-31T22:11:39Z</guid>
-      <pubDate>Mon, 31 Aug 2026 22:11:39 +0000</pubDate>
     </item>
   </channel>
 </rss>
