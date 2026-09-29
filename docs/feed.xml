@@ -4,7 +4,14 @@
     <title>New Homebrew Casks</title>
     <link>https://allenhouchins.github.io/new-casks-tracker/</link>
     <description>Newly added Homebrew casks, checked every 6 hours</description>
-    <lastBuildDate>Tue, 29 Sep 2026 11:48:43 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 29 Sep 2026 17:16:29 +0000</lastBuildDate>
+    <item>
+      <title>Microsoft Aptos font family 4.40</title>
+      <link>https://formulae.brew.sh/cask/font-aptos</link>
+      <description>— https://learn.microsoft.com/en-us/typography/font-list/aptos</description>
+      <guid isPermaLink="false">font-aptos@2026-09-29T17:16:29Z</guid>
+      <pubDate>Tue, 29 Sep 2026 17:16:29 +0000</pubDate>
+    </item>
     <item>
       <title>Markpad 2.8.0</title>
       <link>https://formulae.brew.sh/cask/markpad</link>
@@ -696,13 +703,6 @@
       <link>https://formulae.brew.sh/cask/p2p-kiwi</link>
       <description>Cross-platform screen sharing tool — https://p2p.kiwi/</description>
       <guid isPermaLink="false">p2p-kiwi@2026-09-03T02:04:34Z</guid>
-      <pubDate>Thu, 03 Sep 2026 02:04:34 +0000</pubDate>
-    </item>
-    <item>
-      <title>TONE3000 0.0.4</title>
-      <link>https://formulae.brew.sh/cask/tone3000</link>
-      <description>Amp modeling plug-in for Neural Amp Modeler captures and impulse responses — https://www.tone3000.com/</description>
-      <guid isPermaLink="false">tone3000@2026-09-03T02:04:34Z</guid>
       <pubDate>Thu, 03 Sep 2026 02:04:34 +0000</pubDate>
     </item>
   </channel>

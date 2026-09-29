@@ -1079,5 +1079,12 @@
     "homepage": "https://www.pfu.ricoh.com/global/scanners/scansnap/sshome/",
     "version": "4.1.0",
     "detected_at": "2026-09-29T11:48:43.125437986Z"
+  },
+  {
+    "token": "font-aptos",
+    "name": "Microsoft Aptos font family",
+    "homepage": "https://learn.microsoft.com/en-us/typography/font-list/aptos",
+    "version": "4.40",
+    "detected_at": "2026-09-29T17:16:29.272967697Z"
   }
 ]
