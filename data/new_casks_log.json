@@ -1063,5 +1063,21 @@
     "homepage": "https://pally.com/",
     "version": "0.1.53,276.1",
     "detected_at": "2026-09-28T22:45:29.5130023Z"
+  },
+  {
+    "token": "markpad",
+    "name": "Markpad",
+    "desc": "Markdown viewer and editor",
+    "homepage": "https://markpad.dev/",
+    "version": "2.8.0",
+    "detected_at": "2026-09-29T11:48:43.125437986Z"
+  },
+  {
+    "token": "scansnap-home",
+    "name": "ScanSnap Home",
+    "desc": "ScanSnap Scanner software",
+    "homepage": "https://www.pfu.ricoh.com/global/scanners/scansnap/sshome/",
+    "version": "4.1.0",
+    "detected_at": "2026-09-29T11:48:43.125437986Z"
   }
 ]
