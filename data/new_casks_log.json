@@ -1086,5 +1086,13 @@
     "homepage": "https://learn.microsoft.com/en-us/typography/font-list/aptos",
     "version": "4.40",
     "detected_at": "2026-09-29T17:16:29.272967697Z"
+  },
+  {
+    "token": "deepseek-harness",
+    "name": "DeepSeek Harness",
+    "desc": "Plugin-based AI agent desktop application",
+    "homepage": "https://www.deepseek.com/harness/",
+    "version": "0.2.0-rc.2",
+    "detected_at": "2026-09-30T03:00:51.728001666Z"
   }
 ]
