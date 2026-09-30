@@ -4,7 +4,14 @@
     <title>New Homebrew Casks</title>
     <link>https://allenhouchins.github.io/new-casks-tracker/</link>
     <description>Newly added Homebrew casks, checked every 6 hours</description>
-    <lastBuildDate>Wed, 30 Sep 2026 11:35:10 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 30 Sep 2026 17:14:35 +0000</lastBuildDate>
+    <item>
+      <title>Cue 1.0.3</title>
+      <link>https://formulae.brew.sh/cask/manus-cue</link>
+      <description>Personal AI agents with their own identities — https://cue.im/</description>
+      <guid isPermaLink="false">manus-cue@2026-09-30T17:14:35Z</guid>
+      <pubDate>Wed, 30 Sep 2026 17:14:35 +0000</pubDate>
+    </item>
     <item>
       <title>DeepSeek Harness 0.2.0-rc.2</title>
       <link>https://formulae.brew.sh/cask/deepseek-harness</link>
@@ -696,13 +703,6 @@
       <link>https://formulae.brew.sh/cask/airstats</link>
       <description>Menu bar system monitor — https://airstats.app/</description>
       <guid isPermaLink="false">airstats@2026-09-03T02:04:34Z</guid>
-      <pubDate>Thu, 03 Sep 2026 02:04:34 +0000</pubDate>
-    </item>
-    <item>
-      <title>Clawd on Desk 0.16.0</title>
-      <link>https://formulae.brew.sh/cask/clawd-on-desk</link>
-      <description>Desktop pet that reacts to AI coding agents — https://github.com/rullerzhou-afk/clawd-on-desk</description>
-      <guid isPermaLink="false">clawd-on-desk@2026-09-03T02:04:34Z</guid>
       <pubDate>Thu, 03 Sep 2026 02:04:34 +0000</pubDate>
     </item>
   </channel>

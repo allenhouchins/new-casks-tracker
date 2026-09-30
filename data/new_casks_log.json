@@ -1094,5 +1094,13 @@
     "homepage": "https://www.deepseek.com/harness/",
     "version": "0.2.0-rc.2",
     "detected_at": "2026-09-30T03:00:51.728001666Z"
+  },
+  {
+    "token": "manus-cue",
+    "name": "Cue",
+    "desc": "Personal AI agents with their own identities",
+    "homepage": "https://cue.im/",
+    "version": "1.0.3",
+    "detected_at": "2026-09-30T17:14:35.320399328Z"
   }
 ]
