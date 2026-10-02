@@ -1102,5 +1102,69 @@
     "homepage": "https://cue.im/",
     "version": "1.0.3",
     "detected_at": "2026-09-30T17:14:35.320399328Z"
+  },
+  {
+    "token": "cuadriver",
+    "name": "Cua Driver",
+    "desc": "Background desktop automation driver for AI agents",
+    "homepage": "https://cua.ai/cua-driver",
+    "version": "0.32.0",
+    "detected_at": "2026-10-02T03:09:18.317541324Z"
+  },
+  {
+    "token": "hagimimonitordirect",
+    "name": "Hagimi Monitor",
+    "desc": "Menu bar monitor for system performance and hardware",
+    "homepage": "https://acerola-1.github.io/hagimi-monitor/",
+    "version": "1.6.6",
+    "detected_at": "2026-10-02T03:09:18.317541324Z"
+  },
+  {
+    "token": "ideashell",
+    "name": "ideaShell",
+    "desc": "AI partner for notes, voice, and to-dos",
+    "homepage": "https://ideashell.com/",
+    "version": "0.9.20",
+    "detected_at": "2026-10-02T03:09:18.317541324Z"
+  },
+  {
+    "token": "ideashell-cn",
+    "name": "ideaShell CN",
+    "desc": "AI partner for notes, voice, and to-dos (China edition)",
+    "homepage": "https://ideashell.cn/",
+    "version": "0.9.21",
+    "detected_at": "2026-10-02T03:09:18.317541324Z"
+  },
+  {
+    "token": "napari",
+    "name": "napari",
+    "desc": "Multi-dimensional image viewer for Python",
+    "homepage": "https://napari.org/",
+    "version": "0.9.2",
+    "detected_at": "2026-10-02T03:09:18.317541324Z"
+  },
+  {
+    "token": "ruffle",
+    "name": "ruffle",
+    "desc": "Flash Player emulator",
+    "homepage": "https://ruffle.rs/",
+    "version": "0.6.0",
+    "detected_at": "2026-10-02T03:09:18.317541324Z"
+  },
+  {
+    "token": "volumehud",
+    "name": "volumeHUD",
+    "desc": "Bring back the pre-Tahoe volume and brightness HUDs",
+    "homepage": "https://github.com/dannystewart/volumeHUD",
+    "version": "3.3.3",
+    "detected_at": "2026-10-02T03:09:18.317541324Z"
+  },
+  {
+    "token": "wheelwizard",
+    "name": "Wheel Wizard",
+    "desc": "Mod manager for Mario Kart Wii and Retro Rewind",
+    "homepage": "https://github.com/TeamWheelWizard/WheelWizard",
+    "version": "2.5.9",
+    "detected_at": "2026-10-02T03:09:18.317541324Z"
   }
 ]
