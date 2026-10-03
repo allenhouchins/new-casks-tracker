@@ -4,7 +4,35 @@
     <title>New Homebrew Casks</title>
     <link>https://allenhouchins.github.io/new-casks-tracker/</link>
     <description>Newly added Homebrew casks, checked every 6 hours</description>
-    <lastBuildDate>Fri, 02 Oct 2026 21:35:24 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 03 Oct 2026 02:55:29 +0000</lastBuildDate>
+    <item>
+      <title>Argo Books 2.0.18</title>
+      <link>https://formulae.brew.sh/cask/argo-books</link>
+      <description>Accounting software for small businesses — https://argorobots.com/</description>
+      <guid isPermaLink="false">argo-books@2026-10-03T02:55:29Z</guid>
+      <pubDate>Sat, 03 Oct 2026 02:55:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>Rowel 1.0.0</title>
+      <link>https://formulae.brew.sh/cask/rowel</link>
+      <description>Offline-first password manager — https://rowel.app/</description>
+      <guid isPermaLink="false">rowel@2026-10-03T02:55:29Z</guid>
+      <pubDate>Sat, 03 Oct 2026 02:55:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>SANDISK 3.4.1,2601</title>
+      <link>https://formulae.brew.sh/cask/sandisk</link>
+      <description>Managing SanDisk external drives — https://www.sandisk.com/topics/accessories/sandisk-app-for-backups</description>
+      <guid isPermaLink="false">sandisk@2026-10-03T02:55:29Z</guid>
+      <pubDate>Sat, 03 Oct 2026 02:55:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>SDR-- 2.0.0</title>
+      <link>https://formulae.brew.sh/cask/sdrmm-app</link>
+      <description>Modular, client-server software-defined radio — https://github.com/Newspicel/sdrmm</description>
+      <guid isPermaLink="false">sdrmm-app@2026-10-03T02:55:29Z</guid>
+      <pubDate>Sat, 03 Oct 2026 02:55:29 +0000</pubDate>
+    </item>
     <item>
       <title>Cua Driver 0.32.0</title>
       <link>https://formulae.brew.sh/cask/cuadriver</link>
@@ -676,34 +704,6 @@
       <description>— https://github.com/googlefonts/clarity-city</description>
       <guid isPermaLink="false">font-clarity-city@2026-09-06T01:56:46Z</guid>
       <pubDate>Sun, 06 Sep 2026 01:56:46 +0000</pubDate>
-    </item>
-    <item>
-      <title>Isometra latest</title>
-      <link>https://formulae.brew.sh/cask/font-isometra</link>
-      <description>— https://github.com/field2/isometra</description>
-      <guid isPermaLink="false">font-isometra@2026-09-06T01:56:46Z</guid>
-      <pubDate>Sun, 06 Sep 2026 01:56:46 +0000</pubDate>
-    </item>
-    <item>
-      <title>Kripa latest</title>
-      <link>https://formulae.brew.sh/cask/font-kripa</link>
-      <description>— https://github.com/kedar9/kripa</description>
-      <guid isPermaLink="false">font-kripa@2026-09-06T01:56:46Z</guid>
-      <pubDate>Sun, 06 Sep 2026 01:56:46 +0000</pubDate>
-    </item>
-    <item>
-      <title>Libre Caslon Condensed latest</title>
-      <link>https://formulae.brew.sh/cask/font-libre-caslon-condensed</link>
-      <description>— https://github.com/ertekinno/libre-caslon-condensed</description>
-      <guid isPermaLink="false">font-libre-caslon-condensed@2026-09-06T01:56:46Z</guid>
-      <pubDate>Sun, 06 Sep 2026 01:56:46 +0000</pubDate>
-    </item>
-    <item>
-      <title>AgentIDE 0.9.0</title>
-      <link>https://formulae.brew.sh/cask/agentide</link>
-      <description>IDE for agent-based development — https://github.com/MikeMcQuaid/AgentIDE</description>
-      <guid isPermaLink="false">agentide@2026-09-05T14:14:16Z</guid>
-      <pubDate>Sat, 05 Sep 2026 14:14:16 +0000</pubDate>
     </item>
   </channel>
 </rss>

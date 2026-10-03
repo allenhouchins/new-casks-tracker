@@ -1166,5 +1166,37 @@
     "homepage": "https://github.com/TeamWheelWizard/WheelWizard",
     "version": "2.5.9",
     "detected_at": "2026-10-02T03:09:18.317541324Z"
+  },
+  {
+    "token": "argo-books",
+    "name": "Argo Books",
+    "desc": "Accounting software for small businesses",
+    "homepage": "https://argorobots.com/",
+    "version": "2.0.18",
+    "detected_at": "2026-10-03T02:55:29.776038357Z"
+  },
+  {
+    "token": "rowel",
+    "name": "Rowel",
+    "desc": "Offline-first password manager",
+    "homepage": "https://rowel.app/",
+    "version": "1.0.0",
+    "detected_at": "2026-10-03T02:55:29.776038357Z"
+  },
+  {
+    "token": "sandisk",
+    "name": "SANDISK",
+    "desc": "Managing SanDisk external drives",
+    "homepage": "https://www.sandisk.com/topics/accessories/sandisk-app-for-backups",
+    "version": "3.4.1,2601",
+    "detected_at": "2026-10-03T02:55:29.776038357Z"
+  },
+  {
+    "token": "sdrmm-app",
+    "name": "SDR--",
+    "desc": "Modular, client-server software-defined radio",
+    "homepage": "https://github.com/Newspicel/sdrmm",
+    "version": "2.0.0",
+    "detected_at": "2026-10-03T02:55:29.776038357Z"
   }
 ]
