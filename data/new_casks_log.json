@@ -1198,5 +1198,13 @@
     "homepage": "https://github.com/Newspicel/sdrmm",
     "version": "2.0.0",
     "detected_at": "2026-10-03T02:55:29.776038357Z"
+  },
+  {
+    "token": "swiftcord",
+    "name": "Swiftcord",
+    "desc": "Native Discord client",
+    "homepage": "https://swiftcord.app/",
+    "version": "1.7.1,71",
+    "detected_at": "2026-10-04T03:25:12.273394998Z"
   }
 ]
