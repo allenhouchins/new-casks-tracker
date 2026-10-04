@@ -4,7 +4,35 @@
     <title>New Homebrew Casks</title>
     <link>https://allenhouchins.github.io/new-casks-tracker/</link>
     <description>Newly added Homebrew casks, checked every 6 hours</description>
-    <lastBuildDate>Sun, 04 Oct 2026 11:31:22 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 04 Oct 2026 16:09:53 +0000</lastBuildDate>
+    <item>
+      <title>Lexica Ultralegible 1.0.0</title>
+      <link>https://formulae.brew.sh/cask/font-lexica-ultralegible</link>
+      <description>— https://jacobxperez.github.io/lexica-ultralegible/</description>
+      <guid isPermaLink="false">font-lexica-ultralegible@2026-10-04T16:09:53Z</guid>
+      <pubDate>Sun, 04 Oct 2026 16:09:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>KeyEcho 1.1.1</title>
+      <link>https://formulae.brew.sh/cask/keyecho</link>
+      <description>Mechanical keyboard sounds for every keystroke — https://keyecho.app/</description>
+      <guid isPermaLink="false">keyecho@2026-10-04T16:09:53Z</guid>
+      <pubDate>Sun, 04 Oct 2026 16:09:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>Lody 0.103.0</title>
+      <link>https://formulae.brew.sh/cask/lody</link>
+      <description>Share coding agent sessions across desktop and mobile — https://lody.ai/</description>
+      <guid isPermaLink="false">lody@2026-10-04T16:09:53Z</guid>
+      <pubDate>Sun, 04 Oct 2026 16:09:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>Picsart AI Playground 2.65.0</title>
+      <link>https://formulae.brew.sh/cask/picsart-ai-playground</link>
+      <description>Workspace for AI image, video and audio creation — https://picsart.com/ai-playground/desktop/</description>
+      <guid isPermaLink="false">picsart-ai-playground@2026-10-04T16:09:53Z</guid>
+      <pubDate>Sun, 04 Oct 2026 16:09:53 +0000</pubDate>
+    </item>
     <item>
       <title>Swiftcord 1.7.1,71</title>
       <link>https://formulae.brew.sh/cask/swiftcord</link>
@@ -676,34 +704,6 @@
       <description>Indonesian stock trading and analysis platform — https://stockbit.com/desktop</description>
       <guid isPermaLink="false">stockbit@2026-09-07T16:52:01Z</guid>
       <pubDate>Mon, 07 Sep 2026 16:52:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>Open Science 0.26.0</title>
-      <link>https://formulae.brew.sh/cask/open-science</link>
-      <description>AI research workbench with scientific agents and notebooks — https://aipoch.com/open-science</description>
-      <guid isPermaLink="false">open-science@2026-09-07T11:02:36Z</guid>
-      <pubDate>Mon, 07 Sep 2026 11:02:36 +0000</pubDate>
-    </item>
-    <item>
-      <title>MinMaxCal 0.9.1</title>
-      <link>https://formulae.brew.sh/cask/minmaxcal</link>
-      <description>Minimal menu bar calendar, maximal full-screen notifications — https://github.com/MikeMcQuaid/MinMaxCal</description>
-      <guid isPermaLink="false">minmaxcal@2026-09-06T19:45:49Z</guid>
-      <pubDate>Sun, 06 Sep 2026 19:45:49 +0000</pubDate>
-    </item>
-    <item>
-      <title>GameMaker Beta 2026.100.0.1142</title>
-      <link>https://formulae.brew.sh/cask/gamemaker@beta</link>
-      <description>Complete development tool for making 2D games — https://gamemaker.io/</description>
-      <guid isPermaLink="false">gamemaker@beta@2026-09-06T14:37:47Z</guid>
-      <pubDate>Sun, 06 Sep 2026 14:37:47 +0000</pubDate>
-    </item>
-    <item>
-      <title>OmniWM 0.6.7</title>
-      <link>https://formulae.brew.sh/cask/omniwm</link>
-      <description>Tiling window manager — https://omniwm.app/</description>
-      <guid isPermaLink="false">omniwm@2026-09-06T14:37:47Z</guid>
-      <pubDate>Sun, 06 Sep 2026 14:37:47 +0000</pubDate>
     </item>
   </channel>
 </rss>

@@ -1206,5 +1206,36 @@
     "homepage": "https://swiftcord.app/",
     "version": "1.7.1,71",
     "detected_at": "2026-10-04T03:25:12.273394998Z"
+  },
+  {
+    "token": "font-lexica-ultralegible",
+    "name": "Lexica Ultralegible",
+    "homepage": "https://jacobxperez.github.io/lexica-ultralegible/",
+    "version": "1.0.0",
+    "detected_at": "2026-10-04T16:09:53.763433378Z"
+  },
+  {
+    "token": "keyecho",
+    "name": "KeyEcho",
+    "desc": "Mechanical keyboard sounds for every keystroke",
+    "homepage": "https://keyecho.app/",
+    "version": "1.1.1",
+    "detected_at": "2026-10-04T16:09:53.763433378Z"
+  },
+  {
+    "token": "lody",
+    "name": "Lody",
+    "desc": "Share coding agent sessions across desktop and mobile",
+    "homepage": "https://lody.ai/",
+    "version": "0.103.0",
+    "detected_at": "2026-10-04T16:09:53.763433378Z"
+  },
+  {
+    "token": "picsart-ai-playground",
+    "name": "Picsart AI Playground",
+    "desc": "Workspace for AI image, video and audio creation",
+    "homepage": "https://picsart.com/ai-playground/desktop/",
+    "version": "2.65.0",
+    "detected_at": "2026-10-04T16:09:53.763433378Z"
   }
 ]
