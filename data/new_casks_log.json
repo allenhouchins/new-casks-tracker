@@ -1245,5 +1245,13 @@
     "homepage": "https://littlebird.ai/",
     "version": "0.86.21",
     "detected_at": "2026-10-05T03:02:58.706876506Z"
+  },
+  {
+    "token": "holst",
+    "name": "Holst",
+    "desc": "Online whiteboard for team collaboration",
+    "homepage": "https://holst.so/",
+    "version": "0.0.6",
+    "detected_at": "2026-10-05T23:28:58.610932232Z"
   }
 ]

@@ -4,7 +4,14 @@
     <title>New Homebrew Casks</title>
     <link>https://allenhouchins.github.io/new-casks-tracker/</link>
     <description>Newly added Homebrew casks, checked every 6 hours</description>
-    <lastBuildDate>Mon, 05 Oct 2026 13:01:50 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 05 Oct 2026 23:28:58 +0000</lastBuildDate>
+    <item>
+      <title>Holst 0.0.6</title>
+      <link>https://formulae.brew.sh/cask/holst</link>
+      <description>Online whiteboard for team collaboration — https://holst.so/</description>
+      <guid isPermaLink="false">holst@2026-10-05T23:28:58Z</guid>
+      <pubDate>Mon, 05 Oct 2026 23:28:58 +0000</pubDate>
+    </item>
     <item>
       <title>Littlebird 0.86.21</title>
       <link>https://formulae.brew.sh/cask/littlebird</link>
@@ -696,13 +703,6 @@
       <link>https://formulae.brew.sh/cask/font-pyeojin-gothic</link>
       <description>— https://notforall.tistory.com/7</description>
       <guid isPermaLink="false">font-pyeojin-gothic@2026-09-08T10:17:14Z</guid>
-      <pubDate>Tue, 08 Sep 2026 10:17:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>PrivacyNotes 0.505.1</title>
-      <link>https://formulae.brew.sh/cask/privacynotes</link>
-      <description>End-to-end encrypted notes, tasks, files, journal, passwords and bookmark sync — https://privacynotes.app/</description>
-      <guid isPermaLink="false">privacynotes@2026-09-08T10:17:14Z</guid>
       <pubDate>Tue, 08 Sep 2026 10:17:14 +0000</pubDate>
     </item>
   </channel>
