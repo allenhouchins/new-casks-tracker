@@ -4,7 +4,14 @@
     <title>New Homebrew Casks</title>
     <link>https://allenhouchins.github.io/new-casks-tracker/</link>
     <description>Newly added Homebrew casks, checked every 6 hours</description>
-    <lastBuildDate>Sun, 04 Oct 2026 20:39:08 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 05 Oct 2026 03:02:58 +0000</lastBuildDate>
+    <item>
+      <title>Littlebird 0.86.21</title>
+      <link>https://formulae.brew.sh/cask/littlebird</link>
+      <description>AI assistant that captures meetings and work context — https://littlebird.ai/</description>
+      <guid isPermaLink="false">littlebird@2026-10-05T03:02:58Z</guid>
+      <pubDate>Mon, 05 Oct 2026 03:02:58 +0000</pubDate>
+    </item>
     <item>
       <title>Lexica Ultralegible 1.0.0</title>
       <link>https://formulae.brew.sh/cask/font-lexica-ultralegible</link>
@@ -697,13 +704,6 @@
       <description>End-to-end encrypted notes, tasks, files, journal, passwords and bookmark sync — https://privacynotes.app/</description>
       <guid isPermaLink="false">privacynotes@2026-09-08T10:17:14Z</guid>
       <pubDate>Tue, 08 Sep 2026 10:17:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>Stockbit 2.2.0</title>
-      <link>https://formulae.brew.sh/cask/stockbit</link>
-      <description>Indonesian stock trading and analysis platform — https://stockbit.com/desktop</description>
-      <guid isPermaLink="false">stockbit@2026-09-07T16:52:01Z</guid>
-      <pubDate>Mon, 07 Sep 2026 16:52:01 +0000</pubDate>
     </item>
   </channel>
 </rss>

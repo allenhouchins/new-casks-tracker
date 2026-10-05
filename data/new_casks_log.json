@@ -1237,5 +1237,13 @@
     "homepage": "https://picsart.com/ai-playground/desktop/",
     "version": "2.65.0",
     "detected_at": "2026-10-04T16:09:53.763433378Z"
+  },
+  {
+    "token": "littlebird",
+    "name": "Littlebird",
+    "desc": "AI assistant that captures meetings and work context",
+    "homepage": "https://littlebird.ai/",
+    "version": "0.86.21",
+    "detected_at": "2026-10-05T03:02:58.706876506Z"
   }
 ]
