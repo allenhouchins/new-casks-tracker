@@ -4,7 +4,28 @@
     <title>New Homebrew Casks</title>
     <link>https://allenhouchins.github.io/new-casks-tracker/</link>
     <description>Newly added Homebrew casks, checked every 6 hours</description>
-    <lastBuildDate>Wed, 07 Oct 2026 12:18:44 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 07 Oct 2026 22:26:10 +0000</lastBuildDate>
+    <item>
+      <title>Fluxer 2026.1006.171735</title>
+      <link>https://formulae.brew.sh/cask/fluxer</link>
+      <description>Chat for friends, groups, and communities with text, voice, and video — https://fluxer.app/</description>
+      <guid isPermaLink="false">fluxer@2026-10-07T22:26:10Z</guid>
+      <pubDate>Wed, 07 Oct 2026 22:26:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>nodeterm 0.4.2</title>
+      <link>https://formulae.brew.sh/cask/nodeterm</link>
+      <description>Node-based terminal manager for terminals and coding agents on a canvas — https://nodeterm.dev/</description>
+      <guid isPermaLink="false">nodeterm@2026-10-07T22:26:10Z</guid>
+      <pubDate>Wed, 07 Oct 2026 22:26:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>PhotoCraft 0.3.0</title>
+      <link>https://formulae.brew.sh/cask/photocraft</link>
+      <description>Image editor — https://getartcraft.com/apps/photocraft</description>
+      <guid isPermaLink="false">photocraft@2026-10-07T22:26:10Z</guid>
+      <pubDate>Wed, 07 Oct 2026 22:26:10 +0000</pubDate>
+    </item>
     <item>
       <title>Auto-Tune Central 2.0.2</title>
       <link>https://formulae.brew.sh/cask/auto-tune-central</link>
@@ -683,27 +704,6 @@
       <description>Desktop client for Navidrome and other Subsonic-compatible servers — https://www.psysonic.de/</description>
       <guid isPermaLink="false">psysonic@2026-09-10T15:29:40Z</guid>
       <pubDate>Thu, 10 Sep 2026 15:29:40 +0000</pubDate>
-    </item>
-    <item>
-      <title>RealVNC Connect Viewer 8.5.0</title>
-      <link>https://formulae.brew.sh/cask/realvnc-connect-viewer</link>
-      <description>Remote desktop application focusing on security — https://www.realvnc.com/</description>
-      <guid isPermaLink="false">realvnc-connect-viewer@2026-09-10T10:15:39Z</guid>
-      <pubDate>Thu, 10 Sep 2026 10:15:39 +0000</pubDate>
-    </item>
-    <item>
-      <title>WSL Manager 2.0.2</title>
-      <link>https://formulae.brew.sh/cask/wsl-manager</link>
-      <description>Manage native Linux VMs and remote WSL distros — https://wslmanager.com/</description>
-      <guid isPermaLink="false">wsl-manager@2026-09-10T02:07:03Z</guid>
-      <pubDate>Thu, 10 Sep 2026 02:07:03 +0000</pubDate>
-    </item>
-    <item>
-      <title>Homebrew 0.3.0</title>
-      <link>https://formulae.brew.sh/cask/homebrew-app</link>
-      <description>Homebrew&#39;s official GUI — https://github.com/Homebrew/BrewUI</description>
-      <guid isPermaLink="false">homebrew-app@2026-09-09T20:11:58Z</guid>
-      <pubDate>Wed, 09 Sep 2026 20:11:58 +0000</pubDate>
     </item>
   </channel>
 </rss>

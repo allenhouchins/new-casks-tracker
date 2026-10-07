@@ -1301,5 +1301,29 @@
     "homepage": "https://stashcat.com/",
     "version": "6.55.0",
     "detected_at": "2026-10-07T12:18:44.203846675Z"
+  },
+  {
+    "token": "fluxer",
+    "name": "Fluxer",
+    "desc": "Chat for friends, groups, and communities with text, voice, and video",
+    "homepage": "https://fluxer.app/",
+    "version": "2026.1006.171735",
+    "detected_at": "2026-10-07T22:26:10.723455224Z"
+  },
+  {
+    "token": "nodeterm",
+    "name": "nodeterm",
+    "desc": "Node-based terminal manager for terminals and coding agents on a canvas",
+    "homepage": "https://nodeterm.dev/",
+    "version": "0.4.2",
+    "detected_at": "2026-10-07T22:26:10.723455224Z"
+  },
+  {
+    "token": "photocraft",
+    "name": "PhotoCraft",
+    "desc": "Image editor",
+    "homepage": "https://getartcraft.com/apps/photocraft",
+    "version": "0.3.0",
+    "detected_at": "2026-10-07T22:26:10.723455224Z"
   }
 ]
