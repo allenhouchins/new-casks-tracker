@@ -1253,5 +1253,53 @@
     "homepage": "https://holst.so/",
     "version": "0.0.6",
     "detected_at": "2026-10-05T23:28:58.610932232Z"
+  },
+  {
+    "token": "auto-tune-central",
+    "name": "Auto-Tune Central",
+    "desc": "Software download manager for Antares products",
+    "homepage": "https://www.antarestech.com/",
+    "version": "2.0.2",
+    "detected_at": "2026-10-07T12:18:44.203846675Z"
+  },
+  {
+    "token": "buildin",
+    "name": "Buildin",
+    "desc": "Collaborative workspace for notes, documents and wikis",
+    "homepage": "https://buildin.ai/",
+    "version": "2.0.4",
+    "detected_at": "2026-10-07T12:18:44.203846675Z"
+  },
+  {
+    "token": "fl-studio",
+    "name": "FL Studio",
+    "desc": "Digital audio production application",
+    "homepage": "https://www.image-line.com/fl-studio/",
+    "version": "26.1.7.5419",
+    "detected_at": "2026-10-07T12:18:44.203846675Z"
+  },
+  {
+    "token": "mcplinker",
+    "name": "MCP Linker",
+    "desc": "Manage and sync MCP server configurations across AI clients",
+    "homepage": "https://github.com/milisp/mcp-linker",
+    "version": "2.2.4",
+    "detected_at": "2026-10-07T12:18:44.203846675Z"
+  },
+  {
+    "token": "solidtime",
+    "name": "solidtime",
+    "desc": "Open-source time tracker",
+    "homepage": "https://www.solidtime.io/",
+    "version": "0.3.2",
+    "detected_at": "2026-10-07T12:18:44.203846675Z"
+  },
+  {
+    "token": "stashcat",
+    "name": "Stashcat",
+    "desc": "Secure messenger for organisations",
+    "homepage": "https://stashcat.com/",
+    "version": "6.55.0",
+    "detected_at": "2026-10-07T12:18:44.203846675Z"
   }
 ]
