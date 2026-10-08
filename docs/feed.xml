@@ -4,7 +4,14 @@
     <title>New Homebrew Casks</title>
     <link>https://allenhouchins.github.io/new-casks-tracker/</link>
     <description>Newly added Homebrew casks, checked every 6 hours</description>
-    <lastBuildDate>Thu, 08 Oct 2026 12:28:25 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 08 Oct 2026 22:39:36 +0000</lastBuildDate>
+    <item>
+      <title>FilmCraft 0.4.0</title>
+      <link>https://formulae.brew.sh/cask/filmcraft</link>
+      <description>Video editor — https://getartcraft.com/apps/filmcraft</description>
+      <guid isPermaLink="false">filmcraft@2026-10-08T22:39:36Z</guid>
+      <pubDate>Thu, 08 Oct 2026 22:39:36 +0000</pubDate>
+    </item>
     <item>
       <title>Delta 0.19.0</title>
       <link>https://formulae.brew.sh/cask/zed-delta</link>
@@ -696,13 +703,6 @@
       <link>https://formulae.brew.sh/cask/font-nebula-sans</link>
       <description>— https://www.nebulasans.com/</description>
       <guid isPermaLink="false">font-nebula-sans@2026-09-11T15:31:32Z</guid>
-      <pubDate>Fri, 11 Sep 2026 15:31:32 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ollama 0.34.0</title>
-      <link>https://formulae.brew.sh/cask/ollama-binary</link>
-      <description>Get up and running with large language models locally — https://ollama.com/</description>
-      <guid isPermaLink="false">ollama-binary@2026-09-11T15:31:32Z</guid>
       <pubDate>Fri, 11 Sep 2026 15:31:32 +0000</pubDate>
     </item>
   </channel>

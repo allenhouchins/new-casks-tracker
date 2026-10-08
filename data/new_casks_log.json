@@ -1349,5 +1349,13 @@
     "homepage": "https://delta.dev/",
     "version": "0.19.0",
     "detected_at": "2026-10-08T12:28:25.433913029Z"
+  },
+  {
+    "token": "filmcraft",
+    "name": "FilmCraft",
+    "desc": "Video editor",
+    "homepage": "https://getartcraft.com/apps/filmcraft",
+    "version": "0.4.0",
+    "detected_at": "2026-10-08T22:39:36.440127619Z"
   }
 ]
