@@ -4,7 +4,21 @@
     <title>New Homebrew Casks</title>
     <link>https://allenhouchins.github.io/new-casks-tracker/</link>
     <description>Newly added Homebrew casks, checked every 6 hours</description>
-    <lastBuildDate>Wed, 07 Oct 2026 22:26:10 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 08 Oct 2026 03:35:04 +0000</lastBuildDate>
+    <item>
+      <title>Azure CLI 2.91.0</title>
+      <link>https://formulae.brew.sh/cask/azure-cli</link>
+      <description>Microsoft Azure CLI 2.0 — https://docs.microsoft.com/cli/azure/overview</description>
+      <guid isPermaLink="false">azure-cli@2026-10-08T03:35:04Z</guid>
+      <pubDate>Thu, 08 Oct 2026 03:35:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>Threat Dragon 2.6.2</title>
+      <link>https://formulae.brew.sh/cask/threat-dragon</link>
+      <description>Threat modeling tool — https://owasp.org/projects/threat-dragon</description>
+      <guid isPermaLink="false">threat-dragon@2026-10-08T03:35:04Z</guid>
+      <pubDate>Thu, 08 Oct 2026 03:35:04 +0000</pubDate>
+    </item>
     <item>
       <title>Fluxer 2026.1006.171735</title>
       <link>https://formulae.brew.sh/cask/fluxer</link>
@@ -690,20 +704,6 @@
       <description>AI agent for everyday office work — https://www.workbuddy.ai/</description>
       <guid isPermaLink="false">workbuddy-ai@2026-09-11T15:31:32Z</guid>
       <pubDate>Fri, 11 Sep 2026 15:31:32 +0000</pubDate>
-    </item>
-    <item>
-      <title>WorkBuddy 5.5.4.38151288-1ca4889a</title>
-      <link>https://formulae.brew.sh/cask/workbuddy-cn</link>
-      <description>AI agent for everyday office work — https://www.workbuddy.cn/</description>
-      <guid isPermaLink="false">workbuddy-cn@2026-09-11T15:31:32Z</guid>
-      <pubDate>Fri, 11 Sep 2026 15:31:32 +0000</pubDate>
-    </item>
-    <item>
-      <title>Psysonic 1.52.0</title>
-      <link>https://formulae.brew.sh/cask/psysonic</link>
-      <description>Desktop client for Navidrome and other Subsonic-compatible servers — https://www.psysonic.de/</description>
-      <guid isPermaLink="false">psysonic@2026-09-10T15:29:40Z</guid>
-      <pubDate>Thu, 10 Sep 2026 15:29:40 +0000</pubDate>
     </item>
   </channel>
 </rss>

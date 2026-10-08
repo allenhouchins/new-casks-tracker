@@ -1325,5 +1325,21 @@
     "homepage": "https://getartcraft.com/apps/photocraft",
     "version": "0.3.0",
     "detected_at": "2026-10-07T22:26:10.723455224Z"
+  },
+  {
+    "token": "azure-cli",
+    "name": "Azure CLI",
+    "desc": "Microsoft Azure CLI 2.0",
+    "homepage": "https://docs.microsoft.com/cli/azure/overview",
+    "version": "2.91.0",
+    "detected_at": "2026-10-08T03:35:04.223201088Z"
+  },
+  {
+    "token": "threat-dragon",
+    "name": "Threat Dragon",
+    "desc": "Threat modeling tool",
+    "homepage": "https://owasp.org/projects/threat-dragon",
+    "version": "2.6.2",
+    "detected_at": "2026-10-08T03:35:04.223201088Z"
   }
 ]
