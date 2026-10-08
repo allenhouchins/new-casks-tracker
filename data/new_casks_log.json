@@ -1341,5 +1341,13 @@
     "homepage": "https://owasp.org/projects/threat-dragon",
     "version": "2.6.2",
     "detected_at": "2026-10-08T03:35:04.223201088Z"
+  },
+  {
+    "token": "zed-delta",
+    "name": "Delta",
+    "desc": "Multiplayer environment for coding with agents",
+    "homepage": "https://delta.dev/",
+    "version": "0.19.0",
+    "detected_at": "2026-10-08T12:28:25.433913029Z"
   }
 ]
