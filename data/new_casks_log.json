@@ -1357,5 +1357,21 @@
     "homepage": "https://getartcraft.com/apps/filmcraft",
     "version": "0.4.0",
     "detected_at": "2026-10-08T22:39:36.440127619Z"
+  },
+  {
+    "token": "lightcraft",
+    "name": "LightCraft",
+    "desc": "Photo library manager and raw image developer",
+    "homepage": "https://getartcraft.com/apps/lightcraft",
+    "version": "0.4.0",
+    "detected_at": "2026-10-09T12:17:26.795277787Z"
+  },
+  {
+    "token": "vectorcraft",
+    "name": "VectorCraft",
+    "desc": "Vector editor",
+    "homepage": "https://getartcraft.com/apps/vectorcraft",
+    "version": "0.7.0",
+    "detected_at": "2026-10-09T12:17:26.795277787Z"
   }
 ]

@@ -4,7 +4,21 @@
     <title>New Homebrew Casks</title>
     <link>https://allenhouchins.github.io/new-casks-tracker/</link>
     <description>Newly added Homebrew casks, checked every 6 hours</description>
-    <lastBuildDate>Fri, 09 Oct 2026 03:40:40 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 09 Oct 2026 12:17:26 +0000</lastBuildDate>
+    <item>
+      <title>LightCraft 0.4.0</title>
+      <link>https://formulae.brew.sh/cask/lightcraft</link>
+      <description>Photo library manager and raw image developer — https://getartcraft.com/apps/lightcraft</description>
+      <guid isPermaLink="false">lightcraft@2026-10-09T12:17:26Z</guid>
+      <pubDate>Fri, 09 Oct 2026 12:17:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>VectorCraft 0.7.0</title>
+      <link>https://formulae.brew.sh/cask/vectorcraft</link>
+      <description>Vector editor — https://getartcraft.com/apps/vectorcraft</description>
+      <guid isPermaLink="false">vectorcraft@2026-10-09T12:17:26Z</guid>
+      <pubDate>Fri, 09 Oct 2026 12:17:26 +0000</pubDate>
+    </item>
     <item>
       <title>FilmCraft 0.4.0</title>
       <link>https://formulae.brew.sh/cask/filmcraft</link>
@@ -690,20 +704,6 @@
       <description>— https://github.com/Gissio/font_tiny5</description>
       <guid isPermaLink="false">font-tiny5-duo@2026-09-13T02:05:46Z</guid>
       <pubDate>Sun, 13 Sep 2026 02:05:46 +0000</pubDate>
-    </item>
-    <item>
-      <title>Capsomnia 4.0.0</title>
-      <link>https://formulae.brew.sh/cask/capsomnia</link>
-      <description>Utility that keeps your computer awake with the lid closed — https://github.com/fuji-mak/Capsomnia/</description>
-      <guid isPermaLink="false">capsomnia@2026-09-11T15:31:32Z</guid>
-      <pubDate>Fri, 11 Sep 2026 15:31:32 +0000</pubDate>
-    </item>
-    <item>
-      <title>Nebula Sans 1.010</title>
-      <link>https://formulae.brew.sh/cask/font-nebula-sans</link>
-      <description>— https://www.nebulasans.com/</description>
-      <guid isPermaLink="false">font-nebula-sans@2026-09-11T15:31:32Z</guid>
-      <pubDate>Fri, 11 Sep 2026 15:31:32 +0000</pubDate>
     </item>
   </channel>
 </rss>
