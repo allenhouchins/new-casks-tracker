@@ -4,7 +4,21 @@
     <title>New Homebrew Casks</title>
     <link>https://allenhouchins.github.io/new-casks-tracker/</link>
     <description>Newly added Homebrew casks, checked every 6 hours</description>
-    <lastBuildDate>Fri, 09 Oct 2026 12:17:26 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 09 Oct 2026 22:00:32 +0000</lastBuildDate>
+    <item>
+      <title>Crest 6.4.1</title>
+      <link>https://formulae.brew.sh/cask/crest</link>
+      <description>Notch utility with widgets — https://crestnotch.app/</description>
+      <guid isPermaLink="false">crest@2026-10-09T22:00:32Z</guid>
+      <pubDate>Fri, 09 Oct 2026 22:00:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>Sononym 1.6.15</title>
+      <link>https://formulae.brew.sh/cask/sononym</link>
+      <description>AI-powered sample browser for exploring audio samples — https://www.sononym.net/</description>
+      <guid isPermaLink="false">sononym@2026-10-09T22:00:32Z</guid>
+      <pubDate>Fri, 09 Oct 2026 22:00:32 +0000</pubDate>
+    </item>
     <item>
       <title>LightCraft 0.4.0</title>
       <link>https://formulae.brew.sh/cask/lightcraft</link>
@@ -690,20 +704,6 @@
       <description>Platform for AI Adoption — https://langdock.com/products/desktop</description>
       <guid isPermaLink="false">langdock@2026-09-13T10:48:17Z</guid>
       <pubDate>Sun, 13 Sep 2026 10:48:17 +0000</pubDate>
-    </item>
-    <item>
-      <title>Google Sans Flex latest</title>
-      <link>https://formulae.brew.sh/cask/font-google-sans-flex</link>
-      <description>— https://fonts.google.com/specimen/Google+Sans+Flex</description>
-      <guid isPermaLink="false">font-google-sans-flex@2026-09-13T02:05:46Z</guid>
-      <pubDate>Sun, 13 Sep 2026 02:05:46 +0000</pubDate>
-    </item>
-    <item>
-      <title>Tiny5 Duo latest</title>
-      <link>https://formulae.brew.sh/cask/font-tiny5-duo</link>
-      <description>— https://github.com/Gissio/font_tiny5</description>
-      <guid isPermaLink="false">font-tiny5-duo@2026-09-13T02:05:46Z</guid>
-      <pubDate>Sun, 13 Sep 2026 02:05:46 +0000</pubDate>
     </item>
   </channel>
 </rss>

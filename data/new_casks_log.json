@@ -1373,5 +1373,21 @@
     "homepage": "https://getartcraft.com/apps/vectorcraft",
     "version": "0.7.0",
     "detected_at": "2026-10-09T12:17:26.795277787Z"
+  },
+  {
+    "token": "crest",
+    "name": "Crest",
+    "desc": "Notch utility with widgets",
+    "homepage": "https://crestnotch.app/",
+    "version": "6.4.1",
+    "detected_at": "2026-10-09T22:00:32.446262058Z"
+  },
+  {
+    "token": "sononym",
+    "name": "Sononym",
+    "desc": "AI-powered sample browser for exploring audio samples",
+    "homepage": "https://www.sononym.net/",
+    "version": "1.6.15",
+    "detected_at": "2026-10-09T22:00:32.446262058Z"
   }
 ]
