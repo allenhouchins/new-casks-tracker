@@ -1389,5 +1389,21 @@
     "homepage": "https://www.sononym.net/",
     "version": "1.6.15",
     "detected_at": "2026-10-09T22:00:32.446262058Z"
+  },
+  {
+    "token": "designcraft",
+    "name": "DesignCraft",
+    "desc": "Page layout and publishing tool",
+    "homepage": "https://getartcraft.com/apps/designcraft",
+    "version": "0.4.0",
+    "detected_at": "2026-10-10T03:22:22.228075185Z"
+  },
+  {
+    "token": "pdfcraft",
+    "name": "PdfCraft",
+    "desc": "PDF editor",
+    "homepage": "https://getartcraft.com/apps/pdfcraft",
+    "version": "0.4.0",
+    "detected_at": "2026-10-10T03:22:22.228075185Z"
   }
 ]
