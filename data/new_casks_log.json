@@ -1405,5 +1405,53 @@
     "homepage": "https://getartcraft.com/apps/pdfcraft",
     "version": "0.4.0",
     "detected_at": "2026-10-10T03:22:22.228075185Z"
+  },
+  {
+    "token": "deckcraft",
+    "name": "DeckCraft",
+    "desc": "Presentation editor",
+    "homepage": "https://github.com/storytold/deckcraft",
+    "version": "0.4.0",
+    "detected_at": "2026-10-10T11:35:30.716207386Z"
+  },
+  {
+    "token": "effectcraft",
+    "name": "EffectCraft",
+    "desc": "Motion graphics and visual effects compositor",
+    "homepage": "https://getartcraft.com/apps/effectcraft",
+    "version": "0.7.0",
+    "detected_at": "2026-10-10T11:35:30.716207386Z"
+  },
+  {
+    "token": "genoffice",
+    "name": "GenOffice",
+    "desc": "Open-source AI office suite",
+    "homepage": "https://genoffice.ai/",
+    "version": "0.11.505",
+    "detected_at": "2026-10-10T11:35:30.716207386Z"
+  },
+  {
+    "token": "gridcraft",
+    "name": "GridCraft",
+    "desc": "Spreadsheet editor",
+    "homepage": "https://github.com/storytold/gridcraft",
+    "version": "0.4.0",
+    "detected_at": "2026-10-10T11:35:30.716207386Z"
+  },
+  {
+    "token": "soundcraft",
+    "name": "SoundCraft",
+    "desc": "Digital audio workstation",
+    "homepage": "https://github.com/storytold/soundcraft",
+    "version": "0.4.0",
+    "detected_at": "2026-10-10T11:35:30.716207386Z"
+  },
+  {
+    "token": "wordcraft",
+    "name": "WordCraft",
+    "desc": "Word processor",
+    "homepage": "https://github.com/storytold/wordcraft",
+    "version": "0.4.0",
+    "detected_at": "2026-10-10T11:35:30.716207386Z"
   }
 ]
