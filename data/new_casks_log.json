@@ -1453,5 +1453,21 @@
     "homepage": "https://github.com/storytold/wordcraft",
     "version": "0.4.0",
     "detected_at": "2026-10-10T11:35:30.716207386Z"
+  },
+  {
+    "token": "artcraft",
+    "name": "ArtCraft",
+    "desc": "Video crafting engine",
+    "homepage": "https://getartcraft.com/",
+    "version": "0.41.0",
+    "detected_at": "2026-10-10T16:36:06.258756527Z"
+  },
+  {
+    "token": "cadcraft",
+    "name": "CADCraft",
+    "desc": "Computer-aided design and drafting tool",
+    "homepage": "https://github.com/storytold/cadcraft",
+    "version": "0.4.0",
+    "detected_at": "2026-10-10T16:36:06.258756527Z"
   }
 ]

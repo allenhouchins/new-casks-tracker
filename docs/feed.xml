@@ -4,7 +4,21 @@
     <title>New Homebrew Casks</title>
     <link>https://allenhouchins.github.io/new-casks-tracker/</link>
     <description>Newly added Homebrew casks, checked every 6 hours</description>
-    <lastBuildDate>Sat, 10 Oct 2026 11:35:30 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 10 Oct 2026 16:36:06 +0000</lastBuildDate>
+    <item>
+      <title>ArtCraft 0.41.0</title>
+      <link>https://formulae.brew.sh/cask/artcraft</link>
+      <description>Video crafting engine — https://getartcraft.com/</description>
+      <guid isPermaLink="false">artcraft@2026-10-10T16:36:06Z</guid>
+      <pubDate>Sat, 10 Oct 2026 16:36:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>CADCraft 0.4.0</title>
+      <link>https://formulae.brew.sh/cask/cadcraft</link>
+      <description>Computer-aided design and drafting tool — https://github.com/storytold/cadcraft</description>
+      <guid isPermaLink="false">cadcraft@2026-10-10T16:36:06Z</guid>
+      <pubDate>Sat, 10 Oct 2026 16:36:06 +0000</pubDate>
+    </item>
     <item>
       <title>DeckCraft 0.4.0</title>
       <link>https://formulae.brew.sh/cask/deckcraft</link>
@@ -690,20 +704,6 @@
       <description>Git client built around a three-way merge tool — https://vheissulabs.com/projects/gitdifferent</description>
       <guid isPermaLink="false">gitdifferent@2026-09-15T15:55:04Z</guid>
       <pubDate>Tue, 15 Sep 2026 15:55:04 +0000</pubDate>
-    </item>
-    <item>
-      <title>NVIDIA Personal AI Router 0.1.1</title>
-      <link>https://formulae.brew.sh/cask/nvidia-pair</link>
-      <description>Local inference router for a group of compatible computers — https://github.com/NVIDIA/Personal-AI-Router</description>
-      <guid isPermaLink="false">nvidia-pair@2026-09-15T15:55:04Z</guid>
-      <pubDate>Tue, 15 Sep 2026 15:55:04 +0000</pubDate>
-    </item>
-    <item>
-      <title>Calyx 0.41.0</title>
-      <link>https://formulae.brew.sh/cask/calyx</link>
-      <description>Terminal for running and supervising coding agents — https://github.com/yuuichieguchi/Calyx</description>
-      <guid isPermaLink="false">calyx@2026-09-14T02:23:36Z</guid>
-      <pubDate>Mon, 14 Sep 2026 02:23:36 +0000</pubDate>
     </item>
   </channel>
 </rss>
