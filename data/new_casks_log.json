@@ -1477,5 +1477,13 @@
     "homepage": "https://help.terra-master.com/docs/TOS7/application/tnas-pc",
     "version": "5.2.548",
     "detected_at": "2026-10-11T11:48:49.385472805Z"
+  },
+  {
+    "token": "betteraudio",
+    "name": "BetterAudio",
+    "desc": "Per-app volume, EQ and audio device control",
+    "homepage": "https://betteraudio.pro/",
+    "version": "26.6.2",
+    "detected_at": "2026-10-11T17:01:04.280623137Z"
   }
 ]
