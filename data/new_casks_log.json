@@ -1469,5 +1469,13 @@
     "homepage": "https://github.com/storytold/cadcraft",
     "version": "0.4.0",
     "detected_at": "2026-10-10T16:36:06.258756527Z"
+  },
+  {
+    "token": "tnas-pc",
+    "name": "TNAS PC",
+    "desc": "Desktop client for TerraMaster TNAS network storage devices",
+    "homepage": "https://help.terra-master.com/docs/TOS7/application/tnas-pc",
+    "version": "5.2.548",
+    "detected_at": "2026-10-11T11:48:49.385472805Z"
   }
 ]

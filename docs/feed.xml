@@ -4,7 +4,14 @@
     <title>New Homebrew Casks</title>
     <link>https://allenhouchins.github.io/new-casks-tracker/</link>
     <description>Newly added Homebrew casks, checked every 6 hours</description>
-    <lastBuildDate>Sun, 11 Oct 2026 02:55:36 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 11 Oct 2026 11:48:49 +0000</lastBuildDate>
+    <item>
+      <title>TNAS PC 5.2.548</title>
+      <link>https://formulae.brew.sh/cask/tnas-pc</link>
+      <description>Desktop client for TerraMaster TNAS network storage devices — https://help.terra-master.com/docs/TOS7/application/tnas-pc</description>
+      <guid isPermaLink="false">tnas-pc@2026-10-11T11:48:49Z</guid>
+      <pubDate>Sun, 11 Oct 2026 11:48:49 +0000</pubDate>
+    </item>
     <item>
       <title>ArtCraft 0.41.0</title>
       <link>https://formulae.brew.sh/cask/artcraft</link>
@@ -696,13 +703,6 @@
       <link>https://formulae.brew.sh/cask/distill-web-monitor</link>
       <description>Monitor webpages for changes — https://distill.io/</description>
       <guid isPermaLink="false">distill-web-monitor@2026-09-15T15:55:04Z</guid>
-      <pubDate>Tue, 15 Sep 2026 15:55:04 +0000</pubDate>
-    </item>
-    <item>
-      <title>GitDifferent 2.1.0</title>
-      <link>https://formulae.brew.sh/cask/gitdifferent</link>
-      <description>Git client built around a three-way merge tool — https://vheissulabs.com/projects/gitdifferent</description>
-      <guid isPermaLink="false">gitdifferent@2026-09-15T15:55:04Z</guid>
       <pubDate>Tue, 15 Sep 2026 15:55:04 +0000</pubDate>
     </item>
   </channel>
