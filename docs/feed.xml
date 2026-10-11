@@ -4,7 +4,14 @@
     <title>New Homebrew Casks</title>
     <link>https://allenhouchins.github.io/new-casks-tracker/</link>
     <description>Newly added Homebrew casks, checked every 6 hours</description>
-    <lastBuildDate>Sun, 11 Oct 2026 17:01:04 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 11 Oct 2026 21:14:03 +0000</lastBuildDate>
+    <item>
+      <title>Claudoscope 1.4.0</title>
+      <link>https://formulae.brew.sh/cask/claudoscope</link>
+      <description>Menu bar dashboard for Claude Code sessions — https://claudoscope.com/</description>
+      <guid isPermaLink="false">claudoscope@2026-10-11T21:14:03Z</guid>
+      <pubDate>Sun, 11 Oct 2026 21:14:03 +0000</pubDate>
+    </item>
     <item>
       <title>BetterAudio 26.6.2</title>
       <link>https://formulae.brew.sh/cask/betteraudio</link>
@@ -697,13 +704,6 @@
       <description>Messaging app with a focus on speed and security — https://macos.telegram.org/</description>
       <guid isPermaLink="false">telegram@beta@2026-09-16T02:22:50Z</guid>
       <pubDate>Wed, 16 Sep 2026 02:22:50 +0000</pubDate>
-    </item>
-    <item>
-      <title>BitMuse 1.3.33</title>
-      <link>https://formulae.brew.sh/cask/bitmuse</link>
-      <description>Bit-perfect music player for local hi-res libraries — https://bitmuse.app/</description>
-      <guid isPermaLink="false">bitmuse@2026-09-15T15:55:04Z</guid>
-      <pubDate>Tue, 15 Sep 2026 15:55:04 +0000</pubDate>
     </item>
   </channel>
 </rss>

@@ -1485,5 +1485,13 @@
     "homepage": "https://betteraudio.pro/",
     "version": "26.6.2",
     "detected_at": "2026-10-11T17:01:04.280623137Z"
+  },
+  {
+    "token": "claudoscope",
+    "name": "Claudoscope",
+    "desc": "Menu bar dashboard for Claude Code sessions",
+    "homepage": "https://claudoscope.com/",
+    "version": "1.4.0",
+    "detected_at": "2026-10-11T21:14:03.773056574Z"
   }
 ]
