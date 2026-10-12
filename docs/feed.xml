@@ -4,7 +4,42 @@
     <title>New Homebrew Casks</title>
     <link>https://allenhouchins.github.io/new-casks-tracker/</link>
     <description>Newly added Homebrew casks, checked every 6 hours</description>
-    <lastBuildDate>Mon, 12 Oct 2026 03:18:54 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 12 Oct 2026 13:53:45 +0000</lastBuildDate>
+    <item>
+      <title>Crest 0.7.2</title>
+      <link>https://formulae.brew.sh/cask/crest-browser</link>
+      <description>Open-source web browser — https://crestbrowser.com/</description>
+      <guid isPermaLink="false">crest-browser@2026-10-12T13:53:45Z</guid>
+      <pubDate>Mon, 12 Oct 2026 13:53:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>Forel 1.0.9</title>
+      <link>https://formulae.brew.sh/cask/forel</link>
+      <description>Rule-based file automation — https://forel-app.github.io/</description>
+      <guid isPermaLink="false">forel@2026-10-12T13:53:45Z</guid>
+      <pubDate>Mon, 12 Oct 2026 13:53:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>NextDNS 2.1.5</title>
+      <link>https://formulae.brew.sh/cask/nextdns-app</link>
+      <description>Encrypted DNS client with ad and tracker blocking — https://nextdns.io/</description>
+      <guid isPermaLink="false">nextdns-app@2026-10-12T13:53:45Z</guid>
+      <pubDate>Mon, 12 Oct 2026 13:53:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>Purge 1.9.0</title>
+      <link>https://formulae.brew.sh/cask/purge</link>
+      <description>Clears caches and junk files by moving them to the Trash — https://purgemac.com/</description>
+      <guid isPermaLink="false">purge@2026-10-12T13:53:45Z</guid>
+      <pubDate>Mon, 12 Oct 2026 13:53:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>sACNView 3.1.0</title>
+      <link>https://formulae.brew.sh/cask/sacnview</link>
+      <description>Tool for monitoring and sending the Streaming ACN lighting control protocol — https://sacnview.org/</description>
+      <guid isPermaLink="false">sacnview@2026-10-12T13:53:45Z</guid>
+      <pubDate>Mon, 12 Oct 2026 13:53:45 +0000</pubDate>
+    </item>
     <item>
       <title>PHTV 3.6.5</title>
       <link>https://formulae.brew.sh/cask/phtv</link>
@@ -669,41 +704,6 @@
       <description>Remote desktop and remote support tool with end-to-end encryption — https://www.hoptodesk.com/</description>
       <guid isPermaLink="false">hoptodesk@2026-09-17T02:26:50Z</guid>
       <pubDate>Thu, 17 Sep 2026 02:26:50 +0000</pubDate>
-    </item>
-    <item>
-      <title>OpenDisk 1.2.0</title>
-      <link>https://formulae.brew.sh/cask/opendisk</link>
-      <description>Disk space analyser — https://opendisk.app/</description>
-      <guid isPermaLink="false">opendisk@2026-09-17T02:26:50Z</guid>
-      <pubDate>Thu, 17 Sep 2026 02:26:50 +0000</pubDate>
-    </item>
-    <item>
-      <title>SideX 0.1.2</title>
-      <link>https://formulae.brew.sh/cask/sidex</link>
-      <description>Code editor based on VS Code and Tauri — https://github.com/Sidenai/sidex</description>
-      <guid isPermaLink="false">sidex@2026-09-17T02:26:50Z</guid>
-      <pubDate>Thu, 17 Sep 2026 02:26:50 +0000</pubDate>
-    </item>
-    <item>
-      <title>Snapline 2.36.0</title>
-      <link>https://formulae.brew.sh/cask/snapline</link>
-      <description>Screenshot, screen recording and GIF tool — https://snap-line.app/</description>
-      <guid isPermaLink="false">snapline@2026-09-17T02:26:50Z</guid>
-      <pubDate>Thu, 17 Sep 2026 02:26:50 +0000</pubDate>
-    </item>
-    <item>
-      <title>Telari 0.5.4</title>
-      <link>https://formulae.brew.sh/cask/telari</link>
-      <description>Markdown reader built for typography — https://telari.app/</description>
-      <guid isPermaLink="false">telari@2026-09-17T02:26:50Z</guid>
-      <pubDate>Thu, 17 Sep 2026 02:26:50 +0000</pubDate>
-    </item>
-    <item>
-      <title>KKTerm 3000.0.14</title>
-      <link>https://formulae.brew.sh/cask/kkterm</link>
-      <description>Local-first administration workspace for terminals, SSH, and SFTP — https://github.com/ryantsai/KKTerm</description>
-      <guid isPermaLink="false">kkterm@2026-09-16T02:22:50Z</guid>
-      <pubDate>Wed, 16 Sep 2026 02:22:50 +0000</pubDate>
     </item>
   </channel>
 </rss>

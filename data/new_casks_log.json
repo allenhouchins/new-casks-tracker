@@ -1501,5 +1501,45 @@
     "homepage": "https://phamhungtien.com/PHTV/",
     "version": "3.6.5",
     "detected_at": "2026-10-12T03:18:54.129025759Z"
+  },
+  {
+    "token": "crest-browser",
+    "name": "Crest",
+    "desc": "Open-source web browser",
+    "homepage": "https://crestbrowser.com/",
+    "version": "0.7.2",
+    "detected_at": "2026-10-12T13:53:45.193414496Z"
+  },
+  {
+    "token": "forel",
+    "name": "Forel",
+    "desc": "Rule-based file automation",
+    "homepage": "https://forel-app.github.io/",
+    "version": "1.0.9",
+    "detected_at": "2026-10-12T13:53:45.193414496Z"
+  },
+  {
+    "token": "nextdns-app",
+    "name": "NextDNS",
+    "desc": "Encrypted DNS client with ad and tracker blocking",
+    "homepage": "https://nextdns.io/",
+    "version": "2.1.5",
+    "detected_at": "2026-10-12T13:53:45.193414496Z"
+  },
+  {
+    "token": "purge",
+    "name": "Purge",
+    "desc": "Clears caches and junk files by moving them to the Trash",
+    "homepage": "https://purgemac.com/",
+    "version": "1.9.0",
+    "detected_at": "2026-10-12T13:53:45.193414496Z"
+  },
+  {
+    "token": "sacnview",
+    "name": "sACNView",
+    "desc": "Tool for monitoring and sending the Streaming ACN lighting control protocol",
+    "homepage": "https://sacnview.org/",
+    "version": "3.1.0",
+    "detected_at": "2026-10-12T13:53:45.193414496Z"
   }
 ]
