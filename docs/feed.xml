@@ -4,7 +4,14 @@
     <title>New Homebrew Casks</title>
     <link>https://allenhouchins.github.io/new-casks-tracker/</link>
     <description>Newly added Homebrew casks, checked every 6 hours</description>
-    <lastBuildDate>Sun, 11 Oct 2026 21:14:03 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 12 Oct 2026 03:18:54 +0000</lastBuildDate>
+    <item>
+      <title>PHTV 3.6.5</title>
+      <link>https://formulae.brew.sh/cask/phtv</link>
+      <description>Vietnamese input method — https://phamhungtien.com/PHTV/</description>
+      <guid isPermaLink="false">phtv@2026-10-12T03:18:54Z</guid>
+      <pubDate>Mon, 12 Oct 2026 03:18:54 +0000</pubDate>
+    </item>
     <item>
       <title>Claudoscope 1.4.0</title>
       <link>https://formulae.brew.sh/cask/claudoscope</link>
@@ -696,13 +703,6 @@
       <link>https://formulae.brew.sh/cask/kkterm</link>
       <description>Local-first administration workspace for terminals, SSH, and SFTP — https://github.com/ryantsai/KKTerm</description>
       <guid isPermaLink="false">kkterm@2026-09-16T02:22:50Z</guid>
-      <pubDate>Wed, 16 Sep 2026 02:22:50 +0000</pubDate>
-    </item>
-    <item>
-      <title>Telegram for macOS 12.10,282985</title>
-      <link>https://formulae.brew.sh/cask/telegram@beta</link>
-      <description>Messaging app with a focus on speed and security — https://macos.telegram.org/</description>
-      <guid isPermaLink="false">telegram@beta@2026-09-16T02:22:50Z</guid>
       <pubDate>Wed, 16 Sep 2026 02:22:50 +0000</pubDate>
     </item>
   </channel>

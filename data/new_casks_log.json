@@ -1493,5 +1493,13 @@
     "homepage": "https://claudoscope.com/",
     "version": "1.4.0",
     "detected_at": "2026-10-11T21:14:03.773056574Z"
+  },
+  {
+    "token": "phtv",
+    "name": "PHTV",
+    "desc": "Vietnamese input method",
+    "homepage": "https://phamhungtien.com/PHTV/",
+    "version": "3.6.5",
+    "detected_at": "2026-10-12T03:18:54.129025759Z"
   }
 ]
