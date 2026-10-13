@@ -1541,5 +1541,13 @@
     "homepage": "https://sacnview.org/",
     "version": "3.1.0",
     "detected_at": "2026-10-12T13:53:45.193414496Z"
+  },
+  {
+    "token": "tracexy",
+    "name": "Tracexy",
+    "desc": "Inspect network sessions, protocols, processes, and packet evidence",
+    "homepage": "https://rockxy.io/tracexy",
+    "version": "0.9.1,16",
+    "detected_at": "2026-10-13T22:05:18.493843792Z"
   }
 ]
