@@ -1557,5 +1557,13 @@
     "homepage": "https://nextpad.org/",
     "version": "1.1.2",
     "detected_at": "2026-10-14T02:43:12.501662114Z"
+  },
+  {
+    "token": "cyd",
+    "name": "Cyd",
+    "desc": "Archive and delete your data on social media platforms",
+    "homepage": "https://cyd.social/",
+    "version": "1.2.4",
+    "detected_at": "2026-10-14T16:10:41.597084598Z"
   }
 ]
