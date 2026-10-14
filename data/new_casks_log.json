@@ -1549,5 +1549,13 @@
     "homepage": "https://rockxy.io/tracexy",
     "version": "0.9.1,16",
     "detected_at": "2026-10-13T22:05:18.493843792Z"
+  },
+  {
+    "token": "nextpad++",
+    "name": "Nextpad++",
+    "desc": "Unofficial native port of Notepad++",
+    "homepage": "https://nextpad.org/",
+    "version": "1.1.2",
+    "detected_at": "2026-10-14T02:43:12.501662114Z"
   }
 ]

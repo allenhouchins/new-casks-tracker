@@ -4,7 +4,14 @@
     <title>New Homebrew Casks</title>
     <link>https://allenhouchins.github.io/new-casks-tracker/</link>
     <description>Newly added Homebrew casks, checked every 6 hours</description>
-    <lastBuildDate>Tue, 13 Oct 2026 22:05:18 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2026 02:43:12 +0000</lastBuildDate>
+    <item>
+      <title>Nextpad++ 1.1.2</title>
+      <link>https://formulae.brew.sh/cask/nextpad++</link>
+      <description>Unofficial native port of Notepad++ — https://nextpad.org/</description>
+      <guid isPermaLink="false">nextpad++@2026-10-14T02:43:12Z</guid>
+      <pubDate>Wed, 14 Oct 2026 02:43:12 +0000</pubDate>
+    </item>
     <item>
       <title>Tracexy 0.9.1,16</title>
       <link>https://formulae.brew.sh/cask/tracexy</link>
@@ -696,13 +703,6 @@
       <link>https://formulae.brew.sh/cask/agentiloop-agent</link>
       <description>Autonomous agent — https://github.com/AgentiLoop/Agent</description>
       <guid isPermaLink="false">agentiloop-agent@2026-09-17T02:26:50Z</guid>
-      <pubDate>Thu, 17 Sep 2026 02:26:50 +0000</pubDate>
-    </item>
-    <item>
-      <title>BetterMacWidgets 2.3.0</title>
-      <link>https://formulae.brew.sh/cask/bettermacwidgets</link>
-      <description>Live-animated widgets that sit on the desktop — https://bettermacwidgets.de/</description>
-      <guid isPermaLink="false">bettermacwidgets@2026-09-17T02:26:50Z</guid>
       <pubDate>Thu, 17 Sep 2026 02:26:50 +0000</pubDate>
     </item>
   </channel>
