@@ -4,7 +4,49 @@
     <title>New Homebrew Casks</title>
     <link>https://allenhouchins.github.io/new-casks-tracker/</link>
     <description>Newly added Homebrew casks, checked every 6 hours</description>
-    <lastBuildDate>Thu, 15 Oct 2026 02:22:43 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 15 Oct 2026 10:33:59 +0000</lastBuildDate>
+    <item>
+      <title>Biscotti 1.0.0</title>
+      <link>https://formulae.brew.sh/cask/biscotti</link>
+      <description>Private meeting transcription — https://biscottiapp.com/</description>
+      <guid isPermaLink="false">biscotti@2026-10-15T10:33:59Z</guid>
+      <pubDate>Thu, 15 Oct 2026 10:33:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>Capso 1.2.1</title>
+      <link>https://formulae.brew.sh/cask/capso</link>
+      <description>Screenshot and screen recording tool — https://github.com/lzhgus/Capso</description>
+      <guid isPermaLink="false">capso@2026-10-15T10:33:59Z</guid>
+      <pubDate>Thu, 15 Oct 2026 10:33:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>FigCraft 0.6.0</title>
+      <link>https://formulae.brew.sh/cask/figcraft</link>
+      <description>Interface design and prototyping tool — https://getartcraft.com/apps/figcraft</description>
+      <guid isPermaLink="false">figcraft@2026-10-15T10:33:59Z</guid>
+      <pubDate>Thu, 15 Oct 2026 10:33:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>Pulse 0.1.14</title>
+      <link>https://formulae.brew.sh/cask/pulse</link>
+      <description>System activity monitor for CPU, memory, GPU, disk and network — https://pulse.egoist.dev/</description>
+      <guid isPermaLink="false">pulse@2026-10-15T10:33:59Z</guid>
+      <pubDate>Thu, 15 Oct 2026 10:33:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>Receipts Space 3.6,36002</title>
+      <link>https://formulae.brew.sh/cask/receipts-space</link>
+      <description>Organise receipts, invoices and other documents — https://receipts-space.com/</description>
+      <guid isPermaLink="false">receipts-space@2026-10-15T10:33:59Z</guid>
+      <pubDate>Thu, 15 Oct 2026 10:33:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>Vercel CLI 64.0.2</title>
+      <link>https://formulae.brew.sh/cask/vercel</link>
+      <description>Command-line interface for Vercel — https://vercel.com/docs/cli</description>
+      <guid isPermaLink="false">vercel@2026-10-15T10:33:59Z</guid>
+      <pubDate>Thu, 15 Oct 2026 10:33:59 +0000</pubDate>
+    </item>
     <item>
       <title>Ioskeley Mono Term Nerd Font 2.1.0</title>
       <link>https://formulae.brew.sh/cask/font-ioskeley-mono-term-nerd-font</link>
@@ -662,48 +704,6 @@
       <description>Markdown editor — https://colamd.com/</description>
       <guid isPermaLink="false">colamd@2026-09-19T09:57:15Z</guid>
       <pubDate>Sat, 19 Sep 2026 09:57:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>INCY 3.8.6</title>
-      <link>https://formulae.brew.sh/cask/incy</link>
-      <description>Proxy client — https://incy.cc/</description>
-      <guid isPermaLink="false">incy@2026-09-19T09:57:15Z</guid>
-      <pubDate>Sat, 19 Sep 2026 09:57:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>Muse 2.0</title>
-      <link>https://formulae.brew.sh/cask/muse</link>
-      <description>AI assistant for managing tasks, projects, and long-term goals — https://muse.ai/</description>
-      <guid isPermaLink="false">muse@2026-09-19T09:57:15Z</guid>
-      <pubDate>Sat, 19 Sep 2026 09:57:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>OpenPLC Editor 4.3.0</title>
-      <link>https://formulae.brew.sh/cask/openplc-editor</link>
-      <description>IDE for creating programs for the OpenPLC Runtime — https://github.com/Autonomy-Logic/openplc-editor</description>
-      <guid isPermaLink="false">openplc-editor@2026-09-19T09:57:15Z</guid>
-      <pubDate>Sat, 19 Sep 2026 09:57:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>腾讯应用宝 0.8.1.2162,v86aPbKEPoXhM6CV</title>
-      <link>https://formulae.brew.sh/cask/tencent-yingyongbao</link>
-      <description>Tencent application store — https://sj.qq.com/download/macbrand</description>
-      <guid isPermaLink="false">tencent-yingyongbao@2026-09-19T09:57:15Z</guid>
-      <pubDate>Sat, 19 Sep 2026 09:57:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>TapMap 1.14.1</title>
-      <link>https://formulae.brew.sh/cask/tapmap</link>
-      <description>Visualise network connections on an interactive world map — https://tip.no/tapmap/</description>
-      <guid isPermaLink="false">tapmap@2026-09-18T15:27:12Z</guid>
-      <pubDate>Fri, 18 Sep 2026 15:27:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>Kaku 0.20.0</title>
-      <link>https://formulae.brew.sh/cask/kaku</link>
-      <description>Terminal optimised for AI coding — https://github.com/tw93/Kaku</description>
-      <guid isPermaLink="false">kaku@2026-09-17T10:39:30Z</guid>
-      <pubDate>Thu, 17 Sep 2026 10:39:30 +0000</pubDate>
     </item>
   </channel>
 </rss>

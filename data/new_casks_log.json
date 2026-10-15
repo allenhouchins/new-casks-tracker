@@ -1572,5 +1572,53 @@
     "homepage": "https://github.com/ahatem/IoskeleyMono",
     "version": "2.1.0",
     "detected_at": "2026-10-15T02:22:43.184140707Z"
+  },
+  {
+    "token": "biscotti",
+    "name": "Biscotti",
+    "desc": "Private meeting transcription",
+    "homepage": "https://biscottiapp.com/",
+    "version": "1.0.0",
+    "detected_at": "2026-10-15T10:33:59.825541501Z"
+  },
+  {
+    "token": "capso",
+    "name": "Capso",
+    "desc": "Screenshot and screen recording tool",
+    "homepage": "https://github.com/lzhgus/Capso",
+    "version": "1.2.1",
+    "detected_at": "2026-10-15T10:33:59.825541501Z"
+  },
+  {
+    "token": "figcraft",
+    "name": "FigCraft",
+    "desc": "Interface design and prototyping tool",
+    "homepage": "https://getartcraft.com/apps/figcraft",
+    "version": "0.6.0",
+    "detected_at": "2026-10-15T10:33:59.825541501Z"
+  },
+  {
+    "token": "pulse",
+    "name": "Pulse",
+    "desc": "System activity monitor for CPU, memory, GPU, disk and network",
+    "homepage": "https://pulse.egoist.dev/",
+    "version": "0.1.14",
+    "detected_at": "2026-10-15T10:33:59.825541501Z"
+  },
+  {
+    "token": "receipts-space",
+    "name": "Receipts Space",
+    "desc": "Organise receipts, invoices and other documents",
+    "homepage": "https://receipts-space.com/",
+    "version": "3.6,36002",
+    "detected_at": "2026-10-15T10:33:59.825541501Z"
+  },
+  {
+    "token": "vercel",
+    "name": "Vercel CLI",
+    "desc": "Command-line interface for Vercel",
+    "homepage": "https://vercel.com/docs/cli",
+    "version": "64.0.2",
+    "detected_at": "2026-10-15T10:33:59.825541501Z"
   }
 ]
