@@ -1620,5 +1620,13 @@
     "homepage": "https://vercel.com/docs/cli",
     "version": "64.0.2",
     "detected_at": "2026-10-15T10:33:59.825541501Z"
+  },
+  {
+    "token": "tine",
+    "name": "Tine",
+    "desc": "Outliner for Markdown and Org notes",
+    "homepage": "https://tine.page/",
+    "version": "0.7.3",
+    "detected_at": "2026-10-15T15:58:31.164346242Z"
   }
 ]
