@@ -1628,5 +1628,45 @@
     "homepage": "https://tine.page/",
     "version": "0.7.3",
     "detected_at": "2026-10-15T15:58:31.164346242Z"
+  },
+  {
+    "token": "notomo",
+    "name": "Notomo",
+    "desc": "Markdown shortcuts, quick actions and AI for Apple Notes",
+    "homepage": "https://notomo.app/",
+    "version": "0.43.0",
+    "detected_at": "2026-10-16T15:46:36.07080267Z"
+  },
+  {
+    "token": "petal",
+    "name": "Petal",
+    "desc": "Multi-window screen sharing where each shared window becomes a native window",
+    "homepage": "https://petal.live/",
+    "version": "0.9.30",
+    "detected_at": "2026-10-16T15:46:36.07080267Z"
+  },
+  {
+    "token": "superhuman-docs",
+    "name": "Superhuman Docs",
+    "desc": "Desktop client for team documents",
+    "homepage": "https://superhuman.com/docs",
+    "version": "1.0.13",
+    "detected_at": "2026-10-16T15:46:36.07080267Z"
+  },
+  {
+    "token": "switchbar",
+    "name": "Switchbar",
+    "desc": "Browser and email client picker",
+    "homepage": "https://switchbar.com/en",
+    "version": "33.0.1",
+    "detected_at": "2026-10-16T15:46:36.07080267Z"
+  },
+  {
+    "token": "vernier-instrumental-analysis",
+    "name": "Vernier Instrumental Analysis",
+    "desc": "Instrument data acquisition tool",
+    "homepage": "https://www.vernier.com/product/instrumental-analysis/",
+    "version": "2.0.0-1994",
+    "detected_at": "2026-10-16T15:46:36.07080267Z"
   }
 ]

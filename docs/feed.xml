@@ -4,7 +4,42 @@
     <title>New Homebrew Casks</title>
     <link>https://allenhouchins.github.io/new-casks-tracker/</link>
     <description>Newly added Homebrew casks, checked every 6 hours</description>
-    <lastBuildDate>Fri, 16 Oct 2026 10:20:57 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 16 Oct 2026 15:46:36 +0000</lastBuildDate>
+    <item>
+      <title>Notomo 0.43.0</title>
+      <link>https://formulae.brew.sh/cask/notomo</link>
+      <description>Markdown shortcuts, quick actions and AI for Apple Notes — https://notomo.app/</description>
+      <guid isPermaLink="false">notomo@2026-10-16T15:46:36Z</guid>
+      <pubDate>Fri, 16 Oct 2026 15:46:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>Petal 0.9.30</title>
+      <link>https://formulae.brew.sh/cask/petal</link>
+      <description>Multi-window screen sharing where each shared window becomes a native window — https://petal.live/</description>
+      <guid isPermaLink="false">petal@2026-10-16T15:46:36Z</guid>
+      <pubDate>Fri, 16 Oct 2026 15:46:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>Superhuman Docs 1.0.13</title>
+      <link>https://formulae.brew.sh/cask/superhuman-docs</link>
+      <description>Desktop client for team documents — https://superhuman.com/docs</description>
+      <guid isPermaLink="false">superhuman-docs@2026-10-16T15:46:36Z</guid>
+      <pubDate>Fri, 16 Oct 2026 15:46:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>Switchbar 33.0.1</title>
+      <link>https://formulae.brew.sh/cask/switchbar</link>
+      <description>Browser and email client picker — https://switchbar.com/en</description>
+      <guid isPermaLink="false">switchbar@2026-10-16T15:46:36Z</guid>
+      <pubDate>Fri, 16 Oct 2026 15:46:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>Vernier Instrumental Analysis 2.0.0-1994</title>
+      <link>https://formulae.brew.sh/cask/vernier-instrumental-analysis</link>
+      <description>Instrument data acquisition tool — https://www.vernier.com/product/instrumental-analysis/</description>
+      <guid isPermaLink="false">vernier-instrumental-analysis@2026-10-16T15:46:36Z</guid>
+      <pubDate>Fri, 16 Oct 2026 15:46:36 +0000</pubDate>
+    </item>
     <item>
       <title>Tine 0.7.3</title>
       <link>https://formulae.brew.sh/cask/tine</link>
@@ -669,41 +704,6 @@
       <description>Finance terminal — https://gloom.sh/</description>
       <guid isPermaLink="false">gloomberb@2026-09-21T02:22:30Z</guid>
       <pubDate>Mon, 21 Sep 2026 02:22:30 +0000</pubDate>
-    </item>
-    <item>
-      <title>Recordly 1.4.0</title>
-      <link>https://formulae.brew.sh/cask/recordly</link>
-      <description>Creator-focused screen recorder with auto-zoom, cursor effects, and more — https://github.com/webadderallorg/Recordly</description>
-      <guid isPermaLink="false">recordly@2026-09-21T02:22:30Z</guid>
-      <pubDate>Mon, 21 Sep 2026 02:22:30 +0000</pubDate>
-    </item>
-    <item>
-      <title>RuSwitcher 3.3.0</title>
-      <link>https://formulae.brew.sh/cask/ruswitcher</link>
-      <description>Keyboard layout switcher — https://github.com/rashn/RuSwitcher</description>
-      <guid isPermaLink="false">ruswitcher@2026-09-20T15:06:00Z</guid>
-      <pubDate>Sun, 20 Sep 2026 15:06:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>JLCONE 1.0.71</title>
-      <link>https://formulae.brew.sh/cask/jlcone</link>
-      <description>Desktop client for JLCPCB quoting, ordering and order tracking — https://jlcone.com/download</description>
-      <guid isPermaLink="false">jlcone@2026-09-20T10:17:48Z</guid>
-      <pubDate>Sun, 20 Sep 2026 10:17:48 +0000</pubDate>
-    </item>
-    <item>
-      <title>Reolink Client 8.21.12,2026.07,230926448887f151e9d6d10f</title>
-      <link>https://formulae.brew.sh/cask/reolink</link>
-      <description>Client for viewing and managing security cameras and NVRs — https://reolink.com/software-and-manual/</description>
-      <guid isPermaLink="false">reolink@2026-09-20T10:17:48Z</guid>
-      <pubDate>Sun, 20 Sep 2026 10:17:48 +0000</pubDate>
-    </item>
-    <item>
-      <title>Google Sans latest</title>
-      <link>https://formulae.brew.sh/cask/font-google-sans</link>
-      <description>— https://fonts.google.com/specimen/Google+Sans</description>
-      <guid isPermaLink="false">font-google-sans@2026-09-20T02:23:52Z</guid>
-      <pubDate>Sun, 20 Sep 2026 02:23:52 +0000</pubDate>
     </item>
   </channel>
 </rss>
