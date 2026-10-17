@@ -4,7 +4,21 @@
     <title>New Homebrew Casks</title>
     <link>https://allenhouchins.github.io/new-casks-tracker/</link>
     <description>Newly added Homebrew casks, checked every 6 hours</description>
-    <lastBuildDate>Sat, 17 Oct 2026 09:53:52 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 17 Oct 2026 14:39:17 +0000</lastBuildDate>
+    <item>
+      <title>Libron 0.31</title>
+      <link>https://formulae.brew.sh/cask/font-libron</link>
+      <description>— https://nicoverbruggen.be/fonts</description>
+      <guid isPermaLink="false">font-libron@2026-10-17T14:39:17Z</guid>
+      <pubDate>Sat, 17 Oct 2026 14:39:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>PortKiller 3.4.0</title>
+      <link>https://formulae.brew.sh/cask/portkiller</link>
+      <description>Monitor listening ports and kill their processes — https://github.com/productdevbook/port-killer</description>
+      <guid isPermaLink="false">portkiller@2026-10-17T14:39:17Z</guid>
+      <pubDate>Sat, 17 Oct 2026 14:39:17 +0000</pubDate>
+    </item>
     <item>
       <title>Cleeen 0.12.3</title>
       <link>https://formulae.brew.sh/cask/cleeen</link>
@@ -690,20 +704,6 @@
       <description>Local-first runtime firewall for AI coding agents — https://hol.org/guard</description>
       <guid isPermaLink="false">hol-guard@2026-09-23T10:28:23Z</guid>
       <pubDate>Wed, 23 Sep 2026 10:28:23 +0000</pubDate>
-    </item>
-    <item>
-      <title>Look 0.7.1</title>
-      <link>https://formulae.brew.sh/cask/look</link>
-      <description>Keyboard-first local launcher — https://github.com/kunkka19xx/look</description>
-      <guid isPermaLink="false">look@2026-09-23T10:28:23Z</guid>
-      <pubDate>Wed, 23 Sep 2026 10:28:23 +0000</pubDate>
-    </item>
-    <item>
-      <title>OpenClip 1.6.2</title>
-      <link>https://formulae.brew.sh/cask/openclip</link>
-      <description>Instant actions for selected text — https://www.getopenclip.app/</description>
-      <guid isPermaLink="false">openclip@2026-09-22T20:39:29Z</guid>
-      <pubDate>Tue, 22 Sep 2026 20:39:29 +0000</pubDate>
     </item>
   </channel>
 </rss>

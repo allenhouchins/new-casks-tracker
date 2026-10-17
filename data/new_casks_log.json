@@ -1684,5 +1684,20 @@
     "homepage": "https://www.shadow.do/",
     "version": "2.3.8,133",
     "detected_at": "2026-10-17T09:53:52.013396982Z"
+  },
+  {
+    "token": "font-libron",
+    "name": "Libron",
+    "homepage": "https://nicoverbruggen.be/fonts",
+    "version": "0.31",
+    "detected_at": "2026-10-17T14:39:17.656324756Z"
+  },
+  {
+    "token": "portkiller",
+    "name": "PortKiller",
+    "desc": "Monitor listening ports and kill their processes",
+    "homepage": "https://github.com/productdevbook/port-killer",
+    "version": "3.4.0",
+    "detected_at": "2026-10-17T14:39:17.656324756Z"
   }
 ]
