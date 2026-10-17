@@ -1668,5 +1668,21 @@
     "homepage": "https://www.vernier.com/product/instrumental-analysis/",
     "version": "2.0.0-1994",
     "detected_at": "2026-10-16T15:46:36.07080267Z"
+  },
+  {
+    "token": "cleeen",
+    "name": "Cleeen",
+    "desc": "Disk cleaner",
+    "homepage": "https://cleeen.fehey.com/",
+    "version": "0.12.3",
+    "detected_at": "2026-10-17T09:53:52.013396982Z"
+  },
+  {
+    "token": "taperlabs-shadow",
+    "name": "Shadow",
+    "desc": "AI meeting notetaker",
+    "homepage": "https://www.shadow.do/",
+    "version": "2.3.8,133",
+    "detected_at": "2026-10-17T09:53:52.013396982Z"
   }
 ]
