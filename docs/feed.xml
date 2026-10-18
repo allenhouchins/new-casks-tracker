@@ -4,7 +4,63 @@
     <title>New Homebrew Casks</title>
     <link>https://allenhouchins.github.io/new-casks-tracker/</link>
     <description>Newly added Homebrew casks, checked every 6 hours</description>
-    <lastBuildDate>Sat, 17 Oct 2026 19:51:25 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 18 Oct 2026 02:08:46 +0000</lastBuildDate>
+    <item>
+      <title>Firjar latest</title>
+      <link>https://formulae.brew.sh/cask/font-firjar</link>
+      <description>— https://github.com/Mestaratype/Firjar</description>
+      <guid isPermaLink="false">font-firjar@2026-10-18T02:08:46Z</guid>
+      <pubDate>Sun, 18 Oct 2026 02:08:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>Redaction latest</title>
+      <link>https://formulae.brew.sh/cask/font-redaction</link>
+      <description>— https://github.com/jeremymickel/Redaction</description>
+      <guid isPermaLink="false">font-redaction@2026-10-18T02:08:46Z</guid>
+      <pubDate>Sun, 18 Oct 2026 02:08:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>Redaction 10 latest</title>
+      <link>https://formulae.brew.sh/cask/font-redaction-10</link>
+      <description>— https://github.com/jeremymickel/Redaction</description>
+      <guid isPermaLink="false">font-redaction-10@2026-10-18T02:08:46Z</guid>
+      <pubDate>Sun, 18 Oct 2026 02:08:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>Redaction 100 latest</title>
+      <link>https://formulae.brew.sh/cask/font-redaction-100</link>
+      <description>— https://github.com/jeremymickel/Redaction</description>
+      <guid isPermaLink="false">font-redaction-100@2026-10-18T02:08:46Z</guid>
+      <pubDate>Sun, 18 Oct 2026 02:08:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>Redaction 20 latest</title>
+      <link>https://formulae.brew.sh/cask/font-redaction-20</link>
+      <description>— https://github.com/jeremymickel/Redaction</description>
+      <guid isPermaLink="false">font-redaction-20@2026-10-18T02:08:46Z</guid>
+      <pubDate>Sun, 18 Oct 2026 02:08:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>Redaction 35 latest</title>
+      <link>https://formulae.brew.sh/cask/font-redaction-35</link>
+      <description>— https://github.com/jeremymickel/Redaction</description>
+      <guid isPermaLink="false">font-redaction-35@2026-10-18T02:08:46Z</guid>
+      <pubDate>Sun, 18 Oct 2026 02:08:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>Redaction 50 latest</title>
+      <link>https://formulae.brew.sh/cask/font-redaction-50</link>
+      <description>— https://github.com/jeremymickel/Redaction</description>
+      <guid isPermaLink="false">font-redaction-50@2026-10-18T02:08:46Z</guid>
+      <pubDate>Sun, 18 Oct 2026 02:08:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>Redaction 70 latest</title>
+      <link>https://formulae.brew.sh/cask/font-redaction-70</link>
+      <description>— https://github.com/jeremymickel/Redaction</description>
+      <guid isPermaLink="false">font-redaction-70@2026-10-18T02:08:46Z</guid>
+      <pubDate>Sun, 18 Oct 2026 02:08:46 +0000</pubDate>
+    </item>
     <item>
       <title>Libron 0.31</title>
       <link>https://formulae.brew.sh/cask/font-libron</link>
@@ -648,62 +704,6 @@
       <description>Photoshop alternative — https://github.com/robbietilton/Compositor</description>
       <guid isPermaLink="false">robbietilton-compositor@2026-09-25T10:49:38Z</guid>
       <pubDate>Fri, 25 Sep 2026 10:49:38 +0000</pubDate>
-    </item>
-    <item>
-      <title>MindRoom 2026.9.280</title>
-      <link>https://formulae.brew.sh/cask/mindroom</link>
-      <description>Self-hostable AI stack for multi-user, multi-agent workflows on Matrix — https://github.com/mindroom-ai/mindroom</description>
-      <guid isPermaLink="false">mindroom@2026-09-25T02:31:26Z</guid>
-      <pubDate>Fri, 25 Sep 2026 02:31:26 +0000</pubDate>
-    </item>
-    <item>
-      <title>BuhoLaunchpad 1.10.2</title>
-      <link>https://formulae.brew.sh/cask/buholaunchpad</link>
-      <description>Launchpad alternative — https://www.drbuho.com/buholaunchpad</description>
-      <guid isPermaLink="false">buholaunchpad@2026-09-24T16:08:26Z</guid>
-      <pubDate>Thu, 24 Sep 2026 16:08:26 +0000</pubDate>
-    </item>
-    <item>
-      <title>SSL 360 2.1.12.72214</title>
-      <link>https://formulae.brew.sh/cask/ssl-360</link>
-      <description>Plugin mixer and control software for SSL 360-enabled hardware — https://www.solidstatelogic.com/products/ssl-360</description>
-      <guid isPermaLink="false">ssl-360@2026-09-23T20:51:19Z</guid>
-      <pubDate>Wed, 23 Sep 2026 20:51:19 +0000</pubDate>
-    </item>
-    <item>
-      <title>Caldera Amp 1.1.1</title>
-      <link>https://formulae.brew.sh/cask/caldera-amp</link>
-      <description>Headless player for Plex music servers — https://caldera.homes/music/amp/</description>
-      <guid isPermaLink="false">caldera-amp@2026-09-23T10:28:23Z</guid>
-      <pubDate>Wed, 23 Sep 2026 10:28:23 +0000</pubDate>
-    </item>
-    <item>
-      <title>Cline 0.0.34</title>
-      <link>https://formulae.brew.sh/cask/cline-app</link>
-      <description>AI coding agent — https://cline.bot/</description>
-      <guid isPermaLink="false">cline-app@2026-09-23T10:28:23Z</guid>
-      <pubDate>Wed, 23 Sep 2026 10:28:23 +0000</pubDate>
-    </item>
-    <item>
-      <title>DeviceShelf 1.9.53</title>
-      <link>https://formulae.brew.sh/cask/deviceshelf</link>
-      <description>Scanner for devices, open ports and security risks on the local network — https://deviceshelf.app/</description>
-      <guid isPermaLink="false">deviceshelf@2026-09-23T10:28:23Z</guid>
-      <pubDate>Wed, 23 Sep 2026 10:28:23 +0000</pubDate>
-    </item>
-    <item>
-      <title>Highball 0.9.35</title>
-      <link>https://formulae.brew.sh/cask/highball</link>
-      <description>Tool to run Windows games — https://github.com/gauthierpiarrette/highball</description>
-      <guid isPermaLink="false">highball@2026-09-23T10:28:23Z</guid>
-      <pubDate>Wed, 23 Sep 2026 10:28:23 +0000</pubDate>
-    </item>
-    <item>
-      <title>HOL Guard 3.0.97</title>
-      <link>https://formulae.brew.sh/cask/hol-guard</link>
-      <description>Local-first runtime firewall for AI coding agents — https://hol.org/guard</description>
-      <guid isPermaLink="false">hol-guard@2026-09-23T10:28:23Z</guid>
-      <pubDate>Wed, 23 Sep 2026 10:28:23 +0000</pubDate>
     </item>
   </channel>
 </rss>

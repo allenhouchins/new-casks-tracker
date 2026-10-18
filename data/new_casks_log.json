@@ -1699,5 +1699,61 @@
     "homepage": "https://github.com/productdevbook/port-killer",
     "version": "3.4.0",
     "detected_at": "2026-10-17T14:39:17.656324756Z"
+  },
+  {
+    "token": "font-firjar",
+    "name": "Firjar",
+    "homepage": "https://github.com/Mestaratype/Firjar",
+    "version": "latest",
+    "detected_at": "2026-10-18T02:08:46.281969983Z"
+  },
+  {
+    "token": "font-redaction",
+    "name": "Redaction",
+    "homepage": "https://github.com/jeremymickel/Redaction",
+    "version": "latest",
+    "detected_at": "2026-10-18T02:08:46.281969983Z"
+  },
+  {
+    "token": "font-redaction-10",
+    "name": "Redaction 10",
+    "homepage": "https://github.com/jeremymickel/Redaction",
+    "version": "latest",
+    "detected_at": "2026-10-18T02:08:46.281969983Z"
+  },
+  {
+    "token": "font-redaction-100",
+    "name": "Redaction 100",
+    "homepage": "https://github.com/jeremymickel/Redaction",
+    "version": "latest",
+    "detected_at": "2026-10-18T02:08:46.281969983Z"
+  },
+  {
+    "token": "font-redaction-20",
+    "name": "Redaction 20",
+    "homepage": "https://github.com/jeremymickel/Redaction",
+    "version": "latest",
+    "detected_at": "2026-10-18T02:08:46.281969983Z"
+  },
+  {
+    "token": "font-redaction-35",
+    "name": "Redaction 35",
+    "homepage": "https://github.com/jeremymickel/Redaction",
+    "version": "latest",
+    "detected_at": "2026-10-18T02:08:46.281969983Z"
+  },
+  {
+    "token": "font-redaction-50",
+    "name": "Redaction 50",
+    "homepage": "https://github.com/jeremymickel/Redaction",
+    "version": "latest",
+    "detected_at": "2026-10-18T02:08:46.281969983Z"
+  },
+  {
+    "token": "font-redaction-70",
+    "name": "Redaction 70",
+    "homepage": "https://github.com/jeremymickel/Redaction",
+    "version": "latest",
+    "detected_at": "2026-10-18T02:08:46.281969983Z"
   }
 ]
