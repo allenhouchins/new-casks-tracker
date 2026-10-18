@@ -1779,5 +1779,13 @@
     "homepage": "https://zealdocs.org/",
     "version": "0.9.1",
     "detected_at": "2026-10-18T10:05:53.868945135Z"
+  },
+  {
+    "token": "artcraft-launcher",
+    "name": "ArtCraft Launcher",
+    "desc": "Installer and updater for the Craft App Suite",
+    "homepage": "https://github.com/storytold/craft-launcher",
+    "version": "0.5.1",
+    "detected_at": "2026-10-18T15:06:06.805212401Z"
   }
 ]
