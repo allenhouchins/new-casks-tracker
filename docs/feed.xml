@@ -4,7 +4,28 @@
     <title>New Homebrew Casks</title>
     <link>https://allenhouchins.github.io/new-casks-tracker/</link>
     <description>Newly added Homebrew casks, checked every 6 hours</description>
-    <lastBuildDate>Sun, 18 Oct 2026 02:08:46 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 18 Oct 2026 10:05:53 +0000</lastBuildDate>
+    <item>
+      <title>OpenDisplay Receiver 1.25.0</title>
+      <link>https://formulae.brew.sh/cask/opendisplay-receiver</link>
+      <description>Receiver that turns a computer into a second display for OpenDisplay — https://opendisplay.app/</description>
+      <guid isPermaLink="false">opendisplay-receiver@2026-10-18T10:05:53Z</guid>
+      <pubDate>Sun, 18 Oct 2026 10:05:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>Tutti 0.2.33</title>
+      <link>https://formulae.brew.sh/cask/tutti</link>
+      <description>Workspace for connecting and coordinating AI agents — https://tutti.sh/</description>
+      <guid isPermaLink="false">tutti@2026-10-18T10:05:53Z</guid>
+      <pubDate>Sun, 18 Oct 2026 10:05:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>Zeal 0.9.1</title>
+      <link>https://formulae.brew.sh/cask/zeal</link>
+      <description>Offline documentation browser — https://zealdocs.org/</description>
+      <guid isPermaLink="false">zeal@2026-10-18T10:05:53Z</guid>
+      <pubDate>Sun, 18 Oct 2026 10:05:53 +0000</pubDate>
+    </item>
     <item>
       <title>Firjar latest</title>
       <link>https://formulae.brew.sh/cask/font-firjar</link>
@@ -682,27 +703,6 @@
       <link>https://formulae.brew.sh/cask/activitywatch@experimental</link>
       <description>Time tracker — https://activitywatch.net/</description>
       <guid isPermaLink="false">activitywatch@experimental@2026-09-25T10:49:38Z</guid>
-      <pubDate>Fri, 25 Sep 2026 10:49:38 +0000</pubDate>
-    </item>
-    <item>
-      <title>Amp 1.0,540</title>
-      <link>https://formulae.brew.sh/cask/amp-app</link>
-      <description>Coding agent and development environment — https://ampcode.com/app</description>
-      <guid isPermaLink="false">amp-app@2026-09-25T10:49:38Z</guid>
-      <pubDate>Fri, 25 Sep 2026 10:49:38 +0000</pubDate>
-    </item>
-    <item>
-      <title>Pennstander 0.4.1</title>
-      <link>https://formulae.brew.sh/cask/font-pennstander</link>
-      <description>— https://github.com/juliusross1/Pennstander</description>
-      <guid isPermaLink="false">font-pennstander@2026-09-25T10:49:38Z</guid>
-      <pubDate>Fri, 25 Sep 2026 10:49:38 +0000</pubDate>
-    </item>
-    <item>
-      <title>Compositor 1.2.11</title>
-      <link>https://formulae.brew.sh/cask/robbietilton-compositor</link>
-      <description>Photoshop alternative — https://github.com/robbietilton/Compositor</description>
-      <guid isPermaLink="false">robbietilton-compositor@2026-09-25T10:49:38Z</guid>
       <pubDate>Fri, 25 Sep 2026 10:49:38 +0000</pubDate>
     </item>
   </channel>

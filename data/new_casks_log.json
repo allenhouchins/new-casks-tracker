@@ -1755,5 +1755,29 @@
     "homepage": "https://github.com/jeremymickel/Redaction",
     "version": "latest",
     "detected_at": "2026-10-18T02:08:46.281969983Z"
+  },
+  {
+    "token": "opendisplay-receiver",
+    "name": "OpenDisplay Receiver",
+    "desc": "Receiver that turns a computer into a second display for OpenDisplay",
+    "homepage": "https://opendisplay.app/",
+    "version": "1.25.0",
+    "detected_at": "2026-10-18T10:05:53.868945135Z"
+  },
+  {
+    "token": "tutti",
+    "name": "Tutti",
+    "desc": "Workspace for connecting and coordinating AI agents",
+    "homepage": "https://tutti.sh/",
+    "version": "0.2.33",
+    "detected_at": "2026-10-18T10:05:53.868945135Z"
+  },
+  {
+    "token": "zeal",
+    "name": "Zeal",
+    "desc": "Offline documentation browser",
+    "homepage": "https://zealdocs.org/",
+    "version": "0.9.1",
+    "detected_at": "2026-10-18T10:05:53.868945135Z"
   }
 ]
