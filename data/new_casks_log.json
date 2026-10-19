@@ -1811,5 +1811,13 @@
     "homepage": "https://textus.catvinci.com/",
     "version": "1.1.0",
     "detected_at": "2026-10-19T11:34:40.852409848Z"
+  },
+  {
+    "token": "status-trio",
+    "name": "Status Trio",
+    "desc": "Menu bar and Dock monitor for Wi-Fi, battery, and volume",
+    "homepage": "https://github.com/lingyired/status-trio",
+    "version": "1.6.0",
+    "detected_at": "2026-10-19T17:57:36.036005757Z"
   }
 ]
