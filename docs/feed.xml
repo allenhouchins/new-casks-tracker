@@ -4,7 +4,28 @@
     <title>New Homebrew Casks</title>
     <link>https://allenhouchins.github.io/new-casks-tracker/</link>
     <description>Newly added Homebrew casks, checked every 6 hours</description>
-    <lastBuildDate>Mon, 19 Oct 2026 02:24:58 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 19 Oct 2026 11:34:40 +0000</lastBuildDate>
+    <item>
+      <title>REW 5.31.3</title>
+      <link>https://formulae.brew.sh/cask/rew</link>
+      <description>Record, visualise and measure audio — https://www.roomeqwizard.com/</description>
+      <guid isPermaLink="false">rew@2026-10-19T11:34:40Z</guid>
+      <pubDate>Mon, 19 Oct 2026 11:34:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>Tamery 0.99.0</title>
+      <link>https://formulae.brew.sh/cask/tamery</link>
+      <description>AI-powered database client — https://tamery.app/</description>
+      <guid isPermaLink="false">tamery@2026-10-19T11:34:40Z</guid>
+      <pubDate>Mon, 19 Oct 2026 11:34:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>Textus 1.1.0</title>
+      <link>https://formulae.brew.sh/cask/textus</link>
+      <description>WYSIWYG Markdown editor with built-in AI writing tools — https://textus.catvinci.com/</description>
+      <guid isPermaLink="false">textus@2026-10-19T11:34:40Z</guid>
+      <pubDate>Mon, 19 Oct 2026 11:34:40 +0000</pubDate>
+    </item>
     <item>
       <title>ArtCraft Launcher 0.5.1</title>
       <link>https://formulae.brew.sh/cask/artcraft-launcher</link>
@@ -683,27 +704,6 @@
       <description>Version control and source code management tool — https://docs.unity.com/en-us/unity-version-control</description>
       <guid isPermaLink="false">unity-version-control@2026-09-27T11:02:07Z</guid>
       <pubDate>Sun, 27 Sep 2026 11:02:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>Xmind latest</title>
-      <link>https://formulae.brew.sh/cask/font-xmind</link>
-      <description>— https://github.com/lamzhonghang/xmind</description>
-      <guid isPermaLink="false">font-xmind@2026-09-27T02:32:15Z</guid>
-      <pubDate>Sun, 27 Sep 2026 02:32:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>SSL Download Manager 1.6.10</title>
-      <link>https://formulae.brew.sh/cask/ssl-download-manager</link>
-      <description>Software manager for SSL plug-ins — https://www.solidstatelogic.com/ssl-download-manager</description>
-      <guid isPermaLink="false">ssl-download-manager@2026-09-26T15:22:46Z</guid>
-      <pubDate>Sat, 26 Sep 2026 15:22:46 +0000</pubDate>
-    </item>
-    <item>
-      <title>Local Studio 2.16.0</title>
-      <link>https://formulae.brew.sh/cask/local-studio</link>
-      <description>Local workstation for running and managing language models — https://localstudio.ai/</description>
-      <guid isPermaLink="false">local-studio@2026-09-26T02:34:13Z</guid>
-      <pubDate>Sat, 26 Sep 2026 02:34:13 +0000</pubDate>
     </item>
   </channel>
 </rss>

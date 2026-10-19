@@ -1787,5 +1787,29 @@
     "homepage": "https://github.com/storytold/craft-launcher",
     "version": "0.5.1",
     "detected_at": "2026-10-18T15:06:06.805212401Z"
+  },
+  {
+    "token": "rew",
+    "name": "REW",
+    "desc": "Record, visualise and measure audio",
+    "homepage": "https://www.roomeqwizard.com/",
+    "version": "5.31.3",
+    "detected_at": "2026-10-19T11:34:40.852409848Z"
+  },
+  {
+    "token": "tamery",
+    "name": "Tamery",
+    "desc": "AI-powered database client",
+    "homepage": "https://tamery.app/",
+    "version": "0.99.0",
+    "detected_at": "2026-10-19T11:34:40.852409848Z"
+  },
+  {
+    "token": "textus",
+    "name": "Textus",
+    "desc": "WYSIWYG Markdown editor with built-in AI writing tools",
+    "homepage": "https://textus.catvinci.com/",
+    "version": "1.1.0",
+    "detected_at": "2026-10-19T11:34:40.852409848Z"
   }
 ]
