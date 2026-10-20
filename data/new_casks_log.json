@@ -1819,5 +1819,13 @@
     "homepage": "https://github.com/lingyired/status-trio",
     "version": "1.6.0",
     "detected_at": "2026-10-19T17:57:36.036005757Z"
+  },
+  {
+    "token": "hotkeyclash",
+    "name": "HotkeyClash",
+    "desc": "Keyboard shortcut conflict detector",
+    "homepage": "https://hotkeyclash.com/",
+    "version": "0.9.2",
+    "detected_at": "2026-10-20T16:01:51.77500494Z"
   }
 ]
