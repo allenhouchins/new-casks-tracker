@@ -4,7 +4,28 @@
     <title>New Homebrew Casks</title>
     <link>https://allenhouchins.github.io/new-casks-tracker/</link>
     <description>Newly added Homebrew casks, checked every 6 hours</description>
-    <lastBuildDate>Wed, 21 Oct 2026 21:01:59 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2026 02:28:57 +0000</lastBuildDate>
+    <item>
+      <title>Clamshell 1.4.24,228</title>
+      <link>https://formulae.brew.sh/cask/clamshell</link>
+      <description>Keep the computer awake with the lid closed and the built-in display dark — https://clamshell.dev/</description>
+      <guid isPermaLink="false">clamshell@2026-10-22T02:28:57Z</guid>
+      <pubDate>Thu, 22 Oct 2026 02:28:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>Nordwand Mono 1.3.3</title>
+      <link>https://formulae.brew.sh/cask/font-nordwand-mono</link>
+      <description>— https://github.com/tywr/Nordwand-Mono/</description>
+      <guid isPermaLink="false">font-nordwand-mono@2026-10-22T02:28:57Z</guid>
+      <pubDate>Thu, 22 Oct 2026 02:28:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>Sprites CLI 2026-10-20-hotfix.1</title>
+      <link>https://formulae.brew.sh/cask/sprites</link>
+      <description>Command-line interface for Fly.io Sprites — https://sprites.dev/</description>
+      <guid isPermaLink="false">sprites@2026-10-22T02:28:57Z</guid>
+      <pubDate>Thu, 22 Oct 2026 02:28:57 +0000</pubDate>
+    </item>
     <item>
       <title>Mengshen Pinyin Handwritten 2.0.0,20261020-153012</title>
       <link>https://formulae.brew.sh/cask/font-mengshen-handwritten</link>
@@ -683,27 +704,6 @@
       <description>— https://learn.microsoft.com/en-us/typography/font-list/aptos</description>
       <guid isPermaLink="false">font-aptos@2026-09-29T17:16:29Z</guid>
       <pubDate>Tue, 29 Sep 2026 17:16:29 +0000</pubDate>
-    </item>
-    <item>
-      <title>Markpad 2.8.0</title>
-      <link>https://formulae.brew.sh/cask/markpad</link>
-      <description>Markdown viewer and editor — https://markpad.dev/</description>
-      <guid isPermaLink="false">markpad@2026-09-29T11:48:43Z</guid>
-      <pubDate>Tue, 29 Sep 2026 11:48:43 +0000</pubDate>
-    </item>
-    <item>
-      <title>ScanSnap Home 4.1.0</title>
-      <link>https://formulae.brew.sh/cask/scansnap-home</link>
-      <description>ScanSnap Scanner software — https://www.pfu.ricoh.com/global/scanners/scansnap/sshome/</description>
-      <guid isPermaLink="false">scansnap-home@2026-09-29T11:48:43Z</guid>
-      <pubDate>Tue, 29 Sep 2026 11:48:43 +0000</pubDate>
-    </item>
-    <item>
-      <title>Pally Companion 0.1.53,276.1</title>
-      <link>https://formulae.brew.sh/cask/pallycompanion</link>
-      <description>AI personal assistant you text — https://pally.com/</description>
-      <guid isPermaLink="false">pallycompanion@2026-09-28T22:45:29Z</guid>
-      <pubDate>Mon, 28 Sep 2026 22:45:29 +0000</pubDate>
     </item>
   </channel>
 </rss>
