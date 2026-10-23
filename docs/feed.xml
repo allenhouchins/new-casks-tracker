@@ -4,7 +4,14 @@
     <title>New Homebrew Casks</title>
     <link>https://allenhouchins.github.io/new-casks-tracker/</link>
     <description>Newly added Homebrew casks, checked every 6 hours</description>
-    <lastBuildDate>Fri, 23 Oct 2026 10:42:49 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 23 Oct 2026 16:07:31 +0000</lastBuildDate>
+    <item>
+      <title>Writer 0.8.0</title>
+      <link>https://formulae.brew.sh/cask/writer</link>
+      <description>Local-first Markdown editor — https://writer.computer/</description>
+      <guid isPermaLink="false">writer@2026-10-23T16:07:31Z</guid>
+      <pubDate>Fri, 23 Oct 2026 16:07:31 +0000</pubDate>
+    </item>
     <item>
       <title>Clamshell 1.4.24,228</title>
       <link>https://formulae.brew.sh/cask/clamshell</link>
@@ -697,13 +704,6 @@
       <description>Plugin-based AI agent desktop application — https://www.deepseek.com/harness/</description>
       <guid isPermaLink="false">deepseek-harness@2026-09-30T03:00:51Z</guid>
       <pubDate>Wed, 30 Sep 2026 03:00:51 +0000</pubDate>
-    </item>
-    <item>
-      <title>Microsoft Aptos font family 4.40</title>
-      <link>https://formulae.brew.sh/cask/font-aptos</link>
-      <description>— https://learn.microsoft.com/en-us/typography/font-list/aptos</description>
-      <guid isPermaLink="false">font-aptos@2026-09-29T17:16:29Z</guid>
-      <pubDate>Tue, 29 Sep 2026 17:16:29 +0000</pubDate>
     </item>
   </channel>
 </rss>
