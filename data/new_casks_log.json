@@ -1897,5 +1897,13 @@
     "homepage": "https://pen.dev/",
     "version": "1.2.19",
     "detected_at": "2026-10-24T02:32:13.214973309Z"
+  },
+  {
+    "token": "airbuild",
+    "name": "AirBuild",
+    "desc": "AI agents that build iOS apps and handle App Store review",
+    "homepage": "https://air.build/",
+    "version": "1.1.138",
+    "detected_at": "2026-10-24T09:59:13.192450439Z"
   }
 ]
