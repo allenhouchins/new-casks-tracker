@@ -4,7 +4,21 @@
     <title>New Homebrew Casks</title>
     <link>https://allenhouchins.github.io/new-casks-tracker/</link>
     <description>Newly added Homebrew casks, checked every 6 hours</description>
-    <lastBuildDate>Sun, 25 Oct 2026 10:23:46 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 25 Oct 2026 15:16:03 +0000</lastBuildDate>
+    <item>
+      <title>magpie 0.1.1525</title>
+      <link>https://formulae.brew.sh/cask/magpie</link>
+      <description>Model gateway for AI coding agents — https://usemagpie.ai/</description>
+      <guid isPermaLink="false">magpie@2026-10-25T15:16:03Z</guid>
+      <pubDate>Sun, 25 Oct 2026 15:16:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>wBlock 3.2.2</title>
+      <link>https://formulae.brew.sh/cask/wblock</link>
+      <description>Ad blocker for Safari — https://skula.me/project/wblock/</description>
+      <guid isPermaLink="false">wblock@2026-10-25T15:16:03Z</guid>
+      <pubDate>Sun, 25 Oct 2026 15:16:03 +0000</pubDate>
+    </item>
     <item>
       <title>Agrave Pro latest</title>
       <link>https://formulae.brew.sh/cask/font-agrave-pro</link>
@@ -689,20 +703,6 @@
       <link>https://formulae.brew.sh/cask/ideashell</link>
       <description>AI partner for notes, voice, and to-dos — https://ideashell.com/</description>
       <guid isPermaLink="false">ideashell@2026-10-02T03:09:18Z</guid>
-      <pubDate>Fri, 02 Oct 2026 03:09:18 +0000</pubDate>
-    </item>
-    <item>
-      <title>ideaShell CN 0.9.21</title>
-      <link>https://formulae.brew.sh/cask/ideashell-cn</link>
-      <description>AI partner for notes, voice, and to-dos (China edition) — https://ideashell.cn/</description>
-      <guid isPermaLink="false">ideashell-cn@2026-10-02T03:09:18Z</guid>
-      <pubDate>Fri, 02 Oct 2026 03:09:18 +0000</pubDate>
-    </item>
-    <item>
-      <title>napari 0.9.2</title>
-      <link>https://formulae.brew.sh/cask/napari</link>
-      <description>Multi-dimensional image viewer for Python — https://napari.org/</description>
-      <guid isPermaLink="false">napari@2026-10-02T03:09:18Z</guid>
       <pubDate>Fri, 02 Oct 2026 03:09:18 +0000</pubDate>
     </item>
   </channel>
