@@ -4,7 +4,28 @@
     <title>New Homebrew Casks</title>
     <link>https://allenhouchins.github.io/new-casks-tracker/</link>
     <description>Newly added Homebrew casks, checked every 6 hours</description>
-    <lastBuildDate>Mon, 26 Oct 2026 02:19:35 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 26 Oct 2026 11:52:29 +0000</lastBuildDate>
+    <item>
+      <title>diri 0.10.1</title>
+      <link>https://formulae.brew.sh/cask/diri</link>
+      <description>Terminal workspace for running coding agents in parallel — https://diri.sh/</description>
+      <guid isPermaLink="false">diri@2026-10-26T11:52:29Z</guid>
+      <pubDate>Mon, 26 Oct 2026 11:52:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>Keyboop 0.4.10</title>
+      <link>https://formulae.brew.sh/cask/keyboop</link>
+      <description>Keyboard layout switcher with local voice dictation — https://keyboop.com/</description>
+      <guid isPermaLink="false">keyboop@2026-10-26T11:52:29Z</guid>
+      <pubDate>Mon, 26 Oct 2026 11:52:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>Peel 1.2.1</title>
+      <link>https://formulae.brew.sh/cask/peel</link>
+      <description>App uninstaller and disk space cleaner — https://peel.tuguidragos.com/</description>
+      <guid isPermaLink="false">peel@2026-10-26T11:52:29Z</guid>
+      <pubDate>Mon, 26 Oct 2026 11:52:29 +0000</pubDate>
+    </item>
     <item>
       <title>magpie 0.1.1525</title>
       <link>https://formulae.brew.sh/cask/magpie</link>
@@ -683,27 +704,6 @@
       <description>Modular, client-server software-defined radio — https://github.com/Newspicel/sdrmm</description>
       <guid isPermaLink="false">sdrmm-app@2026-10-03T02:55:29Z</guid>
       <pubDate>Sat, 03 Oct 2026 02:55:29 +0000</pubDate>
-    </item>
-    <item>
-      <title>Cua Driver 0.32.0</title>
-      <link>https://formulae.brew.sh/cask/cuadriver</link>
-      <description>Background desktop automation driver for AI agents — https://cua.ai/cua-driver</description>
-      <guid isPermaLink="false">cuadriver@2026-10-02T03:09:18Z</guid>
-      <pubDate>Fri, 02 Oct 2026 03:09:18 +0000</pubDate>
-    </item>
-    <item>
-      <title>Hagimi Monitor 1.6.6</title>
-      <link>https://formulae.brew.sh/cask/hagimimonitordirect</link>
-      <description>Menu bar monitor for system performance and hardware — https://acerola-1.github.io/hagimi-monitor/</description>
-      <guid isPermaLink="false">hagimimonitordirect@2026-10-02T03:09:18Z</guid>
-      <pubDate>Fri, 02 Oct 2026 03:09:18 +0000</pubDate>
-    </item>
-    <item>
-      <title>ideaShell 0.9.20</title>
-      <link>https://formulae.brew.sh/cask/ideashell</link>
-      <description>AI partner for notes, voice, and to-dos — https://ideashell.com/</description>
-      <guid isPermaLink="false">ideashell@2026-10-02T03:09:18Z</guid>
-      <pubDate>Fri, 02 Oct 2026 03:09:18 +0000</pubDate>
     </item>
   </channel>
 </rss>

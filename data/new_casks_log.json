@@ -1928,5 +1928,29 @@
     "homepage": "https://skula.me/project/wblock/",
     "version": "3.2.2",
     "detected_at": "2026-10-25T15:16:03.281617957Z"
+  },
+  {
+    "token": "diri",
+    "name": "diri",
+    "desc": "Terminal workspace for running coding agents in parallel",
+    "homepage": "https://diri.sh/",
+    "version": "0.10.1",
+    "detected_at": "2026-10-26T11:52:29.026976281Z"
+  },
+  {
+    "token": "keyboop",
+    "name": "Keyboop",
+    "desc": "Keyboard layout switcher with local voice dictation",
+    "homepage": "https://keyboop.com/",
+    "version": "0.4.10",
+    "detected_at": "2026-10-26T11:52:29.026976281Z"
+  },
+  {
+    "token": "peel",
+    "name": "Peel",
+    "desc": "App uninstaller and disk space cleaner",
+    "homepage": "https://peel.tuguidragos.com/",
+    "version": "1.2.1",
+    "detected_at": "2026-10-26T11:52:29.026976281Z"
   }
 ]
