@@ -4,7 +4,21 @@
     <title>New Homebrew Casks</title>
     <link>https://allenhouchins.github.io/new-casks-tracker/</link>
     <description>Newly added Homebrew casks, checked every 6 hours</description>
-    <lastBuildDate>Tue, 27 Oct 2026 11:16:11 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 27 Oct 2026 17:01:47 +0000</lastBuildDate>
+    <item>
+      <title>Festnetz-Check 3.13.0</title>
+      <link>https://formulae.brew.sh/cask/festnetz-check</link>
+      <description>Official internet speed test from the German Bundesnetzagentur — https://www.breitbandmessung.de/</description>
+      <guid isPermaLink="false">festnetz-check@2026-10-27T17:01:47Z</guid>
+      <pubDate>Tue, 27 Oct 2026 17:01:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>nvALT 3.0.7,136</title>
+      <link>https://formulae.brew.sh/cask/nvalt</link>
+      <description>Note taking app, fork of Notational Velocity — https://brettterpstra.com/projects/nvalt/</description>
+      <guid isPermaLink="false">nvalt@2026-10-27T17:01:47Z</guid>
+      <pubDate>Tue, 27 Oct 2026 17:01:47 +0000</pubDate>
+    </item>
     <item>
       <title>PrusaSlicer Preview 3.0.0-alpha12</title>
       <link>https://formulae.brew.sh/cask/prusaslicer@preview</link>
@@ -689,20 +703,6 @@
       <link>https://formulae.brew.sh/cask/argo-books</link>
       <description>Accounting software for small businesses — https://argorobots.com/</description>
       <guid isPermaLink="false">argo-books@2026-10-03T02:55:29Z</guid>
-      <pubDate>Sat, 03 Oct 2026 02:55:29 +0000</pubDate>
-    </item>
-    <item>
-      <title>Rowel 1.0.0</title>
-      <link>https://formulae.brew.sh/cask/rowel</link>
-      <description>Offline-first password manager — https://rowel.app/</description>
-      <guid isPermaLink="false">rowel@2026-10-03T02:55:29Z</guid>
-      <pubDate>Sat, 03 Oct 2026 02:55:29 +0000</pubDate>
-    </item>
-    <item>
-      <title>SANDISK 3.4.1,2601</title>
-      <link>https://formulae.brew.sh/cask/sandisk</link>
-      <description>Managing SanDisk external drives — https://www.sandisk.com/topics/accessories/sandisk-app-for-backups</description>
-      <guid isPermaLink="false">sandisk@2026-10-03T02:55:29Z</guid>
       <pubDate>Sat, 03 Oct 2026 02:55:29 +0000</pubDate>
     </item>
   </channel>

@@ -1960,5 +1960,21 @@
     "homepage": "https://www.prusa3d.com/slic3r-prusa-edition/",
     "version": "3.0.0-alpha12",
     "detected_at": "2026-10-27T02:55:17.446087981Z"
+  },
+  {
+    "token": "festnetz-check",
+    "name": "Festnetz-Check",
+    "desc": "Official internet speed test from the German Bundesnetzagentur",
+    "homepage": "https://www.breitbandmessung.de/",
+    "version": "3.13.0",
+    "detected_at": "2026-10-27T17:01:47.166420262Z"
+  },
+  {
+    "token": "nvalt",
+    "name": "nvALT",
+    "desc": "Note taking app, fork of Notational Velocity",
+    "homepage": "https://brettterpstra.com/projects/nvalt/",
+    "version": "3.0.7,136",
+    "detected_at": "2026-10-27T17:01:47.166420262Z"
   }
 ]
