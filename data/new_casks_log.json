@@ -1952,5 +1952,13 @@
     "homepage": "https://peel.tuguidragos.com/",
     "version": "1.2.1",
     "detected_at": "2026-10-26T11:52:29.026976281Z"
+  },
+  {
+    "token": "prusaslicer@preview",
+    "name": "PrusaSlicer Preview",
+    "desc": "G-code generator for 3D printers (RepRap, Makerbot, Ultimaker etc.)",
+    "homepage": "https://www.prusa3d.com/slic3r-prusa-edition/",
+    "version": "3.0.0-alpha12",
+    "detected_at": "2026-10-27T02:55:17.446087981Z"
   }
 ]

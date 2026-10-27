@@ -4,7 +4,14 @@
     <title>New Homebrew Casks</title>
     <link>https://allenhouchins.github.io/new-casks-tracker/</link>
     <description>Newly added Homebrew casks, checked every 6 hours</description>
-    <lastBuildDate>Mon, 26 Oct 2026 22:06:17 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 27 Oct 2026 02:55:17 +0000</lastBuildDate>
+    <item>
+      <title>PrusaSlicer Preview 3.0.0-alpha12</title>
+      <link>https://formulae.brew.sh/cask/prusaslicer@preview</link>
+      <description>G-code generator for 3D printers (RepRap, Makerbot, Ultimaker etc.) — https://www.prusa3d.com/slic3r-prusa-edition/</description>
+      <guid isPermaLink="false">prusaslicer@preview@2026-10-27T02:55:17Z</guid>
+      <pubDate>Tue, 27 Oct 2026 02:55:17 +0000</pubDate>
+    </item>
     <item>
       <title>diri 0.10.1</title>
       <link>https://formulae.brew.sh/cask/diri</link>
@@ -696,13 +703,6 @@
       <link>https://formulae.brew.sh/cask/sandisk</link>
       <description>Managing SanDisk external drives — https://www.sandisk.com/topics/accessories/sandisk-app-for-backups</description>
       <guid isPermaLink="false">sandisk@2026-10-03T02:55:29Z</guid>
-      <pubDate>Sat, 03 Oct 2026 02:55:29 +0000</pubDate>
-    </item>
-    <item>
-      <title>SDR-- 2.0.0</title>
-      <link>https://formulae.brew.sh/cask/sdrmm-app</link>
-      <description>Modular, client-server software-defined radio — https://github.com/Newspicel/sdrmm</description>
-      <guid isPermaLink="false">sdrmm-app@2026-10-03T02:55:29Z</guid>
       <pubDate>Sat, 03 Oct 2026 02:55:29 +0000</pubDate>
     </item>
   </channel>
