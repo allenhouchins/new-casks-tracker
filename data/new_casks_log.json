@@ -1976,5 +1976,37 @@
     "homepage": "https://brettterpstra.com/projects/nvalt/",
     "version": "3.0.7,136",
     "detected_at": "2026-10-27T17:01:47.166420262Z"
+  },
+  {
+    "token": "deutschlandgpt",
+    "name": "DeutschlandGPT",
+    "desc": "Desktop client for the DeutschlandGPT AI assistant",
+    "homepage": "https://www.deutschlandgpt.de/",
+    "version": "0.16.0",
+    "detected_at": "2026-10-28T17:39:02.081423392Z"
+  },
+  {
+    "token": "nebius",
+    "name": "Nebius CLI",
+    "desc": "Command-line interface for Nebius",
+    "homepage": "https://docs.nebius.com/cli",
+    "version": "0.12.295",
+    "detected_at": "2026-10-28T17:39:02.081423392Z"
+  },
+  {
+    "token": "qoder",
+    "name": "Qoder",
+    "desc": "Agentic coding platform",
+    "homepage": "https://qoder.com/",
+    "version": "0.4.11",
+    "detected_at": "2026-10-28T17:39:02.081423392Z"
+  },
+  {
+    "token": "task-manager-tmog",
+    "name": "Task Manager TMOG",
+    "desc": "System monitor that identifies resource-heavy processes",
+    "homepage": "https://tmog.org/",
+    "version": "1.1.0,20261026015153",
+    "detected_at": "2026-10-28T17:39:02.081423392Z"
   }
 ]
