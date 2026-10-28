@@ -2008,5 +2008,13 @@
     "homepage": "https://tmog.org/",
     "version": "1.1.0,20261026015153",
     "detected_at": "2026-10-28T17:39:02.081423392Z"
+  },
+  {
+    "token": "solidcraft",
+    "name": "SolidCraft",
+    "desc": "Parametric 3D CAD modeller",
+    "homepage": "https://solidcraft.io/",
+    "version": "0.24.0",
+    "detected_at": "2026-10-28T22:00:11.860854999Z"
   }
 ]
