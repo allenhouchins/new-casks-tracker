@@ -2016,5 +2016,21 @@
     "homepage": "https://solidcraft.io/",
     "version": "0.24.0",
     "detected_at": "2026-10-28T22:00:11.860854999Z"
+  },
+  {
+    "token": "macdirstat",
+    "name": "MacDirStat",
+    "desc": "Disk space analyser",
+    "homepage": "https://github.com/phalladar/MacDirStat",
+    "version": "0.2.0",
+    "detected_at": "2026-10-29T18:01:30.685218354Z"
+  },
+  {
+    "token": "spencer",
+    "name": "Spencer",
+    "desc": "Window and workspace layout manager across Spaces and displays",
+    "homepage": "https://macspencer.app/",
+    "version": "1.7.5",
+    "detected_at": "2026-10-29T18:01:30.685218354Z"
   }
 ]

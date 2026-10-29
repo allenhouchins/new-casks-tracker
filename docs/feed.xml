@@ -4,7 +4,21 @@
     <title>New Homebrew Casks</title>
     <link>https://allenhouchins.github.io/new-casks-tracker/</link>
     <description>Newly added Homebrew casks, checked every 6 hours</description>
-    <lastBuildDate>Thu, 29 Oct 2026 11:58:16 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 29 Oct 2026 18:01:30 +0000</lastBuildDate>
+    <item>
+      <title>MacDirStat 0.2.0</title>
+      <link>https://formulae.brew.sh/cask/macdirstat</link>
+      <description>Disk space analyser — https://github.com/phalladar/MacDirStat</description>
+      <guid isPermaLink="false">macdirstat@2026-10-29T18:01:30Z</guid>
+      <pubDate>Thu, 29 Oct 2026 18:01:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>Spencer 1.7.5</title>
+      <link>https://formulae.brew.sh/cask/spencer</link>
+      <description>Window and workspace layout manager across Spaces and displays — https://macspencer.app/</description>
+      <guid isPermaLink="false">spencer@2026-10-29T18:01:30Z</guid>
+      <pubDate>Thu, 29 Oct 2026 18:01:30 +0000</pubDate>
+    </item>
     <item>
       <title>SolidCraft 0.24.0</title>
       <link>https://formulae.brew.sh/cask/solidcraft</link>
@@ -690,20 +704,6 @@
       <description>Online whiteboard for team collaboration — https://holst.so/</description>
       <guid isPermaLink="false">holst@2026-10-05T23:28:58Z</guid>
       <pubDate>Mon, 05 Oct 2026 23:28:58 +0000</pubDate>
-    </item>
-    <item>
-      <title>Littlebird 0.86.21</title>
-      <link>https://formulae.brew.sh/cask/littlebird</link>
-      <description>AI assistant that captures meetings and work context — https://littlebird.ai/</description>
-      <guid isPermaLink="false">littlebird@2026-10-05T03:02:58Z</guid>
-      <pubDate>Mon, 05 Oct 2026 03:02:58 +0000</pubDate>
-    </item>
-    <item>
-      <title>Lexica Ultralegible 1.0.0</title>
-      <link>https://formulae.brew.sh/cask/font-lexica-ultralegible</link>
-      <description>— https://jacobxperez.github.io/lexica-ultralegible/</description>
-      <guid isPermaLink="false">font-lexica-ultralegible@2026-10-04T16:09:53Z</guid>
-      <pubDate>Sun, 04 Oct 2026 16:09:53 +0000</pubDate>
     </item>
   </channel>
 </rss>
