@@ -2096,5 +2096,13 @@
     "homepage": "https://www.vocevista.com/en/",
     "version": "6.0.2.10487",
     "detected_at": "2026-10-30T17:27:45.71644829Z"
+  },
+  {
+    "token": "herdr-app",
+    "name": "Herdr",
+    "desc": "Desktop app for terminals and coding agents",
+    "homepage": "https://herdr.dev/",
+    "version": "0.1.9",
+    "detected_at": "2026-10-30T21:47:46.779275898Z"
   }
 ]
