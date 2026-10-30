@@ -2032,5 +2032,61 @@
     "homepage": "https://macspencer.app/",
     "version": "1.7.5",
     "detected_at": "2026-10-29T18:01:30.685218354Z"
+  },
+  {
+    "token": "junie",
+    "name": "Junie",
+    "desc": "AI coding agent by JetBrains",
+    "homepage": "https://junie.jetbrains.com/",
+    "version": "3893.6",
+    "detected_at": "2026-10-30T11:51:58.004864289Z"
+  },
+  {
+    "token": "lingon-pro",
+    "name": "Lingon Pro",
+    "desc": "Automator software to start apps, run scripts or commands and more",
+    "homepage": "https://www.peterborgapps.com/lingon/",
+    "version": "10.3.1",
+    "detected_at": "2026-10-30T11:51:58.004864289Z"
+  },
+  {
+    "token": "mactoy",
+    "name": "Mactoy",
+    "desc": "Ventoy installer and disk image flasher",
+    "homepage": "https://github.com/cashcon57/mactoy",
+    "version": "0.7.1",
+    "detected_at": "2026-10-30T11:51:58.004864289Z"
+  },
+  {
+    "token": "opencodex",
+    "name": "OpenCodex",
+    "desc": "Proxy that connects AI coding agents to other LLM providers",
+    "homepage": "https://opencodex.me/",
+    "version": "2.93.0",
+    "detected_at": "2026-10-30T11:51:58.004864289Z"
+  },
+  {
+    "token": "openframe-console",
+    "name": "OpenFrame Console",
+    "desc": "Desktop client for IT management notifications and sessions",
+    "homepage": "https://openframe.ai/",
+    "version": "1.0.197",
+    "detected_at": "2026-10-30T11:51:58.004864289Z"
+  },
+  {
+    "token": "thinkrail",
+    "name": "ThinkRail",
+    "desc": "Agentic development environment",
+    "homepage": "https://thinkrail.ai/",
+    "version": "0.2.0",
+    "detected_at": "2026-10-30T11:51:58.004864289Z"
+  },
+  {
+    "token": "tldv",
+    "name": "tl;dv",
+    "desc": "AI meeting recorder and note taker",
+    "homepage": "https://tldv.io/",
+    "version": "3.0.399",
+    "detected_at": "2026-10-30T11:51:58.004864289Z"
   }
 ]

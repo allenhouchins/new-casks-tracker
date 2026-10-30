@@ -4,7 +4,56 @@
     <title>New Homebrew Casks</title>
     <link>https://allenhouchins.github.io/new-casks-tracker/</link>
     <description>Newly added Homebrew casks, checked every 6 hours</description>
-    <lastBuildDate>Fri, 30 Oct 2026 03:33:04 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 30 Oct 2026 11:51:58 +0000</lastBuildDate>
+    <item>
+      <title>Junie 3893.6</title>
+      <link>https://formulae.brew.sh/cask/junie</link>
+      <description>AI coding agent by JetBrains — https://junie.jetbrains.com/</description>
+      <guid isPermaLink="false">junie@2026-10-30T11:51:58Z</guid>
+      <pubDate>Fri, 30 Oct 2026 11:51:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>Lingon Pro 10.3.1</title>
+      <link>https://formulae.brew.sh/cask/lingon-pro</link>
+      <description>Automator software to start apps, run scripts or commands and more — https://www.peterborgapps.com/lingon/</description>
+      <guid isPermaLink="false">lingon-pro@2026-10-30T11:51:58Z</guid>
+      <pubDate>Fri, 30 Oct 2026 11:51:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>Mactoy 0.7.1</title>
+      <link>https://formulae.brew.sh/cask/mactoy</link>
+      <description>Ventoy installer and disk image flasher — https://github.com/cashcon57/mactoy</description>
+      <guid isPermaLink="false">mactoy@2026-10-30T11:51:58Z</guid>
+      <pubDate>Fri, 30 Oct 2026 11:51:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>OpenCodex 2.93.0</title>
+      <link>https://formulae.brew.sh/cask/opencodex</link>
+      <description>Proxy that connects AI coding agents to other LLM providers — https://opencodex.me/</description>
+      <guid isPermaLink="false">opencodex@2026-10-30T11:51:58Z</guid>
+      <pubDate>Fri, 30 Oct 2026 11:51:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>OpenFrame Console 1.0.197</title>
+      <link>https://formulae.brew.sh/cask/openframe-console</link>
+      <description>Desktop client for IT management notifications and sessions — https://openframe.ai/</description>
+      <guid isPermaLink="false">openframe-console@2026-10-30T11:51:58Z</guid>
+      <pubDate>Fri, 30 Oct 2026 11:51:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>ThinkRail 0.2.0</title>
+      <link>https://formulae.brew.sh/cask/thinkrail</link>
+      <description>Agentic development environment — https://thinkrail.ai/</description>
+      <guid isPermaLink="false">thinkrail@2026-10-30T11:51:58Z</guid>
+      <pubDate>Fri, 30 Oct 2026 11:51:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>tl;dv 3.0.399</title>
+      <link>https://formulae.brew.sh/cask/tldv</link>
+      <description>AI meeting recorder and note taker — https://tldv.io/</description>
+      <guid isPermaLink="false">tldv@2026-10-30T11:51:58Z</guid>
+      <pubDate>Fri, 30 Oct 2026 11:51:58 +0000</pubDate>
+    </item>
     <item>
       <title>MacDirStat 0.2.0</title>
       <link>https://formulae.brew.sh/cask/macdirstat</link>
@@ -655,55 +704,6 @@
       <description>Image editor — https://getartcraft.com/apps/photocraft</description>
       <guid isPermaLink="false">photocraft@2026-10-07T22:26:10Z</guid>
       <pubDate>Wed, 07 Oct 2026 22:26:10 +0000</pubDate>
-    </item>
-    <item>
-      <title>Auto-Tune Central 2.0.2</title>
-      <link>https://formulae.brew.sh/cask/auto-tune-central</link>
-      <description>Software download manager for Antares products — https://www.antarestech.com/</description>
-      <guid isPermaLink="false">auto-tune-central@2026-10-07T12:18:44Z</guid>
-      <pubDate>Wed, 07 Oct 2026 12:18:44 +0000</pubDate>
-    </item>
-    <item>
-      <title>Buildin 2.0.4</title>
-      <link>https://formulae.brew.sh/cask/buildin</link>
-      <description>Collaborative workspace for notes, documents and wikis — https://buildin.ai/</description>
-      <guid isPermaLink="false">buildin@2026-10-07T12:18:44Z</guid>
-      <pubDate>Wed, 07 Oct 2026 12:18:44 +0000</pubDate>
-    </item>
-    <item>
-      <title>FL Studio 26.1.7.5419</title>
-      <link>https://formulae.brew.sh/cask/fl-studio</link>
-      <description>Digital audio production application — https://www.image-line.com/fl-studio/</description>
-      <guid isPermaLink="false">fl-studio@2026-10-07T12:18:44Z</guid>
-      <pubDate>Wed, 07 Oct 2026 12:18:44 +0000</pubDate>
-    </item>
-    <item>
-      <title>MCP Linker 2.2.4</title>
-      <link>https://formulae.brew.sh/cask/mcplinker</link>
-      <description>Manage and sync MCP server configurations across AI clients — https://github.com/milisp/mcp-linker</description>
-      <guid isPermaLink="false">mcplinker@2026-10-07T12:18:44Z</guid>
-      <pubDate>Wed, 07 Oct 2026 12:18:44 +0000</pubDate>
-    </item>
-    <item>
-      <title>solidtime 0.3.2</title>
-      <link>https://formulae.brew.sh/cask/solidtime</link>
-      <description>Open-source time tracker — https://www.solidtime.io/</description>
-      <guid isPermaLink="false">solidtime@2026-10-07T12:18:44Z</guid>
-      <pubDate>Wed, 07 Oct 2026 12:18:44 +0000</pubDate>
-    </item>
-    <item>
-      <title>Stashcat 6.55.0</title>
-      <link>https://formulae.brew.sh/cask/stashcat</link>
-      <description>Secure messenger for organisations — https://stashcat.com/</description>
-      <guid isPermaLink="false">stashcat@2026-10-07T12:18:44Z</guid>
-      <pubDate>Wed, 07 Oct 2026 12:18:44 +0000</pubDate>
-    </item>
-    <item>
-      <title>Holst 0.0.6</title>
-      <link>https://formulae.brew.sh/cask/holst</link>
-      <description>Online whiteboard for team collaboration — https://holst.so/</description>
-      <guid isPermaLink="false">holst@2026-10-05T23:28:58Z</guid>
-      <pubDate>Mon, 05 Oct 2026 23:28:58 +0000</pubDate>
     </item>
   </channel>
 </rss>
