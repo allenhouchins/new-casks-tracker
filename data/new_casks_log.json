@@ -2088,5 +2088,13 @@
     "homepage": "https://tldv.io/",
     "version": "3.0.399",
     "detected_at": "2026-10-30T11:51:58.004864289Z"
+  },
+  {
+    "token": "vocevista-pro",
+    "name": "VoceVista Pro",
+    "desc": "High-resolution voice spectrum and vibrato analyzer",
+    "homepage": "https://www.vocevista.com/en/",
+    "version": "6.0.2.10487",
+    "detected_at": "2026-10-30T17:27:45.71644829Z"
   }
 ]
