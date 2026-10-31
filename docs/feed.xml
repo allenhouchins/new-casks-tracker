@@ -4,7 +4,14 @@
     <title>New Homebrew Casks</title>
     <link>https://allenhouchins.github.io/new-casks-tracker/</link>
     <description>Newly added Homebrew casks, checked every 6 hours</description>
-    <lastBuildDate>Sat, 31 Oct 2026 11:25:40 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 31 Oct 2026 16:30:56 +0000</lastBuildDate>
+    <item>
+      <title>Notational Velocity 2.5.2</title>
+      <link>https://formulae.brew.sh/cask/notational-velocity</link>
+      <description>Store and retrieve notes — https://notational.net/</description>
+      <guid isPermaLink="false">notational-velocity@2026-10-31T16:30:56Z</guid>
+      <pubDate>Sat, 31 Oct 2026 16:30:56 +0000</pubDate>
+    </item>
     <item>
       <title>Geist Serif 1.9.0</title>
       <link>https://formulae.brew.sh/cask/font-geist-serif</link>
@@ -697,13 +704,6 @@
       <description>Multiplayer environment for coding with agents — https://delta.dev/</description>
       <guid isPermaLink="false">zed-delta@2026-10-08T12:28:25Z</guid>
       <pubDate>Thu, 08 Oct 2026 12:28:25 +0000</pubDate>
-    </item>
-    <item>
-      <title>Azure CLI 2.91.0</title>
-      <link>https://formulae.brew.sh/cask/azure-cli</link>
-      <description>Microsoft Azure CLI 2.0 — https://docs.microsoft.com/cli/azure/overview</description>
-      <guid isPermaLink="false">azure-cli@2026-10-08T03:35:04Z</guid>
-      <pubDate>Thu, 08 Oct 2026 03:35:04 +0000</pubDate>
     </item>
   </channel>
 </rss>
