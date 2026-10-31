@@ -4,7 +4,21 @@
     <title>New Homebrew Casks</title>
     <link>https://allenhouchins.github.io/new-casks-tracker/</link>
     <description>Newly added Homebrew casks, checked every 6 hours</description>
-    <lastBuildDate>Fri, 30 Oct 2026 21:47:46 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 31 Oct 2026 03:17:32 +0000</lastBuildDate>
+    <item>
+      <title>Geist Serif 1.9.0</title>
+      <link>https://formulae.brew.sh/cask/font-geist-serif</link>
+      <description>— https://vercel.com/font</description>
+      <guid isPermaLink="false">font-geist-serif@2026-10-31T03:17:32Z</guid>
+      <pubDate>Sat, 31 Oct 2026 03:17:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>renCal 0.9.0</title>
+      <link>https://formulae.brew.sh/cask/rencal</link>
+      <description>Desktop calendar — https://rencal.org/</description>
+      <guid isPermaLink="false">rencal@2026-10-31T03:17:32Z</guid>
+      <pubDate>Sat, 31 Oct 2026 03:17:32 +0000</pubDate>
+    </item>
     <item>
       <title>Herdr 0.1.9</title>
       <link>https://formulae.brew.sh/cask/herdr-app</link>
@@ -690,20 +704,6 @@
       <description>Microsoft Azure CLI 2.0 — https://docs.microsoft.com/cli/azure/overview</description>
       <guid isPermaLink="false">azure-cli@2026-10-08T03:35:04Z</guid>
       <pubDate>Thu, 08 Oct 2026 03:35:04 +0000</pubDate>
-    </item>
-    <item>
-      <title>Threat Dragon 2.6.2</title>
-      <link>https://formulae.brew.sh/cask/threat-dragon</link>
-      <description>Threat modeling tool — https://owasp.org/projects/threat-dragon</description>
-      <guid isPermaLink="false">threat-dragon@2026-10-08T03:35:04Z</guid>
-      <pubDate>Thu, 08 Oct 2026 03:35:04 +0000</pubDate>
-    </item>
-    <item>
-      <title>Fluxer 2026.1006.171735</title>
-      <link>https://formulae.brew.sh/cask/fluxer</link>
-      <description>Chat for friends, groups, and communities with text, voice, and video — https://fluxer.app/</description>
-      <guid isPermaLink="false">fluxer@2026-10-07T22:26:10Z</guid>
-      <pubDate>Wed, 07 Oct 2026 22:26:10 +0000</pubDate>
     </item>
   </channel>
 </rss>
