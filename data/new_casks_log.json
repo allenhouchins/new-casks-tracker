@@ -2150,5 +2150,13 @@
     "homepage": "https://irbis.sh/zen/",
     "version": "0.28.0",
     "detected_at": "2026-11-01T12:19:01.292264699Z"
+  },
+  {
+    "token": "codeburn-app",
+    "name": "CodeBurn",
+    "desc": "Track AI coding token usage and cost",
+    "homepage": "https://codeburn.app/",
+    "version": "0.9.27",
+    "detected_at": "2026-11-01T21:29:45.512639598Z"
   }
 ]

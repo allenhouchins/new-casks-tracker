@@ -4,7 +4,14 @@
     <title>New Homebrew Casks</title>
     <link>https://allenhouchins.github.io/new-casks-tracker/</link>
     <description>Newly added Homebrew casks, checked every 6 hours</description>
-    <lastBuildDate>Sun, 01 Nov 2026 12:19:01 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 01 Nov 2026 21:29:45 +0000</lastBuildDate>
+    <item>
+      <title>CodeBurn 0.9.27</title>
+      <link>https://formulae.brew.sh/cask/codeburn-app</link>
+      <description>Track AI coding token usage and cost — https://codeburn.app/</description>
+      <guid isPermaLink="false">codeburn-app@2026-11-01T21:29:45Z</guid>
+      <pubDate>Sun, 01 Nov 2026 21:29:45 +0000</pubDate>
+    </item>
     <item>
       <title>AnyDrag 26.10.121</title>
       <link>https://formulae.brew.sh/cask/anydrag</link>
@@ -697,13 +704,6 @@
       <description>AI-powered sample browser for exploring audio samples — https://www.sononym.net/</description>
       <guid isPermaLink="false">sononym@2026-10-09T22:00:32Z</guid>
       <pubDate>Fri, 09 Oct 2026 22:00:32 +0000</pubDate>
-    </item>
-    <item>
-      <title>LightCraft 0.4.0</title>
-      <link>https://formulae.brew.sh/cask/lightcraft</link>
-      <description>Photo library manager and raw image developer — https://getartcraft.com/apps/lightcraft</description>
-      <guid isPermaLink="false">lightcraft@2026-10-09T12:17:26Z</guid>
-      <pubDate>Fri, 09 Oct 2026 12:17:26 +0000</pubDate>
     </item>
   </channel>
 </rss>
