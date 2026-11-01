@@ -2134,5 +2134,21 @@
     "homepage": "https://github.com/magictype/Madhuban",
     "version": "latest",
     "detected_at": "2026-11-01T03:16:37.109021962Z"
+  },
+  {
+    "token": "anydrag",
+    "name": "AnyDrag",
+    "desc": "Move any window by holding a modifier key and dragging anywhere on it",
+    "homepage": "https://github.com/XueshiQiao/AnyDrag",
+    "version": "26.10.121",
+    "detected_at": "2026-11-01T12:19:01.292264699Z"
+  },
+  {
+    "token": "irbis-zen",
+    "name": "Zen",
+    "desc": "System-wide ad-blocker and privacy guard",
+    "homepage": "https://irbis.sh/zen/",
+    "version": "0.28.0",
+    "detected_at": "2026-11-01T12:19:01.292264699Z"
   }
 ]

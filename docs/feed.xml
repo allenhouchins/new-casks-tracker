@@ -4,7 +4,21 @@
     <title>New Homebrew Casks</title>
     <link>https://allenhouchins.github.io/new-casks-tracker/</link>
     <description>Newly added Homebrew casks, checked every 6 hours</description>
-    <lastBuildDate>Sun, 01 Nov 2026 03:16:37 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 01 Nov 2026 12:19:01 +0000</lastBuildDate>
+    <item>
+      <title>AnyDrag 26.10.121</title>
+      <link>https://formulae.brew.sh/cask/anydrag</link>
+      <description>Move any window by holding a modifier key and dragging anywhere on it — https://github.com/XueshiQiao/AnyDrag</description>
+      <guid isPermaLink="false">anydrag@2026-11-01T12:19:01Z</guid>
+      <pubDate>Sun, 01 Nov 2026 12:19:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>Zen 0.28.0</title>
+      <link>https://formulae.brew.sh/cask/irbis-zen</link>
+      <description>System-wide ad-blocker and privacy guard — https://irbis.sh/zen/</description>
+      <guid isPermaLink="false">irbis-zen@2026-11-01T12:19:01Z</guid>
+      <pubDate>Sun, 01 Nov 2026 12:19:01 +0000</pubDate>
+    </item>
     <item>
       <title>Madhuban latest</title>
       <link>https://formulae.brew.sh/cask/font-madhuban</link>
@@ -690,20 +704,6 @@
       <description>Photo library manager and raw image developer — https://getartcraft.com/apps/lightcraft</description>
       <guid isPermaLink="false">lightcraft@2026-10-09T12:17:26Z</guid>
       <pubDate>Fri, 09 Oct 2026 12:17:26 +0000</pubDate>
-    </item>
-    <item>
-      <title>VectorCraft 0.7.0</title>
-      <link>https://formulae.brew.sh/cask/vectorcraft</link>
-      <description>Vector editor — https://getartcraft.com/apps/vectorcraft</description>
-      <guid isPermaLink="false">vectorcraft@2026-10-09T12:17:26Z</guid>
-      <pubDate>Fri, 09 Oct 2026 12:17:26 +0000</pubDate>
-    </item>
-    <item>
-      <title>FilmCraft 0.4.0</title>
-      <link>https://formulae.brew.sh/cask/filmcraft</link>
-      <description>Video editor — https://getartcraft.com/apps/filmcraft</description>
-      <guid isPermaLink="false">filmcraft@2026-10-08T22:39:36Z</guid>
-      <pubDate>Thu, 08 Oct 2026 22:39:36 +0000</pubDate>
     </item>
   </channel>
 </rss>
