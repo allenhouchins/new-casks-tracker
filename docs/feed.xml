@@ -4,7 +4,21 @@
     <title>New Homebrew Casks</title>
     <link>https://allenhouchins.github.io/new-casks-tracker/</link>
     <description>Newly added Homebrew casks, checked every 6 hours</description>
-    <lastBuildDate>Mon, 02 Nov 2026 03:25:46 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 02 Nov 2026 14:12:52 +0000</lastBuildDate>
+    <item>
+      <title>Bambu Studio Beta 02.08.04.61,20260929132640,02.08.04.57</title>
+      <link>https://formulae.brew.sh/cask/bambu-studio@beta</link>
+      <description>3D model slicing software for 3D printers, maintained by Bambu Lab — https://bambulab.com/en/download/studio</description>
+      <guid isPermaLink="false">bambu-studio@beta@2026-11-02T14:12:52Z</guid>
+      <pubDate>Mon, 02 Nov 2026 14:12:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>VoceVista Basic 6.0.2.10487</title>
+      <link>https://formulae.brew.sh/cask/vocevista-basic</link>
+      <description>Real-time voice spectrum analyzer and audio editor — https://www.sygyt.com/</description>
+      <guid isPermaLink="false">vocevista-basic@2026-11-02T14:12:52Z</guid>
+      <pubDate>Mon, 02 Nov 2026 14:12:52 +0000</pubDate>
+    </item>
     <item>
       <title>CodeBurn 0.9.27</title>
       <link>https://formulae.brew.sh/cask/codeburn-app</link>
@@ -690,20 +704,6 @@
       <description>PDF editor — https://getartcraft.com/apps/pdfcraft</description>
       <guid isPermaLink="false">pdfcraft@2026-10-10T03:22:22Z</guid>
       <pubDate>Sat, 10 Oct 2026 03:22:22 +0000</pubDate>
-    </item>
-    <item>
-      <title>Crest 6.4.1</title>
-      <link>https://formulae.brew.sh/cask/crest</link>
-      <description>Notch utility with widgets — https://crestnotch.app/</description>
-      <guid isPermaLink="false">crest@2026-10-09T22:00:32Z</guid>
-      <pubDate>Fri, 09 Oct 2026 22:00:32 +0000</pubDate>
-    </item>
-    <item>
-      <title>Sononym 1.6.15</title>
-      <link>https://formulae.brew.sh/cask/sononym</link>
-      <description>AI-powered sample browser for exploring audio samples — https://www.sononym.net/</description>
-      <guid isPermaLink="false">sononym@2026-10-09T22:00:32Z</guid>
-      <pubDate>Fri, 09 Oct 2026 22:00:32 +0000</pubDate>
     </item>
   </channel>
 </rss>
