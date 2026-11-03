@@ -2174,5 +2174,13 @@
     "homepage": "https://www.sygyt.com/",
     "version": "6.0.2.10487",
     "detected_at": "2026-11-02T14:12:52.499688059Z"
+  },
+  {
+    "token": "audioroute",
+    "name": "AudioRoute",
+    "desc": "System and per-app audio capture tool",
+    "homepage": "https://audio-route.com/",
+    "version": "1.2.10",
+    "detected_at": "2026-11-03T13:15:56.319438538Z"
   }
 ]

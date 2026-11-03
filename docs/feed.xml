@@ -4,7 +4,14 @@
     <title>New Homebrew Casks</title>
     <link>https://allenhouchins.github.io/new-casks-tracker/</link>
     <description>Newly added Homebrew casks, checked every 6 hours</description>
-    <lastBuildDate>Tue, 03 Nov 2026 00:11:58 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 03 Nov 2026 13:15:56 +0000</lastBuildDate>
+    <item>
+      <title>AudioRoute 1.2.10</title>
+      <link>https://formulae.brew.sh/cask/audioroute</link>
+      <description>System and per-app audio capture tool — https://audio-route.com/</description>
+      <guid isPermaLink="false">audioroute@2026-11-03T13:15:56Z</guid>
+      <pubDate>Tue, 03 Nov 2026 13:15:56 +0000</pubDate>
+    </item>
     <item>
       <title>Bambu Studio Beta 02.08.04.61,20260929132640,02.08.04.57</title>
       <link>https://formulae.brew.sh/cask/bambu-studio@beta</link>
@@ -696,13 +703,6 @@
       <link>https://formulae.brew.sh/cask/designcraft</link>
       <description>Page layout and publishing tool — https://getartcraft.com/apps/designcraft</description>
       <guid isPermaLink="false">designcraft@2026-10-10T03:22:22Z</guid>
-      <pubDate>Sat, 10 Oct 2026 03:22:22 +0000</pubDate>
-    </item>
-    <item>
-      <title>PdfCraft 0.4.0</title>
-      <link>https://formulae.brew.sh/cask/pdfcraft</link>
-      <description>PDF editor — https://getartcraft.com/apps/pdfcraft</description>
-      <guid isPermaLink="false">pdfcraft@2026-10-10T03:22:22Z</guid>
       <pubDate>Sat, 10 Oct 2026 03:22:22 +0000</pubDate>
     </item>
   </channel>
