@@ -4,7 +4,35 @@
     <title>New Homebrew Casks</title>
     <link>https://allenhouchins.github.io/new-casks-tracker/</link>
     <description>Newly added Homebrew casks, checked every 6 hours</description>
-    <lastBuildDate>Tue, 03 Nov 2026 22:41:39 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 04 Nov 2026 03:55:30 +0000</lastBuildDate>
+    <item>
+      <title>Beat Link Trigger 8.0.0</title>
+      <link>https://formulae.brew.sh/cask/beat-link-trigger</link>
+      <description>Event trigger and show automation tool for Pioneer CDJs — https://github.com/Deep-Symmetry/beat-link-trigger</description>
+      <guid isPermaLink="false">beat-link-trigger@2026-11-04T03:55:30Z</guid>
+      <pubDate>Wed, 04 Nov 2026 03:55:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>Meta VR Developer Hub 6.6.0,16711ddde7b0cf840af1e69ed05ebac5</title>
+      <link>https://formulae.brew.sh/cask/meta-vr-developer-hub</link>
+      <description>VR development tool — https://developer.oculus.com/meta-quest-developer-hub/</description>
+      <guid isPermaLink="false">meta-vr-developer-hub@2026-11-04T03:55:30Z</guid>
+      <pubDate>Wed, 04 Nov 2026 03:55:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>OpenScreen 2.1.2</title>
+      <link>https://formulae.brew.sh/cask/openscreen</link>
+      <description>Screen recorder and demo video editor — https://getopenscreen.com/</description>
+      <guid isPermaLink="false">openscreen@2026-11-04T03:55:30Z</guid>
+      <pubDate>Wed, 04 Nov 2026 03:55:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>Spotify Soloist latest</title>
+      <link>https://formulae.brew.sh/cask/spotify-soloist</link>
+      <description>Headless Spotify client — https://developer.spotify.com/documentation/soloist</description>
+      <guid isPermaLink="false">spotify-soloist@2026-11-04T03:55:30Z</guid>
+      <pubDate>Wed, 04 Nov 2026 03:55:30 +0000</pubDate>
+    </item>
     <item>
       <title>AudioRoute 1.2.10</title>
       <link>https://formulae.brew.sh/cask/audioroute</link>
@@ -676,34 +704,6 @@
       <description>Open-source AI office suite — https://genoffice.ai/</description>
       <guid isPermaLink="false">genoffice@2026-10-10T11:35:30Z</guid>
       <pubDate>Sat, 10 Oct 2026 11:35:30 +0000</pubDate>
-    </item>
-    <item>
-      <title>GridCraft 0.4.0</title>
-      <link>https://formulae.brew.sh/cask/gridcraft</link>
-      <description>Spreadsheet editor — https://github.com/storytold/gridcraft</description>
-      <guid isPermaLink="false">gridcraft@2026-10-10T11:35:30Z</guid>
-      <pubDate>Sat, 10 Oct 2026 11:35:30 +0000</pubDate>
-    </item>
-    <item>
-      <title>SoundCraft 0.4.0</title>
-      <link>https://formulae.brew.sh/cask/soundcraft</link>
-      <description>Digital audio workstation — https://github.com/storytold/soundcraft</description>
-      <guid isPermaLink="false">soundcraft@2026-10-10T11:35:30Z</guid>
-      <pubDate>Sat, 10 Oct 2026 11:35:30 +0000</pubDate>
-    </item>
-    <item>
-      <title>WordCraft 0.4.0</title>
-      <link>https://formulae.brew.sh/cask/wordcraft</link>
-      <description>Word processor — https://github.com/storytold/wordcraft</description>
-      <guid isPermaLink="false">wordcraft@2026-10-10T11:35:30Z</guid>
-      <pubDate>Sat, 10 Oct 2026 11:35:30 +0000</pubDate>
-    </item>
-    <item>
-      <title>DesignCraft 0.4.0</title>
-      <link>https://formulae.brew.sh/cask/designcraft</link>
-      <description>Page layout and publishing tool — https://getartcraft.com/apps/designcraft</description>
-      <guid isPermaLink="false">designcraft@2026-10-10T03:22:22Z</guid>
-      <pubDate>Sat, 10 Oct 2026 03:22:22 +0000</pubDate>
     </item>
   </channel>
 </rss>

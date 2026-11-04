@@ -2182,5 +2182,37 @@
     "homepage": "https://audio-route.com/",
     "version": "1.2.10",
     "detected_at": "2026-11-03T13:15:56.319438538Z"
+  },
+  {
+    "token": "beat-link-trigger",
+    "name": "Beat Link Trigger",
+    "desc": "Event trigger and show automation tool for Pioneer CDJs",
+    "homepage": "https://github.com/Deep-Symmetry/beat-link-trigger",
+    "version": "8.0.0",
+    "detected_at": "2026-11-04T03:55:30.946920848Z"
+  },
+  {
+    "token": "meta-vr-developer-hub",
+    "name": "Meta VR Developer Hub",
+    "desc": "VR development tool",
+    "homepage": "https://developer.oculus.com/meta-quest-developer-hub/",
+    "version": "6.6.0,16711ddde7b0cf840af1e69ed05ebac5",
+    "detected_at": "2026-11-04T03:55:30.946920848Z"
+  },
+  {
+    "token": "openscreen",
+    "name": "OpenScreen",
+    "desc": "Screen recorder and demo video editor",
+    "homepage": "https://getopenscreen.com/",
+    "version": "2.1.2",
+    "detected_at": "2026-11-04T03:55:30.946920848Z"
+  },
+  {
+    "token": "spotify-soloist",
+    "name": "Spotify Soloist",
+    "desc": "Headless Spotify client",
+    "homepage": "https://developer.spotify.com/documentation/soloist",
+    "version": "latest",
+    "detected_at": "2026-11-04T03:55:30.946920848Z"
   }
 ]
