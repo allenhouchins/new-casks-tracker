@@ -4,7 +4,21 @@
     <title>New Homebrew Casks</title>
     <link>https://allenhouchins.github.io/new-casks-tracker/</link>
     <description>Newly added Homebrew casks, checked every 6 hours</description>
-    <lastBuildDate>Wed, 04 Nov 2026 03:55:30 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 04 Nov 2026 13:28:45 +0000</lastBuildDate>
+    <item>
+      <title>Sanductor 1.0.0</title>
+      <link>https://formulae.brew.sh/cask/sanductor</link>
+      <description>Native workspace for sandboxed coding agents — https://mikemcquaid.com/sanductor/</description>
+      <guid isPermaLink="false">sanductor@2026-11-04T13:28:45Z</guid>
+      <pubDate>Wed, 04 Nov 2026 13:28:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>Screendrop 0.37.1</title>
+      <link>https://formulae.brew.sh/cask/screendrop</link>
+      <description>Screenshot and screen recording tool — https://github.com/fayazara/Screendrop</description>
+      <guid isPermaLink="false">screendrop@2026-11-04T13:28:45Z</guid>
+      <pubDate>Wed, 04 Nov 2026 13:28:45 +0000</pubDate>
+    </item>
     <item>
       <title>Beat Link Trigger 8.0.0</title>
       <link>https://formulae.brew.sh/cask/beat-link-trigger</link>
@@ -689,20 +703,6 @@
       <link>https://formulae.brew.sh/cask/deckcraft</link>
       <description>Presentation editor — https://github.com/storytold/deckcraft</description>
       <guid isPermaLink="false">deckcraft@2026-10-10T11:35:30Z</guid>
-      <pubDate>Sat, 10 Oct 2026 11:35:30 +0000</pubDate>
-    </item>
-    <item>
-      <title>EffectCraft 0.7.0</title>
-      <link>https://formulae.brew.sh/cask/effectcraft</link>
-      <description>Motion graphics and visual effects compositor — https://getartcraft.com/apps/effectcraft</description>
-      <guid isPermaLink="false">effectcraft@2026-10-10T11:35:30Z</guid>
-      <pubDate>Sat, 10 Oct 2026 11:35:30 +0000</pubDate>
-    </item>
-    <item>
-      <title>GenOffice 0.11.505</title>
-      <link>https://formulae.brew.sh/cask/genoffice</link>
-      <description>Open-source AI office suite — https://genoffice.ai/</description>
-      <guid isPermaLink="false">genoffice@2026-10-10T11:35:30Z</guid>
       <pubDate>Sat, 10 Oct 2026 11:35:30 +0000</pubDate>
     </item>
   </channel>

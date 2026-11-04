@@ -2214,5 +2214,21 @@
     "homepage": "https://developer.spotify.com/documentation/soloist",
     "version": "latest",
     "detected_at": "2026-11-04T03:55:30.946920848Z"
+  },
+  {
+    "token": "sanductor",
+    "name": "Sanductor",
+    "desc": "Native workspace for sandboxed coding agents",
+    "homepage": "https://mikemcquaid.com/sanductor/",
+    "version": "1.0.0",
+    "detected_at": "2026-11-04T13:28:45.01415731Z"
+  },
+  {
+    "token": "screendrop",
+    "name": "Screendrop",
+    "desc": "Screenshot and screen recording tool",
+    "homepage": "https://github.com/fayazara/Screendrop",
+    "version": "0.37.1",
+    "detected_at": "2026-11-04T13:28:45.01415731Z"
   }
 ]
