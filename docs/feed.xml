@@ -4,7 +4,35 @@
     <title>New Homebrew Casks</title>
     <link>https://allenhouchins.github.io/new-casks-tracker/</link>
     <description>Newly added Homebrew casks, checked every 6 hours</description>
-    <lastBuildDate>Wed, 04 Nov 2026 22:59:45 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 05 Nov 2026 04:15:40 +0000</lastBuildDate>
+    <item>
+      <title>EMEETLINK 5.3.8,2026.0814.1137</title>
+      <link>https://formulae.brew.sh/cask/emeetlink</link>
+      <description>Configuration utility for EMEET webcams and speakerphones — https://emeet.com/pages/software-service-downloads</description>
+      <guid isPermaLink="false">emeetlink@2026-11-05T04:15:40Z</guid>
+      <pubDate>Thu, 05 Nov 2026 04:15:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>Vitals 1.9.7</title>
+      <link>https://formulae.brew.sh/cask/fore-studio-vitals</link>
+      <description>System monitor with per-app metrics and history — https://vitalsmac.com/</description>
+      <guid isPermaLink="false">fore-studio-vitals@2026-11-05T04:15:40Z</guid>
+      <pubDate>Thu, 05 Nov 2026 04:15:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>Obelisk 0.6.1</title>
+      <link>https://formulae.brew.sh/cask/obelisk</link>
+      <description>Game launcher for Steam, Epic Games and GOG libraries — https://getobelisk.app/</description>
+      <guid isPermaLink="false">obelisk@2026-11-05T04:15:40Z</guid>
+      <pubDate>Thu, 05 Nov 2026 04:15:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>Oleafly 0.4.10</title>
+      <link>https://formulae.brew.sh/cask/oleafly</link>
+      <description>LaTeX, Typst and Markdown editor for research writing — https://oleafly.com/</description>
+      <guid isPermaLink="false">oleafly@2026-11-05T04:15:40Z</guid>
+      <pubDate>Thu, 05 Nov 2026 04:15:40 +0000</pubDate>
+    </item>
     <item>
       <title>Sanductor 1.0.0</title>
       <link>https://formulae.brew.sh/cask/sanductor</link>
@@ -676,34 +704,6 @@
       <description>Per-app volume, EQ and audio device control — https://betteraudio.pro/</description>
       <guid isPermaLink="false">betteraudio@2026-10-11T17:01:04Z</guid>
       <pubDate>Sun, 11 Oct 2026 17:01:04 +0000</pubDate>
-    </item>
-    <item>
-      <title>TNAS PC 5.2.548</title>
-      <link>https://formulae.brew.sh/cask/tnas-pc</link>
-      <description>Desktop client for TerraMaster TNAS network storage devices — https://help.terra-master.com/docs/TOS7/application/tnas-pc</description>
-      <guid isPermaLink="false">tnas-pc@2026-10-11T11:48:49Z</guid>
-      <pubDate>Sun, 11 Oct 2026 11:48:49 +0000</pubDate>
-    </item>
-    <item>
-      <title>ArtCraft 0.41.0</title>
-      <link>https://formulae.brew.sh/cask/artcraft</link>
-      <description>Video crafting engine — https://getartcraft.com/</description>
-      <guid isPermaLink="false">artcraft@2026-10-10T16:36:06Z</guid>
-      <pubDate>Sat, 10 Oct 2026 16:36:06 +0000</pubDate>
-    </item>
-    <item>
-      <title>CADCraft 0.4.0</title>
-      <link>https://formulae.brew.sh/cask/cadcraft</link>
-      <description>Computer-aided design and drafting tool — https://github.com/storytold/cadcraft</description>
-      <guid isPermaLink="false">cadcraft@2026-10-10T16:36:06Z</guid>
-      <pubDate>Sat, 10 Oct 2026 16:36:06 +0000</pubDate>
-    </item>
-    <item>
-      <title>DeckCraft 0.4.0</title>
-      <link>https://formulae.brew.sh/cask/deckcraft</link>
-      <description>Presentation editor — https://github.com/storytold/deckcraft</description>
-      <guid isPermaLink="false">deckcraft@2026-10-10T11:35:30Z</guid>
-      <pubDate>Sat, 10 Oct 2026 11:35:30 +0000</pubDate>
     </item>
   </channel>
 </rss>

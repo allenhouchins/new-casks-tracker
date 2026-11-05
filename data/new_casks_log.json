@@ -2230,5 +2230,37 @@
     "homepage": "https://github.com/fayazara/Screendrop",
     "version": "0.37.1",
     "detected_at": "2026-11-04T13:28:45.01415731Z"
+  },
+  {
+    "token": "emeetlink",
+    "name": "EMEETLINK",
+    "desc": "Configuration utility for EMEET webcams and speakerphones",
+    "homepage": "https://emeet.com/pages/software-service-downloads",
+    "version": "5.3.8,2026.0814.1137",
+    "detected_at": "2026-11-05T04:15:40.360397732Z"
+  },
+  {
+    "token": "fore-studio-vitals",
+    "name": "Vitals",
+    "desc": "System monitor with per-app metrics and history",
+    "homepage": "https://vitalsmac.com/",
+    "version": "1.9.7",
+    "detected_at": "2026-11-05T04:15:40.360397732Z"
+  },
+  {
+    "token": "obelisk",
+    "name": "Obelisk",
+    "desc": "Game launcher for Steam, Epic Games and GOG libraries",
+    "homepage": "https://getobelisk.app/",
+    "version": "0.6.1",
+    "detected_at": "2026-11-05T04:15:40.360397732Z"
+  },
+  {
+    "token": "oleafly",
+    "name": "Oleafly",
+    "desc": "LaTeX, Typst and Markdown editor for research writing",
+    "homepage": "https://oleafly.com/",
+    "version": "0.4.10",
+    "detected_at": "2026-11-05T04:15:40.360397732Z"
   }
 ]
