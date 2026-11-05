@@ -2262,5 +2262,29 @@
     "homepage": "https://oleafly.com/",
     "version": "0.4.10",
     "detected_at": "2026-11-05T04:15:40.360397732Z"
+  },
+  {
+    "token": "expose",
+    "name": "Expose",
+    "desc": "Tunnel for sharing local web services",
+    "homepage": "https://expose.dev/",
+    "version": "4.2.1",
+    "detected_at": "2026-11-05T13:43:04.509807809Z"
+  },
+  {
+    "token": "freellmapi",
+    "name": "FreeLLMAPI",
+    "desc": "Local OpenAI-compatible LLM router",
+    "homepage": "https://freellmapi.co/",
+    "version": "0.16.19",
+    "detected_at": "2026-11-05T13:43:04.509807809Z"
+  },
+  {
+    "token": "tinycast",
+    "name": "Tinycast",
+    "desc": "Application launcher and productivity tool",
+    "homepage": "https://tinycast.dev/",
+    "version": "0.12.8",
+    "detected_at": "2026-11-05T13:43:04.509807809Z"
   }
 ]

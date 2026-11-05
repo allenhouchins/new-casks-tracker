@@ -4,7 +4,28 @@
     <title>New Homebrew Casks</title>
     <link>https://allenhouchins.github.io/new-casks-tracker/</link>
     <description>Newly added Homebrew casks, checked every 6 hours</description>
-    <lastBuildDate>Thu, 05 Nov 2026 04:15:40 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 05 Nov 2026 13:43:04 +0000</lastBuildDate>
+    <item>
+      <title>Expose 4.2.1</title>
+      <link>https://formulae.brew.sh/cask/expose</link>
+      <description>Tunnel for sharing local web services — https://expose.dev/</description>
+      <guid isPermaLink="false">expose@2026-11-05T13:43:04Z</guid>
+      <pubDate>Thu, 05 Nov 2026 13:43:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>FreeLLMAPI 0.16.19</title>
+      <link>https://formulae.brew.sh/cask/freellmapi</link>
+      <description>Local OpenAI-compatible LLM router — https://freellmapi.co/</description>
+      <guid isPermaLink="false">freellmapi@2026-11-05T13:43:04Z</guid>
+      <pubDate>Thu, 05 Nov 2026 13:43:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>Tinycast 0.12.8</title>
+      <link>https://formulae.brew.sh/cask/tinycast</link>
+      <description>Application launcher and productivity tool — https://tinycast.dev/</description>
+      <guid isPermaLink="false">tinycast@2026-11-05T13:43:04Z</guid>
+      <pubDate>Thu, 05 Nov 2026 13:43:04 +0000</pubDate>
+    </item>
     <item>
       <title>EMEETLINK 5.3.8,2026.0814.1137</title>
       <link>https://formulae.brew.sh/cask/emeetlink</link>
@@ -683,27 +704,6 @@
       <description>Tool for monitoring and sending the Streaming ACN lighting control protocol — https://sacnview.org/</description>
       <guid isPermaLink="false">sacnview@2026-10-12T13:53:45Z</guid>
       <pubDate>Mon, 12 Oct 2026 13:53:45 +0000</pubDate>
-    </item>
-    <item>
-      <title>PHTV 3.6.5</title>
-      <link>https://formulae.brew.sh/cask/phtv</link>
-      <description>Vietnamese input method — https://phamhungtien.com/PHTV/</description>
-      <guid isPermaLink="false">phtv@2026-10-12T03:18:54Z</guid>
-      <pubDate>Mon, 12 Oct 2026 03:18:54 +0000</pubDate>
-    </item>
-    <item>
-      <title>Claudoscope 1.4.0</title>
-      <link>https://formulae.brew.sh/cask/claudoscope</link>
-      <description>Menu bar dashboard for Claude Code sessions — https://claudoscope.com/</description>
-      <guid isPermaLink="false">claudoscope@2026-10-11T21:14:03Z</guid>
-      <pubDate>Sun, 11 Oct 2026 21:14:03 +0000</pubDate>
-    </item>
-    <item>
-      <title>BetterAudio 26.6.2</title>
-      <link>https://formulae.brew.sh/cask/betteraudio</link>
-      <description>Per-app volume, EQ and audio device control — https://betteraudio.pro/</description>
-      <guid isPermaLink="false">betteraudio@2026-10-11T17:01:04Z</guid>
-      <pubDate>Sun, 11 Oct 2026 17:01:04 +0000</pubDate>
     </item>
   </channel>
 </rss>
