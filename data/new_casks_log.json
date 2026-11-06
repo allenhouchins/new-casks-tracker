@@ -2286,5 +2286,37 @@
     "homepage": "https://tinycast.dev/",
     "version": "0.12.8",
     "detected_at": "2026-11-05T13:43:04.509807809Z"
+  },
+  {
+    "token": "emeet-studio",
+    "name": "EMEET STUDIO",
+    "desc": "Companion app for EMEET webcams",
+    "homepage": "https://emeet.com/pages/software-service-downloads",
+    "version": "2.0.5,20261030_103517",
+    "detected_at": "2026-11-06T22:31:54.986133293Z"
+  },
+  {
+    "token": "gloom",
+    "name": "Gloom",
+    "desc": "Finance terminal",
+    "homepage": "https://gloom.sh/",
+    "version": "0.20.2",
+    "detected_at": "2026-11-06T22:31:54.986133293Z"
+  },
+  {
+    "token": "image-optimizer",
+    "name": "Image Optimizer",
+    "desc": "Tool to optimise images and vector graphics",
+    "homepage": "https://github.com/antonreshetov/image-optimizer",
+    "version": "2.1.0",
+    "detected_at": "2026-11-06T22:31:54.986133293Z"
+  },
+  {
+    "token": "tendedero",
+    "name": "Tendedero",
+    "desc": "Screenshot and screen recording manager",
+    "homepage": "https://tendedero.app/",
+    "version": "1.8.1",
+    "detected_at": "2026-11-06T22:31:54.986133293Z"
   }
 ]
