@@ -2342,5 +2342,21 @@
     "homepage": "https://www.wallpapermachine.app/",
     "version": "1.9.2",
     "detected_at": "2026-11-07T03:45:37.172296412Z"
+  },
+  {
+    "token": "texpile",
+    "name": "Texpile",
+    "desc": "Desktop editor for LaTeX, Typst, and Markdown",
+    "homepage": "https://texpile.com/",
+    "version": "1.6.2",
+    "detected_at": "2026-11-07T21:13:56.353368544Z"
+  },
+  {
+    "token": "tree-outliner",
+    "name": "Tree Outliner",
+    "desc": "Text outliner",
+    "homepage": "https://noteifyapp.com/tree-outliner/",
+    "version": "1.0.11",
+    "detected_at": "2026-11-07T21:13:56.353368544Z"
   }
 ]

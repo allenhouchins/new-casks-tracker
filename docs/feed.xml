@@ -4,7 +4,21 @@
     <title>New Homebrew Casks</title>
     <link>https://allenhouchins.github.io/new-casks-tracker/</link>
     <description>Newly added Homebrew casks, checked every 6 hours</description>
-    <lastBuildDate>Sat, 07 Nov 2026 12:06:30 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 07 Nov 2026 21:13:56 +0000</lastBuildDate>
+    <item>
+      <title>Texpile 1.6.2</title>
+      <link>https://formulae.brew.sh/cask/texpile</link>
+      <description>Desktop editor for LaTeX, Typst, and Markdown — https://texpile.com/</description>
+      <guid isPermaLink="false">texpile@2026-11-07T21:13:56Z</guid>
+      <pubDate>Sat, 07 Nov 2026 21:13:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>Tree Outliner 1.0.11</title>
+      <link>https://formulae.brew.sh/cask/tree-outliner</link>
+      <description>Text outliner — https://noteifyapp.com/tree-outliner/</description>
+      <guid isPermaLink="false">tree-outliner@2026-11-07T21:13:56Z</guid>
+      <pubDate>Sat, 07 Nov 2026 21:13:56 +0000</pubDate>
+    </item>
     <item>
       <title>Read AI 1.45.0</title>
       <link>https://formulae.brew.sh/cask/read-ai</link>
@@ -690,20 +704,6 @@
       <description>Command-line interface for Vercel — https://vercel.com/docs/cli</description>
       <guid isPermaLink="false">vercel@2026-10-15T10:33:59Z</guid>
       <pubDate>Thu, 15 Oct 2026 10:33:59 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ioskeley Mono Term Nerd Font 2.1.0</title>
-      <link>https://formulae.brew.sh/cask/font-ioskeley-mono-term-nerd-font</link>
-      <description>— https://github.com/ahatem/IoskeleyMono</description>
-      <guid isPermaLink="false">font-ioskeley-mono-term-nerd-font@2026-10-15T02:22:43Z</guid>
-      <pubDate>Thu, 15 Oct 2026 02:22:43 +0000</pubDate>
-    </item>
-    <item>
-      <title>Cyd 1.2.4</title>
-      <link>https://formulae.brew.sh/cask/cyd</link>
-      <description>Archive and delete your data on social media platforms — https://cyd.social/</description>
-      <guid isPermaLink="false">cyd@2026-10-14T16:10:41Z</guid>
-      <pubDate>Wed, 14 Oct 2026 16:10:41 +0000</pubDate>
     </item>
   </channel>
 </rss>
