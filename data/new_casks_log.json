@@ -2318,5 +2318,29 @@
     "homepage": "https://tendedero.app/",
     "version": "1.8.1",
     "detected_at": "2026-11-06T22:31:54.986133293Z"
+  },
+  {
+    "token": "read-ai",
+    "name": "Read AI",
+    "desc": "Meeting recorder, transcriber and summariser",
+    "homepage": "https://www.read.ai/desktop",
+    "version": "1.45.0",
+    "detected_at": "2026-11-07T03:45:37.172296412Z"
+  },
+  {
+    "token": "tinycast@beta",
+    "name": "Tinycast Beta",
+    "desc": "Application launcher and productivity tool",
+    "homepage": "https://tinycast.dev/",
+    "version": "0.12.9-beta.134",
+    "detected_at": "2026-11-07T03:45:37.172296412Z"
+  },
+  {
+    "token": "wallpapermachine",
+    "name": "WallpaperMachine",
+    "desc": "Player for Wallpaper Engine live wallpapers",
+    "homepage": "https://www.wallpapermachine.app/",
+    "version": "1.9.2",
+    "detected_at": "2026-11-07T03:45:37.172296412Z"
   }
 ]

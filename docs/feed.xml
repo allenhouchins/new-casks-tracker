@@ -4,7 +4,28 @@
     <title>New Homebrew Casks</title>
     <link>https://allenhouchins.github.io/new-casks-tracker/</link>
     <description>Newly added Homebrew casks, checked every 6 hours</description>
-    <lastBuildDate>Fri, 06 Nov 2026 22:31:54 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 07 Nov 2026 03:45:37 +0000</lastBuildDate>
+    <item>
+      <title>Read AI 1.45.0</title>
+      <link>https://formulae.brew.sh/cask/read-ai</link>
+      <description>Meeting recorder, transcriber and summariser — https://www.read.ai/desktop</description>
+      <guid isPermaLink="false">read-ai@2026-11-07T03:45:37Z</guid>
+      <pubDate>Sat, 07 Nov 2026 03:45:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>Tinycast Beta 0.12.9-beta.134</title>
+      <link>https://formulae.brew.sh/cask/tinycast@beta</link>
+      <description>Application launcher and productivity tool — https://tinycast.dev/</description>
+      <guid isPermaLink="false">tinycast@beta@2026-11-07T03:45:37Z</guid>
+      <pubDate>Sat, 07 Nov 2026 03:45:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>WallpaperMachine 1.9.2</title>
+      <link>https://formulae.brew.sh/cask/wallpapermachine</link>
+      <description>Player for Wallpaper Engine live wallpapers — https://www.wallpapermachine.app/</description>
+      <guid isPermaLink="false">wallpapermachine@2026-11-07T03:45:37Z</guid>
+      <pubDate>Sat, 07 Nov 2026 03:45:37 +0000</pubDate>
+    </item>
     <item>
       <title>EMEET STUDIO 2.0.5,20261030_103517</title>
       <link>https://formulae.brew.sh/cask/emeet-studio</link>
@@ -683,27 +704,6 @@
       <description>Archive and delete your data on social media platforms — https://cyd.social/</description>
       <guid isPermaLink="false">cyd@2026-10-14T16:10:41Z</guid>
       <pubDate>Wed, 14 Oct 2026 16:10:41 +0000</pubDate>
-    </item>
-    <item>
-      <title>Nextpad++ 1.1.2</title>
-      <link>https://formulae.brew.sh/cask/nextpad++</link>
-      <description>Unofficial native port of Notepad++ — https://nextpad.org/</description>
-      <guid isPermaLink="false">nextpad++@2026-10-14T02:43:12Z</guid>
-      <pubDate>Wed, 14 Oct 2026 02:43:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>Tracexy 0.9.1,16</title>
-      <link>https://formulae.brew.sh/cask/tracexy</link>
-      <description>Inspect network sessions, protocols, processes, and packet evidence — https://rockxy.io/tracexy</description>
-      <guid isPermaLink="false">tracexy@2026-10-13T22:05:18Z</guid>
-      <pubDate>Tue, 13 Oct 2026 22:05:18 +0000</pubDate>
-    </item>
-    <item>
-      <title>Crest 0.7.2</title>
-      <link>https://formulae.brew.sh/cask/crest-browser</link>
-      <description>Open-source web browser — https://crestbrowser.com/</description>
-      <guid isPermaLink="false">crest-browser@2026-10-12T13:53:45Z</guid>
-      <pubDate>Mon, 12 Oct 2026 13:53:45 +0000</pubDate>
     </item>
   </channel>
 </rss>
