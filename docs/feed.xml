@@ -4,7 +4,14 @@
     <title>New Homebrew Casks</title>
     <link>https://allenhouchins.github.io/new-casks-tracker/</link>
     <description>Newly added Homebrew casks, checked every 6 hours</description>
-    <lastBuildDate>Sun, 08 Nov 2026 12:27:27 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 08 Nov 2026 21:28:56 +0000</lastBuildDate>
+    <item>
+      <title>Hex 3.3.0</title>
+      <link>https://formulae.brew.sh/cask/anomaly-hex</link>
+      <description>On-device voice dictation — https://anoma.ly/hex/</description>
+      <guid isPermaLink="false">anomaly-hex@2026-11-08T21:28:56Z</guid>
+      <pubDate>Sun, 08 Nov 2026 21:28:56 +0000</pubDate>
+    </item>
     <item>
       <title>Texpile 1.6.2</title>
       <link>https://formulae.brew.sh/cask/texpile</link>
@@ -696,13 +703,6 @@
       <link>https://formulae.brew.sh/cask/receipts-space</link>
       <description>Organise receipts, invoices and other documents — https://receipts-space.com/</description>
       <guid isPermaLink="false">receipts-space@2026-10-15T10:33:59Z</guid>
-      <pubDate>Thu, 15 Oct 2026 10:33:59 +0000</pubDate>
-    </item>
-    <item>
-      <title>Vercel CLI 64.0.2</title>
-      <link>https://formulae.brew.sh/cask/vercel</link>
-      <description>Command-line interface for Vercel — https://vercel.com/docs/cli</description>
-      <guid isPermaLink="false">vercel@2026-10-15T10:33:59Z</guid>
       <pubDate>Thu, 15 Oct 2026 10:33:59 +0000</pubDate>
     </item>
   </channel>

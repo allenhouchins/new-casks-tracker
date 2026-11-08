@@ -2358,5 +2358,13 @@
     "homepage": "https://noteifyapp.com/tree-outliner/",
     "version": "1.0.11",
     "detected_at": "2026-11-07T21:13:56.353368544Z"
+  },
+  {
+    "token": "anomaly-hex",
+    "name": "Hex",
+    "desc": "On-device voice dictation",
+    "homepage": "https://anoma.ly/hex/",
+    "version": "3.3.0",
+    "detected_at": "2026-11-08T21:28:56.446919605Z"
   }
 ]
