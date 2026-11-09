@@ -4,7 +4,14 @@
     <title>New Homebrew Casks</title>
     <link>https://allenhouchins.github.io/new-casks-tracker/</link>
     <description>Newly added Homebrew casks, checked every 6 hours</description>
-    <lastBuildDate>Sun, 08 Nov 2026 21:28:56 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 09 Nov 2026 03:41:29 +0000</lastBuildDate>
+    <item>
+      <title>Agent Orchestrator 0.14.10</title>
+      <link>https://formulae.brew.sh/cask/agent-orchestrator</link>
+      <description>Supervisor for coding agents running in parallel Git worktrees — https://orchestrator.inc/</description>
+      <guid isPermaLink="false">agent-orchestrator@2026-11-09T03:41:29Z</guid>
+      <pubDate>Mon, 09 Nov 2026 03:41:29 +0000</pubDate>
+    </item>
     <item>
       <title>Hex 3.3.0</title>
       <link>https://formulae.brew.sh/cask/anomaly-hex</link>
@@ -696,13 +703,6 @@
       <link>https://formulae.brew.sh/cask/pulse</link>
       <description>System activity monitor for CPU, memory, GPU, disk and network — https://pulse.egoist.dev/</description>
       <guid isPermaLink="false">pulse@2026-10-15T10:33:59Z</guid>
-      <pubDate>Thu, 15 Oct 2026 10:33:59 +0000</pubDate>
-    </item>
-    <item>
-      <title>Receipts Space 3.6,36002</title>
-      <link>https://formulae.brew.sh/cask/receipts-space</link>
-      <description>Organise receipts, invoices and other documents — https://receipts-space.com/</description>
-      <guid isPermaLink="false">receipts-space@2026-10-15T10:33:59Z</guid>
       <pubDate>Thu, 15 Oct 2026 10:33:59 +0000</pubDate>
     </item>
   </channel>

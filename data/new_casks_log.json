@@ -2366,5 +2366,13 @@
     "homepage": "https://anoma.ly/hex/",
     "version": "3.3.0",
     "detected_at": "2026-11-08T21:28:56.446919605Z"
+  },
+  {
+    "token": "agent-orchestrator",
+    "name": "Agent Orchestrator",
+    "desc": "Supervisor for coding agents running in parallel Git worktrees",
+    "homepage": "https://orchestrator.inc/",
+    "version": "0.14.10",
+    "detected_at": "2026-11-09T03:41:29.417408564Z"
   }
 ]
