@@ -4,7 +4,21 @@
     <title>New Homebrew Casks</title>
     <link>https://allenhouchins.github.io/new-casks-tracker/</link>
     <description>Newly added Homebrew casks, checked every 6 hours</description>
-    <lastBuildDate>Mon, 09 Nov 2026 03:41:29 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 09 Nov 2026 14:41:54 +0000</lastBuildDate>
+    <item>
+      <title>ByteMail 1.9.22</title>
+      <link>https://formulae.brew.sh/cask/bytemail</link>
+      <description>Email client with an AI assistant — https://bytemailapp.com/</description>
+      <guid isPermaLink="false">bytemail@2026-11-09T14:41:54Z</guid>
+      <pubDate>Mon, 09 Nov 2026 14:41:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>Xcasca 1.1.2</title>
+      <link>https://formulae.brew.sh/cask/xcasca</link>
+      <description>SSH terminal and SFTP file transfer client — https://www.xcasca.com/</description>
+      <guid isPermaLink="false">xcasca@2026-11-09T14:41:54Z</guid>
+      <pubDate>Mon, 09 Nov 2026 14:41:54 +0000</pubDate>
+    </item>
     <item>
       <title>Agent Orchestrator 0.14.10</title>
       <link>https://formulae.brew.sh/cask/agent-orchestrator</link>
@@ -689,20 +703,6 @@
       <link>https://formulae.brew.sh/cask/capso</link>
       <description>Screenshot and screen recording tool — https://github.com/lzhgus/Capso</description>
       <guid isPermaLink="false">capso@2026-10-15T10:33:59Z</guid>
-      <pubDate>Thu, 15 Oct 2026 10:33:59 +0000</pubDate>
-    </item>
-    <item>
-      <title>FigCraft 0.6.0</title>
-      <link>https://formulae.brew.sh/cask/figcraft</link>
-      <description>Interface design and prototyping tool — https://getartcraft.com/apps/figcraft</description>
-      <guid isPermaLink="false">figcraft@2026-10-15T10:33:59Z</guid>
-      <pubDate>Thu, 15 Oct 2026 10:33:59 +0000</pubDate>
-    </item>
-    <item>
-      <title>Pulse 0.1.14</title>
-      <link>https://formulae.brew.sh/cask/pulse</link>
-      <description>System activity monitor for CPU, memory, GPU, disk and network — https://pulse.egoist.dev/</description>
-      <guid isPermaLink="false">pulse@2026-10-15T10:33:59Z</guid>
       <pubDate>Thu, 15 Oct 2026 10:33:59 +0000</pubDate>
     </item>
   </channel>

@@ -2374,5 +2374,21 @@
     "homepage": "https://orchestrator.inc/",
     "version": "0.14.10",
     "detected_at": "2026-11-09T03:41:29.417408564Z"
+  },
+  {
+    "token": "bytemail",
+    "name": "ByteMail",
+    "desc": "Email client with an AI assistant",
+    "homepage": "https://bytemailapp.com/",
+    "version": "1.9.22",
+    "detected_at": "2026-11-09T14:41:54.329187011Z"
+  },
+  {
+    "token": "xcasca",
+    "name": "Xcasca",
+    "desc": "SSH terminal and SFTP file transfer client",
+    "homepage": "https://www.xcasca.com/",
+    "version": "1.1.2",
+    "detected_at": "2026-11-09T14:41:54.329187011Z"
   }
 ]
