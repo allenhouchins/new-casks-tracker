@@ -4,7 +4,28 @@
     <title>New Homebrew Casks</title>
     <link>https://allenhouchins.github.io/new-casks-tracker/</link>
     <description>Newly added Homebrew casks, checked every 6 hours</description>
-    <lastBuildDate>Tue, 10 Nov 2026 00:58:42 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 10 Nov 2026 13:57:43 +0000</lastBuildDate>
+    <item>
+      <title>ftop 0.2.10</title>
+      <link>https://formulae.brew.sh/cask/ftop</link>
+      <description>System monitor tool — https://github.com/Nongfsq/ftop</description>
+      <guid isPermaLink="false">ftop@2026-11-10T13:57:43Z</guid>
+      <pubDate>Tue, 10 Nov 2026 13:57:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>Kugelblitz 1.1</title>
+      <link>https://formulae.brew.sh/cask/kugelblitz</link>
+      <description>3D globe and atlas for exploring geodata — https://apps.metaebene.me/en/kugelblitz</description>
+      <guid isPermaLink="false">kugelblitz@2026-11-10T13:57:43Z</guid>
+      <pubDate>Tue, 10 Nov 2026 13:57:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>Time 5.30.5</title>
+      <link>https://formulae.brew.sh/cask/time-messenger</link>
+      <description>Corporate messenger — https://time-messenger.ru/</description>
+      <guid isPermaLink="false">time-messenger@2026-11-10T13:57:43Z</guid>
+      <pubDate>Tue, 10 Nov 2026 13:57:43 +0000</pubDate>
+    </item>
     <item>
       <title>ByteMail 1.9.22</title>
       <link>https://formulae.brew.sh/cask/bytemail</link>
@@ -683,27 +704,6 @@
       <description>Instrument data acquisition tool — https://www.vernier.com/product/instrumental-analysis/</description>
       <guid isPermaLink="false">vernier-instrumental-analysis@2026-10-16T15:46:36Z</guid>
       <pubDate>Fri, 16 Oct 2026 15:46:36 +0000</pubDate>
-    </item>
-    <item>
-      <title>Tine 0.7.3</title>
-      <link>https://formulae.brew.sh/cask/tine</link>
-      <description>Outliner for Markdown and Org notes — https://tine.page/</description>
-      <guid isPermaLink="false">tine@2026-10-15T15:58:31Z</guid>
-      <pubDate>Thu, 15 Oct 2026 15:58:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>Biscotti 1.0.0</title>
-      <link>https://formulae.brew.sh/cask/biscotti</link>
-      <description>Private meeting transcription — https://biscottiapp.com/</description>
-      <guid isPermaLink="false">biscotti@2026-10-15T10:33:59Z</guid>
-      <pubDate>Thu, 15 Oct 2026 10:33:59 +0000</pubDate>
-    </item>
-    <item>
-      <title>Capso 1.2.1</title>
-      <link>https://formulae.brew.sh/cask/capso</link>
-      <description>Screenshot and screen recording tool — https://github.com/lzhgus/Capso</description>
-      <guid isPermaLink="false">capso@2026-10-15T10:33:59Z</guid>
-      <pubDate>Thu, 15 Oct 2026 10:33:59 +0000</pubDate>
     </item>
   </channel>
 </rss>
