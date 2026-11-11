@@ -2430,5 +2430,13 @@
     "homepage": "https://www.buhl.de/download/wiso-steuer-2027/",
     "version": "34.00.1600",
     "detected_at": "2026-11-11T03:46:21.174677931Z"
+  },
+  {
+    "token": "rustgis",
+    "name": "RustGIS",
+    "desc": "GIS platform",
+    "homepage": "https://rustgis.app/",
+    "version": "0.6.0",
+    "detected_at": "2026-11-11T13:12:26.449740381Z"
   }
 ]
