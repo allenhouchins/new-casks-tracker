@@ -2438,5 +2438,29 @@
     "homepage": "https://rustgis.app/",
     "version": "0.6.0",
     "detected_at": "2026-11-11T13:12:26.449740381Z"
+  },
+  {
+    "token": "kiwidesk",
+    "name": "KiwiDesk",
+    "desc": "Tiling window manager",
+    "homepage": "https://kiwidesk.kiwicanopy.com/",
+    "version": "4.2.1",
+    "detected_at": "2026-11-11T23:51:29.574125579Z"
+  },
+  {
+    "token": "nod",
+    "name": "Nod",
+    "desc": "Personal AI agent",
+    "homepage": "https://nod.n8n.io/",
+    "version": "0.6.2",
+    "detected_at": "2026-11-11T23:51:29.574125579Z"
+  },
+  {
+    "token": "teamwork-graph-cli",
+    "name": "Teamwork Graph CLI",
+    "desc": "Command-line interface for Atlassian Teamwork Graph",
+    "homepage": "https://developer.atlassian.com/cloud/twg-cli",
+    "version": "1.4.4",
+    "detected_at": "2026-11-11T23:51:29.574125579Z"
   }
 ]

@@ -4,7 +4,28 @@
     <title>New Homebrew Casks</title>
     <link>https://allenhouchins.github.io/new-casks-tracker/</link>
     <description>Newly added Homebrew casks, checked every 6 hours</description>
-    <lastBuildDate>Wed, 11 Nov 2026 13:12:26 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 11 Nov 2026 23:51:29 +0000</lastBuildDate>
+    <item>
+      <title>KiwiDesk 4.2.1</title>
+      <link>https://formulae.brew.sh/cask/kiwidesk</link>
+      <description>Tiling window manager — https://kiwidesk.kiwicanopy.com/</description>
+      <guid isPermaLink="false">kiwidesk@2026-11-11T23:51:29Z</guid>
+      <pubDate>Wed, 11 Nov 2026 23:51:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>Nod 0.6.2</title>
+      <link>https://formulae.brew.sh/cask/nod</link>
+      <description>Personal AI agent — https://nod.n8n.io/</description>
+      <guid isPermaLink="false">nod@2026-11-11T23:51:29Z</guid>
+      <pubDate>Wed, 11 Nov 2026 23:51:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>Teamwork Graph CLI 1.4.4</title>
+      <link>https://formulae.brew.sh/cask/teamwork-graph-cli</link>
+      <description>Command-line interface for Atlassian Teamwork Graph — https://developer.atlassian.com/cloud/twg-cli</description>
+      <guid isPermaLink="false">teamwork-graph-cli@2026-11-11T23:51:29Z</guid>
+      <pubDate>Wed, 11 Nov 2026 23:51:29 +0000</pubDate>
+    </item>
     <item>
       <title>RustGIS 0.6.0</title>
       <link>https://formulae.brew.sh/cask/rustgis</link>
@@ -683,27 +704,6 @@
       <description>Disk cleaner — https://cleeen.fehey.com/</description>
       <guid isPermaLink="false">cleeen@2026-10-17T09:53:52Z</guid>
       <pubDate>Sat, 17 Oct 2026 09:53:52 +0000</pubDate>
-    </item>
-    <item>
-      <title>Shadow 2.3.8,133</title>
-      <link>https://formulae.brew.sh/cask/taperlabs-shadow</link>
-      <description>AI meeting notetaker — https://www.shadow.do/</description>
-      <guid isPermaLink="false">taperlabs-shadow@2026-10-17T09:53:52Z</guid>
-      <pubDate>Sat, 17 Oct 2026 09:53:52 +0000</pubDate>
-    </item>
-    <item>
-      <title>Notomo 0.43.0</title>
-      <link>https://formulae.brew.sh/cask/notomo</link>
-      <description>Markdown shortcuts, quick actions and AI for Apple Notes — https://notomo.app/</description>
-      <guid isPermaLink="false">notomo@2026-10-16T15:46:36Z</guid>
-      <pubDate>Fri, 16 Oct 2026 15:46:36 +0000</pubDate>
-    </item>
-    <item>
-      <title>Petal 0.9.30</title>
-      <link>https://formulae.brew.sh/cask/petal</link>
-      <description>Multi-window screen sharing where each shared window becomes a native window — https://petal.live/</description>
-      <guid isPermaLink="false">petal@2026-10-16T15:46:36Z</guid>
-      <pubDate>Fri, 16 Oct 2026 15:46:36 +0000</pubDate>
     </item>
   </channel>
 </rss>
