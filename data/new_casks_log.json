@@ -2414,5 +2414,21 @@
     "homepage": "https://time-messenger.ru/",
     "version": "5.30.5",
     "detected_at": "2026-11-10T13:57:43.4869696Z"
+  },
+  {
+    "token": "blick",
+    "name": "Blick",
+    "desc": "Video editor",
+    "homepage": "https://blickeditor.com/",
+    "version": "0.5.2",
+    "detected_at": "2026-11-11T03:46:21.174677931Z"
+  },
+  {
+    "token": "wiso-steuer-2027",
+    "name": "WISO Steuer 2027",
+    "desc": "Tax declaration for the fiscal year 2026",
+    "homepage": "https://www.buhl.de/download/wiso-steuer-2027/",
+    "version": "34.00.1600",
+    "detected_at": "2026-11-11T03:46:21.174677931Z"
   }
 ]
