@@ -2470,5 +2470,21 @@
     "homepage": "https://www.parallels.com/products/desktop/",
     "version": "26.5.0-57613",
     "detected_at": "2026-11-12T04:55:15.241814608Z"
+  },
+  {
+    "token": "devtools",
+    "name": "DevTools",
+    "desc": "Collection of developer utilities",
+    "homepage": "https://github.com/me-shaon/devtools",
+    "version": "2.11.0",
+    "detected_at": "2026-11-12T14:15:15.904628718Z"
+  },
+  {
+    "token": "plezy",
+    "name": "Plezy",
+    "desc": "Client for Plex, Jellyfin and Emby media servers",
+    "homepage": "https://plezy.app/",
+    "version": "2.26.0",
+    "detected_at": "2026-11-12T14:15:15.904628718Z"
   }
 ]

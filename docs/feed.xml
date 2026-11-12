@@ -4,7 +4,21 @@
     <title>New Homebrew Casks</title>
     <link>https://allenhouchins.github.io/new-casks-tracker/</link>
     <description>Newly added Homebrew casks, checked every 6 hours</description>
-    <lastBuildDate>Thu, 12 Nov 2026 04:55:15 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 12 Nov 2026 14:15:15 +0000</lastBuildDate>
+    <item>
+      <title>DevTools 2.11.0</title>
+      <link>https://formulae.brew.sh/cask/devtools</link>
+      <description>Collection of developer utilities — https://github.com/me-shaon/devtools</description>
+      <guid isPermaLink="false">devtools@2026-11-12T14:15:15Z</guid>
+      <pubDate>Thu, 12 Nov 2026 14:15:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>Plezy 2.26.0</title>
+      <link>https://formulae.brew.sh/cask/plezy</link>
+      <description>Client for Plex, Jellyfin and Emby media servers — https://plezy.app/</description>
+      <guid isPermaLink="false">plezy@2026-11-12T14:15:15Z</guid>
+      <pubDate>Thu, 12 Nov 2026 14:15:15 +0000</pubDate>
+    </item>
     <item>
       <title>Parallels Desktop 26.5.0-57613</title>
       <link>https://formulae.brew.sh/cask/parallels@26</link>
@@ -690,20 +704,6 @@
       <description>— https://github.com/jeremymickel/Redaction</description>
       <guid isPermaLink="false">font-redaction-70@2026-10-18T02:08:46Z</guid>
       <pubDate>Sun, 18 Oct 2026 02:08:46 +0000</pubDate>
-    </item>
-    <item>
-      <title>Libron 0.31</title>
-      <link>https://formulae.brew.sh/cask/font-libron</link>
-      <description>— https://nicoverbruggen.be/fonts</description>
-      <guid isPermaLink="false">font-libron@2026-10-17T14:39:17Z</guid>
-      <pubDate>Sat, 17 Oct 2026 14:39:17 +0000</pubDate>
-    </item>
-    <item>
-      <title>PortKiller 3.4.0</title>
-      <link>https://formulae.brew.sh/cask/portkiller</link>
-      <description>Monitor listening ports and kill their processes — https://github.com/productdevbook/port-killer</description>
-      <guid isPermaLink="false">portkiller@2026-10-17T14:39:17Z</guid>
-      <pubDate>Sat, 17 Oct 2026 14:39:17 +0000</pubDate>
     </item>
   </channel>
 </rss>
