@@ -4,7 +4,14 @@
     <title>New Homebrew Casks</title>
     <link>https://allenhouchins.github.io/new-casks-tracker/</link>
     <description>Newly added Homebrew casks, checked every 6 hours</description>
-    <lastBuildDate>Wed, 11 Nov 2026 23:51:29 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 12 Nov 2026 04:55:15 +0000</lastBuildDate>
+    <item>
+      <title>Parallels Desktop 26.5.0-57613</title>
+      <link>https://formulae.brew.sh/cask/parallels@26</link>
+      <description>Desktop virtualization software — https://www.parallels.com/products/desktop/</description>
+      <guid isPermaLink="false">parallels@26@2026-11-12T04:55:15Z</guid>
+      <pubDate>Thu, 12 Nov 2026 04:55:15 +0000</pubDate>
+    </item>
     <item>
       <title>KiwiDesk 4.2.1</title>
       <link>https://formulae.brew.sh/cask/kiwidesk</link>
@@ -697,13 +704,6 @@
       <description>Monitor listening ports and kill their processes — https://github.com/productdevbook/port-killer</description>
       <guid isPermaLink="false">portkiller@2026-10-17T14:39:17Z</guid>
       <pubDate>Sat, 17 Oct 2026 14:39:17 +0000</pubDate>
-    </item>
-    <item>
-      <title>Cleeen 0.12.3</title>
-      <link>https://formulae.brew.sh/cask/cleeen</link>
-      <description>Disk cleaner — https://cleeen.fehey.com/</description>
-      <guid isPermaLink="false">cleeen@2026-10-17T09:53:52Z</guid>
-      <pubDate>Sat, 17 Oct 2026 09:53:52 +0000</pubDate>
     </item>
   </channel>
 </rss>
