@@ -2486,5 +2486,13 @@
     "homepage": "https://plezy.app/",
     "version": "2.26.0",
     "detected_at": "2026-11-12T14:15:15.904628718Z"
+  },
+  {
+    "token": "sable",
+    "name": "Sable",
+    "desc": "Client for the Matrix chat network",
+    "homepage": "https://sable.moe/",
+    "version": "2.3.8",
+    "detected_at": "2026-11-13T04:07:19.737557629Z"
   }
 ]

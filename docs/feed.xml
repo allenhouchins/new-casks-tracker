@@ -4,7 +4,14 @@
     <title>New Homebrew Casks</title>
     <link>https://allenhouchins.github.io/new-casks-tracker/</link>
     <description>Newly added Homebrew casks, checked every 6 hours</description>
-    <lastBuildDate>Thu, 12 Nov 2026 22:58:33 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 13 Nov 2026 04:07:19 +0000</lastBuildDate>
+    <item>
+      <title>Sable 2.3.8</title>
+      <link>https://formulae.brew.sh/cask/sable</link>
+      <description>Client for the Matrix chat network — https://sable.moe/</description>
+      <guid isPermaLink="false">sable@2026-11-13T04:07:19Z</guid>
+      <pubDate>Fri, 13 Nov 2026 04:07:19 +0000</pubDate>
+    </item>
     <item>
       <title>DevTools 2.11.0</title>
       <link>https://formulae.brew.sh/cask/devtools</link>
@@ -696,13 +703,6 @@
       <link>https://formulae.brew.sh/cask/font-redaction-50</link>
       <description>— https://github.com/jeremymickel/Redaction</description>
       <guid isPermaLink="false">font-redaction-50@2026-10-18T02:08:46Z</guid>
-      <pubDate>Sun, 18 Oct 2026 02:08:46 +0000</pubDate>
-    </item>
-    <item>
-      <title>Redaction 70 latest</title>
-      <link>https://formulae.brew.sh/cask/font-redaction-70</link>
-      <description>— https://github.com/jeremymickel/Redaction</description>
-      <guid isPermaLink="false">font-redaction-70@2026-10-18T02:08:46Z</guid>
       <pubDate>Sun, 18 Oct 2026 02:08:46 +0000</pubDate>
     </item>
   </channel>
