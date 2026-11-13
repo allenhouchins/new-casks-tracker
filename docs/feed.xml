@@ -4,7 +4,21 @@
     <title>New Homebrew Casks</title>
     <link>https://allenhouchins.github.io/new-casks-tracker/</link>
     <description>Newly added Homebrew casks, checked every 6 hours</description>
-    <lastBuildDate>Fri, 13 Nov 2026 04:07:19 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 13 Nov 2026 13:38:39 +0000</lastBuildDate>
+    <item>
+      <title>Lattice 0.16.16</title>
+      <link>https://formulae.brew.sh/cask/lattice</link>
+      <description>LaTeX editor — https://leo1oel.github.io/lattice/</description>
+      <guid isPermaLink="false">lattice@2026-11-13T13:38:39Z</guid>
+      <pubDate>Fri, 13 Nov 2026 13:38:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>Yandex Document 1.1.0</title>
+      <link>https://formulae.brew.sh/cask/yandex-document</link>
+      <description>Document and spreadsheet editor — https://360.yandex.ru/documents/desktop/</description>
+      <guid isPermaLink="false">yandex-document@2026-11-13T13:38:39Z</guid>
+      <pubDate>Fri, 13 Nov 2026 13:38:39 +0000</pubDate>
+    </item>
     <item>
       <title>Sable 2.3.8</title>
       <link>https://formulae.brew.sh/cask/sable</link>
@@ -689,20 +703,6 @@
       <link>https://formulae.brew.sh/cask/font-redaction-20</link>
       <description>— https://github.com/jeremymickel/Redaction</description>
       <guid isPermaLink="false">font-redaction-20@2026-10-18T02:08:46Z</guid>
-      <pubDate>Sun, 18 Oct 2026 02:08:46 +0000</pubDate>
-    </item>
-    <item>
-      <title>Redaction 35 latest</title>
-      <link>https://formulae.brew.sh/cask/font-redaction-35</link>
-      <description>— https://github.com/jeremymickel/Redaction</description>
-      <guid isPermaLink="false">font-redaction-35@2026-10-18T02:08:46Z</guid>
-      <pubDate>Sun, 18 Oct 2026 02:08:46 +0000</pubDate>
-    </item>
-    <item>
-      <title>Redaction 50 latest</title>
-      <link>https://formulae.brew.sh/cask/font-redaction-50</link>
-      <description>— https://github.com/jeremymickel/Redaction</description>
-      <guid isPermaLink="false">font-redaction-50@2026-10-18T02:08:46Z</guid>
       <pubDate>Sun, 18 Oct 2026 02:08:46 +0000</pubDate>
     </item>
   </channel>

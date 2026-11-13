@@ -2494,5 +2494,21 @@
     "homepage": "https://sable.moe/",
     "version": "2.3.8",
     "detected_at": "2026-11-13T04:07:19.737557629Z"
+  },
+  {
+    "token": "lattice",
+    "name": "Lattice",
+    "desc": "LaTeX editor",
+    "homepage": "https://leo1oel.github.io/lattice/",
+    "version": "0.16.16",
+    "detected_at": "2026-11-13T13:38:39.405632894Z"
+  },
+  {
+    "token": "yandex-document",
+    "name": "Yandex Document",
+    "desc": "Document and spreadsheet editor",
+    "homepage": "https://360.yandex.ru/documents/desktop/",
+    "version": "1.1.0",
+    "detected_at": "2026-11-13T13:38:39.405632894Z"
   }
 ]
