@@ -4,7 +4,21 @@
     <title>New Homebrew Casks</title>
     <link>https://allenhouchins.github.io/new-casks-tracker/</link>
     <description>Newly added Homebrew casks, checked every 6 hours</description>
-    <lastBuildDate>Sat, 14 Nov 2026 04:04:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 14 Nov 2026 12:42:56 +0000</lastBuildDate>
+    <item>
+      <title>Ardia 0.2.46</title>
+      <link>https://formulae.brew.sh/cask/ardia</link>
+      <description>Chromium-based web browser with a vertical tab sidebar — https://ardia.dev/</description>
+      <guid isPermaLink="false">ardia@2026-11-14T12:42:56Z</guid>
+      <pubDate>Sat, 14 Nov 2026 12:42:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>.NET SDK 10.0.404</title>
+      <link>https://formulae.brew.sh/cask/dotnet-sdk@10</link>
+      <description>Developer platform — https://www.microsoft.com/net/core#macos</description>
+      <guid isPermaLink="false">dotnet-sdk@10@2026-11-14T12:42:56Z</guid>
+      <pubDate>Sat, 14 Nov 2026 12:42:56 +0000</pubDate>
+    </item>
     <item>
       <title>Fleet Desktop 1.6.0</title>
       <link>https://formulae.brew.sh/cask/fleet-desktop</link>
@@ -689,20 +703,6 @@
       <link>https://formulae.brew.sh/cask/font-firjar</link>
       <description>— https://github.com/Mestaratype/Firjar</description>
       <guid isPermaLink="false">font-firjar@2026-10-18T02:08:46Z</guid>
-      <pubDate>Sun, 18 Oct 2026 02:08:46 +0000</pubDate>
-    </item>
-    <item>
-      <title>Redaction latest</title>
-      <link>https://formulae.brew.sh/cask/font-redaction</link>
-      <description>— https://github.com/jeremymickel/Redaction</description>
-      <guid isPermaLink="false">font-redaction@2026-10-18T02:08:46Z</guid>
-      <pubDate>Sun, 18 Oct 2026 02:08:46 +0000</pubDate>
-    </item>
-    <item>
-      <title>Redaction 10 latest</title>
-      <link>https://formulae.brew.sh/cask/font-redaction-10</link>
-      <description>— https://github.com/jeremymickel/Redaction</description>
-      <guid isPermaLink="false">font-redaction-10@2026-10-18T02:08:46Z</guid>
       <pubDate>Sun, 18 Oct 2026 02:08:46 +0000</pubDate>
     </item>
   </channel>
