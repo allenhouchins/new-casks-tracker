@@ -4,7 +4,42 @@
     <title>New Homebrew Casks</title>
     <link>https://allenhouchins.github.io/new-casks-tracker/</link>
     <description>Newly added Homebrew casks, checked every 6 hours</description>
-    <lastBuildDate>Mon, 16 Nov 2026 03:50:35 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 16 Nov 2026 14:18:04 +0000</lastBuildDate>
+    <item>
+      <title>hora Calendar 3.0.3,658</title>
+      <link>https://formulae.brew.sh/cask/hora-calendar</link>
+      <description>Google Calendar client — https://horacal.app/</description>
+      <guid isPermaLink="false">hora-calendar@2026-11-16T14:18:04Z</guid>
+      <pubDate>Mon, 16 Nov 2026 14:18:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>Open Screen Sharing 1.0.6</title>
+      <link>https://formulae.brew.sh/cask/open-screen-sharing</link>
+      <description>Remote desktop client for VNC and RDP — https://github.com/nekohasekai/open-screen-sharing</description>
+      <guid isPermaLink="false">open-screen-sharing@2026-11-16T14:18:04Z</guid>
+      <pubDate>Mon, 16 Nov 2026 14:18:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>Pake 1.7.1</title>
+      <link>https://formulae.brew.sh/cask/pake-app</link>
+      <description>Turn websites into desktop apps without a toolchain — https://pake.run/</description>
+      <guid isPermaLink="false">pake-app@2026-11-16T14:18:04Z</guid>
+      <pubDate>Mon, 16 Nov 2026 14:18:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>Realtek RTL815x Ethernet 1.1.0</title>
+      <link>https://formulae.brew.sh/cask/realtek-rtl815x-ethernet</link>
+      <description>DriverKit driver for Realtek USB Ethernet adapters — https://www.realtek.com/Download/List?cate_id=585</description>
+      <guid isPermaLink="false">realtek-rtl815x-ethernet@2026-11-16T14:18:04Z</guid>
+      <pubDate>Mon, 16 Nov 2026 14:18:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>Tab Finder 2.1.20</title>
+      <link>https://formulae.brew.sh/cask/tab-finder</link>
+      <description>Searchable list of open browser tabs — https://noteifyapp.com/tab-finder/</description>
+      <guid isPermaLink="false">tab-finder@2026-11-16T14:18:04Z</guid>
+      <pubDate>Mon, 16 Nov 2026 14:18:04 +0000</pubDate>
+    </item>
     <item>
       <title>HyperFrames 1033,efb6a64bf</title>
       <link>https://formulae.brew.sh/cask/hyperframes</link>
@@ -669,41 +704,6 @@
       <description>AI-powered database client — https://tamery.app/</description>
       <guid isPermaLink="false">tamery@2026-10-19T11:34:40Z</guid>
       <pubDate>Mon, 19 Oct 2026 11:34:40 +0000</pubDate>
-    </item>
-    <item>
-      <title>Textus 1.1.0</title>
-      <link>https://formulae.brew.sh/cask/textus</link>
-      <description>WYSIWYG Markdown editor with built-in AI writing tools — https://textus.catvinci.com/</description>
-      <guid isPermaLink="false">textus@2026-10-19T11:34:40Z</guid>
-      <pubDate>Mon, 19 Oct 2026 11:34:40 +0000</pubDate>
-    </item>
-    <item>
-      <title>ArtCraft Launcher 0.5.1</title>
-      <link>https://formulae.brew.sh/cask/artcraft-launcher</link>
-      <description>Installer and updater for the Craft App Suite — https://github.com/storytold/craft-launcher</description>
-      <guid isPermaLink="false">artcraft-launcher@2026-10-18T15:06:06Z</guid>
-      <pubDate>Sun, 18 Oct 2026 15:06:06 +0000</pubDate>
-    </item>
-    <item>
-      <title>OpenDisplay Receiver 1.25.0</title>
-      <link>https://formulae.brew.sh/cask/opendisplay-receiver</link>
-      <description>Receiver that turns a computer into a second display for OpenDisplay — https://opendisplay.app/</description>
-      <guid isPermaLink="false">opendisplay-receiver@2026-10-18T10:05:53Z</guid>
-      <pubDate>Sun, 18 Oct 2026 10:05:53 +0000</pubDate>
-    </item>
-    <item>
-      <title>Tutti 0.2.33</title>
-      <link>https://formulae.brew.sh/cask/tutti</link>
-      <description>Workspace for connecting and coordinating AI agents — https://tutti.sh/</description>
-      <guid isPermaLink="false">tutti@2026-10-18T10:05:53Z</guid>
-      <pubDate>Sun, 18 Oct 2026 10:05:53 +0000</pubDate>
-    </item>
-    <item>
-      <title>Zeal 0.9.1</title>
-      <link>https://formulae.brew.sh/cask/zeal</link>
-      <description>Offline documentation browser — https://zealdocs.org/</description>
-      <guid isPermaLink="false">zeal@2026-10-18T10:05:53Z</guid>
-      <pubDate>Sun, 18 Oct 2026 10:05:53 +0000</pubDate>
     </item>
   </channel>
 </rss>

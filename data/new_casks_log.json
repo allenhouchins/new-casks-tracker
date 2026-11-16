@@ -2550,5 +2550,45 @@
     "homepage": "https://hyperframes.heygen.com/",
     "version": "1033,efb6a64bf",
     "detected_at": "2026-11-16T03:50:35.780375048Z"
+  },
+  {
+    "token": "hora-calendar",
+    "name": "hora Calendar",
+    "desc": "Google Calendar client",
+    "homepage": "https://horacal.app/",
+    "version": "3.0.3,658",
+    "detected_at": "2026-11-16T14:18:04.015840045Z"
+  },
+  {
+    "token": "open-screen-sharing",
+    "name": "Open Screen Sharing",
+    "desc": "Remote desktop client for VNC and RDP",
+    "homepage": "https://github.com/nekohasekai/open-screen-sharing",
+    "version": "1.0.6",
+    "detected_at": "2026-11-16T14:18:04.015840045Z"
+  },
+  {
+    "token": "pake-app",
+    "name": "Pake",
+    "desc": "Turn websites into desktop apps without a toolchain",
+    "homepage": "https://pake.run/",
+    "version": "1.7.1",
+    "detected_at": "2026-11-16T14:18:04.015840045Z"
+  },
+  {
+    "token": "realtek-rtl815x-ethernet",
+    "name": "Realtek RTL815x Ethernet",
+    "desc": "DriverKit driver for Realtek USB Ethernet adapters",
+    "homepage": "https://www.realtek.com/Download/List?cate_id=585",
+    "version": "1.1.0",
+    "detected_at": "2026-11-16T14:18:04.015840045Z"
+  },
+  {
+    "token": "tab-finder",
+    "name": "Tab Finder",
+    "desc": "Searchable list of open browser tabs",
+    "homepage": "https://noteifyapp.com/tab-finder/",
+    "version": "2.1.20",
+    "detected_at": "2026-11-16T14:18:04.015840045Z"
   }
 ]
