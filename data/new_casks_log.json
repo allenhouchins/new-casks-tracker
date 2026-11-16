@@ -2542,5 +2542,13 @@
     "homepage": "https://www.microsoft.com/net/core#macos",
     "version": "10.0.404",
     "detected_at": "2026-11-14T12:42:56.115184931Z"
+  },
+  {
+    "token": "hyperframes",
+    "name": "HyperFrames",
+    "desc": "Video editor for HTML-based compositions",
+    "homepage": "https://hyperframes.heygen.com/",
+    "version": "1033,efb6a64bf",
+    "detected_at": "2026-11-16T03:50:35.780375048Z"
   }
 ]
