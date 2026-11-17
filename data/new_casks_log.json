@@ -2606,5 +2606,29 @@
     "homepage": "https://www.ntwind.com/remote/clipboard.html",
     "version": "2.0.3",
     "detected_at": "2026-11-17T01:18:02.858382663Z"
+  },
+  {
+    "token": "multidock",
+    "name": "MultiDock",
+    "desc": "Extra panels for apps, files and folders",
+    "homepage": "https://noteifyapp.com/multidock/",
+    "version": "2.16",
+    "detected_at": "2026-11-17T15:10:27.213779752Z"
+  },
+  {
+    "token": "screenshot-remote",
+    "name": "Screenshot Remote",
+    "desc": "Capture screenshots on remote computers over a local network",
+    "homepage": "https://www.ntwind.com/remote/screenshot.html",
+    "version": "2.0.3",
+    "detected_at": "2026-11-17T15:10:27.213779752Z"
+  },
+  {
+    "token": "upload-remote",
+    "name": "Upload Remote",
+    "desc": "Transfer files between devices over a local network",
+    "homepage": "https://www.ntwind.com/remote/upload.html",
+    "version": "2.0.3",
+    "detected_at": "2026-11-17T15:10:27.213779752Z"
   }
 ]
