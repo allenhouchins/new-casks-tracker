@@ -2590,5 +2590,21 @@
     "homepage": "https://noteifyapp.com/tab-finder/",
     "version": "2.1.20",
     "detected_at": "2026-11-16T14:18:04.015840045Z"
+  },
+  {
+    "token": "byos",
+    "name": "Byos",
+    "desc": "Companion app for Byos Secure Edge devices",
+    "homepage": "https://www.byos.io/",
+    "version": "2.3.6",
+    "detected_at": "2026-11-17T01:18:02.858382663Z"
+  },
+  {
+    "token": "clipboard-remote",
+    "name": "Clipboard Remote",
+    "desc": "Share clipboard contents between devices over a local network",
+    "homepage": "https://www.ntwind.com/remote/clipboard.html",
+    "version": "2.0.3",
+    "detected_at": "2026-11-17T01:18:02.858382663Z"
   }
 ]
