@@ -4,7 +4,35 @@
     <title>New Homebrew Casks</title>
     <link>https://allenhouchins.github.io/new-casks-tracker/</link>
     <description>Newly added Homebrew casks, checked every 6 hours</description>
-    <lastBuildDate>Wed, 18 Nov 2026 14:48:30 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 23:42:12 +0000</lastBuildDate>
+    <item>
+      <title>Alfred 5.8.1,2349</title>
+      <link>https://formulae.brew.sh/cask/alfred@5</link>
+      <description>Application launcher and productivity software — https://www.alfredapp.com/</description>
+      <guid isPermaLink="false">alfred@5@2026-11-18T23:42:12Z</guid>
+      <pubDate>Wed, 18 Nov 2026 23:42:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>Mistral Vibe 1.3.0</title>
+      <link>https://formulae.brew.sh/cask/mistral-vibe-app</link>
+      <description>AI chat and coding agent — https://mistral.ai/products/vibe/</description>
+      <guid isPermaLink="false">mistral-vibe-app@2026-11-18T23:42:12Z</guid>
+      <pubDate>Wed, 18 Nov 2026 23:42:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>SetShot 1.0.1</title>
+      <link>https://formulae.brew.sh/cask/setshot</link>
+      <description>Snapshot and diff system settings changes — https://tidbits.com/setshot/</description>
+      <guid isPermaLink="false">setshot@2026-11-18T23:42:12Z</guid>
+      <pubDate>Wed, 18 Nov 2026 23:42:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>SpeedCrunch 1.2.0</title>
+      <link>https://formulae.brew.sh/cask/speedcrunch</link>
+      <description>Scientific calculator — https://speedcrunch.org/</description>
+      <guid isPermaLink="false">speedcrunch@2026-11-18T23:42:12Z</guid>
+      <pubDate>Wed, 18 Nov 2026 23:42:12 +0000</pubDate>
+    </item>
     <item>
       <title>Blave 0.1.55</title>
       <link>https://formulae.brew.sh/cask/blave</link>
@@ -676,34 +704,6 @@
       <description>Ad blocker for Safari — https://skula.me/project/wblock/</description>
       <guid isPermaLink="false">wblock@2026-10-25T15:16:03Z</guid>
       <pubDate>Sun, 25 Oct 2026 15:16:03 +0000</pubDate>
-    </item>
-    <item>
-      <title>Agrave Pro latest</title>
-      <link>https://formulae.brew.sh/cask/font-agrave-pro</link>
-      <description>— https://github.com/daanjobsis/agrave-pro</description>
-      <guid isPermaLink="false">font-agrave-pro@2026-10-25T10:23:46Z</guid>
-      <pubDate>Sun, 25 Oct 2026 10:23:46 +0000</pubDate>
-    </item>
-    <item>
-      <title>AirBuild 1.1.138</title>
-      <link>https://formulae.brew.sh/cask/airbuild</link>
-      <description>AI agents that build iOS apps and handle App Store review — https://air.build/</description>
-      <guid isPermaLink="false">airbuild@2026-10-24T09:59:13Z</guid>
-      <pubDate>Sat, 24 Oct 2026 09:59:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>Kero 2.1.11</title>
-      <link>https://formulae.brew.sh/cask/kero</link>
-      <description>Terminal app optimised for agents — https://kero.sh/</description>
-      <guid isPermaLink="false">kero@2026-10-24T02:32:13Z</guid>
-      <pubDate>Sat, 24 Oct 2026 02:32:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>OmniWM Canary 20261022-0439-39721295344-1</title>
-      <link>https://formulae.brew.sh/cask/omniwm@canary</link>
-      <description>Tiling window manager — https://omniwm.app/</description>
-      <guid isPermaLink="false">omniwm@canary@2026-10-24T02:32:13Z</guid>
-      <pubDate>Sat, 24 Oct 2026 02:32:13 +0000</pubDate>
     </item>
   </channel>
 </rss>
