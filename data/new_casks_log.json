@@ -2630,5 +2630,53 @@
     "homepage": "https://www.ntwind.com/remote/upload.html",
     "version": "2.0.3",
     "detected_at": "2026-11-17T15:10:27.213779752Z"
+  },
+  {
+    "token": "blave",
+    "name": "Blave",
+    "desc": "Algorithmic trading and backtesting app using AI agents",
+    "homepage": "https://blave.org/",
+    "version": "0.1.55",
+    "detected_at": "2026-11-18T14:48:30.464300166Z"
+  },
+  {
+    "token": "gallery-remote",
+    "name": "Gallery Remote",
+    "desc": "Present photo slideshows on devices over a local network",
+    "homepage": "https://www.ntwind.com/remote/gallery.html",
+    "version": "1.0.3",
+    "detected_at": "2026-11-18T14:48:30.464300166Z"
+  },
+  {
+    "token": "max-messages",
+    "name": "MAX Messages",
+    "desc": "Archive and browse conversations from the Messages app",
+    "homepage": "https://www.mothsoftware.com/content/content/maxmessages.php",
+    "version": "1.2.0",
+    "detected_at": "2026-11-18T14:48:30.464300166Z"
+  },
+  {
+    "token": "search-browser",
+    "name": "Search",
+    "desc": "WebKit-based web browser",
+    "homepage": "https://officecommun.com/search",
+    "version": "1.0.14",
+    "detected_at": "2026-11-18T14:48:30.464300166Z"
+  },
+  {
+    "token": "weftcut",
+    "name": "WeftCut",
+    "desc": "Video editor controlled from MCP clients",
+    "homepage": "https://weftcut.com/",
+    "version": "0.8.1",
+    "detected_at": "2026-11-18T14:48:30.464300166Z"
+  },
+  {
+    "token": "zephium",
+    "name": "Zephium",
+    "desc": "WebKit-based browser with built-in AI tools",
+    "homepage": "https://zephium.app/",
+    "version": "1.0.5",
+    "detected_at": "2026-11-18T14:48:30.464300166Z"
   }
 ]

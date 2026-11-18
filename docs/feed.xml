@@ -4,7 +4,49 @@
     <title>New Homebrew Casks</title>
     <link>https://allenhouchins.github.io/new-casks-tracker/</link>
     <description>Newly added Homebrew casks, checked every 6 hours</description>
-    <lastBuildDate>Wed, 18 Nov 2026 00:13:04 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 14:48:30 +0000</lastBuildDate>
+    <item>
+      <title>Blave 0.1.55</title>
+      <link>https://formulae.brew.sh/cask/blave</link>
+      <description>Algorithmic trading and backtesting app using AI agents — https://blave.org/</description>
+      <guid isPermaLink="false">blave@2026-11-18T14:48:30Z</guid>
+      <pubDate>Wed, 18 Nov 2026 14:48:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>Gallery Remote 1.0.3</title>
+      <link>https://formulae.brew.sh/cask/gallery-remote</link>
+      <description>Present photo slideshows on devices over a local network — https://www.ntwind.com/remote/gallery.html</description>
+      <guid isPermaLink="false">gallery-remote@2026-11-18T14:48:30Z</guid>
+      <pubDate>Wed, 18 Nov 2026 14:48:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>MAX Messages 1.2.0</title>
+      <link>https://formulae.brew.sh/cask/max-messages</link>
+      <description>Archive and browse conversations from the Messages app — https://www.mothsoftware.com/content/content/maxmessages.php</description>
+      <guid isPermaLink="false">max-messages@2026-11-18T14:48:30Z</guid>
+      <pubDate>Wed, 18 Nov 2026 14:48:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>Search 1.0.14</title>
+      <link>https://formulae.brew.sh/cask/search-browser</link>
+      <description>WebKit-based web browser — https://officecommun.com/search</description>
+      <guid isPermaLink="false">search-browser@2026-11-18T14:48:30Z</guid>
+      <pubDate>Wed, 18 Nov 2026 14:48:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>WeftCut 0.8.1</title>
+      <link>https://formulae.brew.sh/cask/weftcut</link>
+      <description>Video editor controlled from MCP clients — https://weftcut.com/</description>
+      <guid isPermaLink="false">weftcut@2026-11-18T14:48:30Z</guid>
+      <pubDate>Wed, 18 Nov 2026 14:48:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>Zephium 1.0.5</title>
+      <link>https://formulae.brew.sh/cask/zephium</link>
+      <description>WebKit-based browser with built-in AI tools — https://zephium.app/</description>
+      <guid isPermaLink="false">zephium@2026-11-18T14:48:30Z</guid>
+      <pubDate>Wed, 18 Nov 2026 14:48:30 +0000</pubDate>
+    </item>
     <item>
       <title>MultiDock 2.16</title>
       <link>https://formulae.brew.sh/cask/multidock</link>
@@ -662,48 +704,6 @@
       <description>Tiling window manager — https://omniwm.app/</description>
       <guid isPermaLink="false">omniwm@canary@2026-10-24T02:32:13Z</guid>
       <pubDate>Sat, 24 Oct 2026 02:32:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>Pen 1.2.19</title>
-      <link>https://formulae.brew.sh/cask/pen</link>
-      <description>Agentic design canvas — https://pen.dev/</description>
-      <guid isPermaLink="false">pen@2026-10-24T02:32:13Z</guid>
-      <pubDate>Sat, 24 Oct 2026 02:32:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>Writer 0.8.0</title>
-      <link>https://formulae.brew.sh/cask/writer</link>
-      <description>Local-first Markdown editor — https://writer.computer/</description>
-      <guid isPermaLink="false">writer@2026-10-23T16:07:31Z</guid>
-      <pubDate>Fri, 23 Oct 2026 16:07:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>Clamshell 1.4.24,228</title>
-      <link>https://formulae.brew.sh/cask/clamshell</link>
-      <description>Keep the computer awake with the lid closed and the built-in display dark — https://clamshell.dev/</description>
-      <guid isPermaLink="false">clamshell@2026-10-22T02:28:57Z</guid>
-      <pubDate>Thu, 22 Oct 2026 02:28:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>Nordwand Mono 1.3.3</title>
-      <link>https://formulae.brew.sh/cask/font-nordwand-mono</link>
-      <description>— https://github.com/tywr/Nordwand-Mono/</description>
-      <guid isPermaLink="false">font-nordwand-mono@2026-10-22T02:28:57Z</guid>
-      <pubDate>Thu, 22 Oct 2026 02:28:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>Sprites CLI 2026-10-20-hotfix.1</title>
-      <link>https://formulae.brew.sh/cask/sprites</link>
-      <description>Command-line interface for Fly.io Sprites — https://sprites.dev/</description>
-      <guid isPermaLink="false">sprites@2026-10-22T02:28:57Z</guid>
-      <pubDate>Thu, 22 Oct 2026 02:28:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>Mengshen Pinyin Handwritten 2.0.0,20261020-153012</title>
-      <link>https://formulae.brew.sh/cask/font-mengshen-handwritten</link>
-      <description>— https://github.com/MaruTama/Mengshen-pinyin-font</description>
-      <guid isPermaLink="false">font-mengshen-handwritten@2026-10-21T10:50:00Z</guid>
-      <pubDate>Wed, 21 Oct 2026 10:50:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
