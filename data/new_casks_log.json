@@ -2710,5 +2710,12 @@
     "homepage": "https://speedcrunch.org/",
     "version": "1.2.0",
     "detected_at": "2026-11-18T23:42:12.27865659Z"
+  },
+  {
+    "token": "font-dinish",
+    "name": "DINish",
+    "homepage": "https://github.com/playbeing/dinish",
+    "version": "4.007",
+    "detected_at": "2026-11-19T05:02:18.537419484Z"
   }
 ]
