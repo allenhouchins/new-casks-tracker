@@ -4,7 +4,21 @@
     <title>New Homebrew Casks</title>
     <link>https://allenhouchins.github.io/new-casks-tracker/</link>
     <description>Newly added Homebrew casks, checked every 6 hours</description>
-    <lastBuildDate>Fri, 20 Nov 2026 14:36:15 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2026 23:29:15 +0000</lastBuildDate>
+    <item>
+      <title>HyprMac 0.25.1</title>
+      <link>https://formulae.brew.sh/cask/hyprmac</link>
+      <description>Tiling window manager — https://hyprmac.app/</description>
+      <guid isPermaLink="false">hyprmac@2026-11-20T23:29:15Z</guid>
+      <pubDate>Fri, 20 Nov 2026 23:29:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>SuperTab 1.2.2</title>
+      <link>https://formulae.brew.sh/cask/supertab</link>
+      <description>Switcher panel for apps, windows, clipboard history and files — https://noteifyapp.com/supertab/</description>
+      <guid isPermaLink="false">supertab@2026-11-20T23:29:15Z</guid>
+      <pubDate>Fri, 20 Nov 2026 23:29:15 +0000</pubDate>
+    </item>
     <item>
       <title>ChunkFive latest</title>
       <link>https://formulae.brew.sh/cask/font-chunkfive</link>
@@ -690,20 +704,6 @@
       <description>Official internet speed test from the German Bundesnetzagentur — https://www.breitbandmessung.de/</description>
       <guid isPermaLink="false">festnetz-check@2026-10-27T17:01:47Z</guid>
       <pubDate>Tue, 27 Oct 2026 17:01:47 +0000</pubDate>
-    </item>
-    <item>
-      <title>nvALT 3.0.7,136</title>
-      <link>https://formulae.brew.sh/cask/nvalt</link>
-      <description>Note taking app, fork of Notational Velocity — https://brettterpstra.com/projects/nvalt/</description>
-      <guid isPermaLink="false">nvalt@2026-10-27T17:01:47Z</guid>
-      <pubDate>Tue, 27 Oct 2026 17:01:47 +0000</pubDate>
-    </item>
-    <item>
-      <title>PrusaSlicer Preview 3.0.0-alpha12</title>
-      <link>https://formulae.brew.sh/cask/prusaslicer@preview</link>
-      <description>G-code generator for 3D printers (RepRap, Makerbot, Ultimaker etc.) — https://www.prusa3d.com/slic3r-prusa-edition/</description>
-      <guid isPermaLink="false">prusaslicer@preview@2026-10-27T02:55:17Z</guid>
-      <pubDate>Tue, 27 Oct 2026 02:55:17 +0000</pubDate>
     </item>
   </channel>
 </rss>

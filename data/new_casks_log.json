@@ -2748,5 +2748,21 @@
     "homepage": "https://www.swi-prolog.org/",
     "version": "11.0.0-1",
     "detected_at": "2026-11-20T00:00:35.69309388Z"
+  },
+  {
+    "token": "hyprmac",
+    "name": "HyprMac",
+    "desc": "Tiling window manager",
+    "homepage": "https://hyprmac.app/",
+    "version": "0.25.1",
+    "detected_at": "2026-11-20T23:29:15.240477897Z"
+  },
+  {
+    "token": "supertab",
+    "name": "SuperTab",
+    "desc": "Switcher panel for apps, windows, clipboard history and files",
+    "homepage": "https://noteifyapp.com/supertab/",
+    "version": "1.2.2",
+    "detected_at": "2026-11-20T23:29:15.240477897Z"
   }
 ]
