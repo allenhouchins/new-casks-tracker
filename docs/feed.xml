@@ -4,7 +4,35 @@
     <title>New Homebrew Casks</title>
     <link>https://allenhouchins.github.io/new-casks-tracker/</link>
     <description>Newly added Homebrew casks, checked every 6 hours</description>
-    <lastBuildDate>Thu, 19 Nov 2026 14:54:45 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2026 00:00:35 +0000</lastBuildDate>
+    <item>
+      <title>ChunkFive latest</title>
+      <link>https://formulae.brew.sh/cask/font-chunkfive</link>
+      <description>— https://www.theleagueofmoveabletype.com/chunk</description>
+      <guid isPermaLink="false">font-chunkfive@2026-11-20T00:00:35Z</guid>
+      <pubDate>Fri, 20 Nov 2026 00:00:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>Lap 0.4.0</title>
+      <link>https://formulae.brew.sh/cask/lap</link>
+      <description>Local-first photo manager — https://julyx10.github.io/lap/</description>
+      <guid isPermaLink="false">lap@2026-11-20T00:00:35Z</guid>
+      <pubDate>Fri, 20 Nov 2026 00:00:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>Lumo 0.5.9</title>
+      <link>https://formulae.brew.sh/cask/lumo</link>
+      <description>AI assistant — https://proton.me/lumo</description>
+      <guid isPermaLink="false">lumo@2026-11-20T00:00:35Z</guid>
+      <pubDate>Fri, 20 Nov 2026 00:00:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>SWI-Prolog 11.0.0-1</title>
+      <link>https://formulae.brew.sh/cask/swi-prolog-app</link>
+      <description>ISO/Edinburgh-style Prolog interpreter — https://www.swi-prolog.org/</description>
+      <guid isPermaLink="false">swi-prolog-app@2026-11-20T00:00:35Z</guid>
+      <pubDate>Fri, 20 Nov 2026 00:00:35 +0000</pubDate>
+    </item>
     <item>
       <title>DINish 4.007</title>
       <link>https://formulae.brew.sh/cask/font-dinish</link>
@@ -676,34 +704,6 @@
       <description>G-code generator for 3D printers (RepRap, Makerbot, Ultimaker etc.) — https://www.prusa3d.com/slic3r-prusa-edition/</description>
       <guid isPermaLink="false">prusaslicer@preview@2026-10-27T02:55:17Z</guid>
       <pubDate>Tue, 27 Oct 2026 02:55:17 +0000</pubDate>
-    </item>
-    <item>
-      <title>diri 0.10.1</title>
-      <link>https://formulae.brew.sh/cask/diri</link>
-      <description>Terminal workspace for running coding agents in parallel — https://diri.sh/</description>
-      <guid isPermaLink="false">diri@2026-10-26T11:52:29Z</guid>
-      <pubDate>Mon, 26 Oct 2026 11:52:29 +0000</pubDate>
-    </item>
-    <item>
-      <title>Keyboop 0.4.10</title>
-      <link>https://formulae.brew.sh/cask/keyboop</link>
-      <description>Keyboard layout switcher with local voice dictation — https://keyboop.com/</description>
-      <guid isPermaLink="false">keyboop@2026-10-26T11:52:29Z</guid>
-      <pubDate>Mon, 26 Oct 2026 11:52:29 +0000</pubDate>
-    </item>
-    <item>
-      <title>Peel 1.2.1</title>
-      <link>https://formulae.brew.sh/cask/peel</link>
-      <description>App uninstaller and disk space cleaner — https://peel.tuguidragos.com/</description>
-      <guid isPermaLink="false">peel@2026-10-26T11:52:29Z</guid>
-      <pubDate>Mon, 26 Oct 2026 11:52:29 +0000</pubDate>
-    </item>
-    <item>
-      <title>magpie 0.1.1525</title>
-      <link>https://formulae.brew.sh/cask/magpie</link>
-      <description>Model gateway for AI coding agents — https://usemagpie.ai/</description>
-      <guid isPermaLink="false">magpie@2026-10-25T15:16:03Z</guid>
-      <pubDate>Sun, 25 Oct 2026 15:16:03 +0000</pubDate>
     </item>
   </channel>
 </rss>
