@@ -2788,5 +2788,13 @@
     "homepage": "https://www.smartgit.dev/",
     "version": "26.2.024,rc",
     "detected_at": "2026-11-21T13:53:58.263998404Z"
+  },
+  {
+    "token": "font-lucide",
+    "name": "Lucide",
+    "desc": "Lucide icons as a TrueType font",
+    "homepage": "https://lucide.dev/",
+    "version": "1.77.0",
+    "detected_at": "2026-11-21T22:35:33.253155618Z"
   }
 ]
