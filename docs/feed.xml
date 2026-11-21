@@ -4,7 +4,21 @@
     <title>New Homebrew Casks</title>
     <link>https://allenhouchins.github.io/new-casks-tracker/</link>
     <description>Newly added Homebrew casks, checked every 6 hours</description>
-    <lastBuildDate>Sat, 21 Nov 2026 04:48:32 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 21 Nov 2026 13:53:58 +0000</lastBuildDate>
+    <item>
+      <title>ShellRS 0.1.19</title>
+      <link>https://formulae.brew.sh/cask/shellrs</link>
+      <description>SSH and SFTP client — https://shellrs.com/</description>
+      <guid isPermaLink="false">shellrs@2026-11-21T13:53:58Z</guid>
+      <pubDate>Sat, 21 Nov 2026 13:53:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>SmartGit 26.2.024,rc</title>
+      <link>https://formulae.brew.sh/cask/smartgit@preview</link>
+      <description>Git client — https://www.smartgit.dev/</description>
+      <guid isPermaLink="false">smartgit@preview@2026-11-21T13:53:58Z</guid>
+      <pubDate>Sat, 21 Nov 2026 13:53:58 +0000</pubDate>
+    </item>
     <item>
       <title>JellyBox 2.12.0</title>
       <link>https://formulae.brew.sh/cask/jellybox</link>
@@ -689,20 +703,6 @@
       <link>https://formulae.brew.sh/cask/nebius</link>
       <description>Command-line interface for Nebius — https://docs.nebius.com/cli</description>
       <guid isPermaLink="false">nebius@2026-10-28T17:39:02Z</guid>
-      <pubDate>Wed, 28 Oct 2026 17:39:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>Qoder 0.4.11</title>
-      <link>https://formulae.brew.sh/cask/qoder</link>
-      <description>Agentic coding platform — https://qoder.com/</description>
-      <guid isPermaLink="false">qoder@2026-10-28T17:39:02Z</guid>
-      <pubDate>Wed, 28 Oct 2026 17:39:02 +0000</pubDate>
-    </item>
-    <item>
-      <title>Task Manager TMOG 1.1.0,20261026015153</title>
-      <link>https://formulae.brew.sh/cask/task-manager-tmog</link>
-      <description>System monitor that identifies resource-heavy processes — https://tmog.org/</description>
-      <guid isPermaLink="false">task-manager-tmog@2026-10-28T17:39:02Z</guid>
       <pubDate>Wed, 28 Oct 2026 17:39:02 +0000</pubDate>
     </item>
   </channel>

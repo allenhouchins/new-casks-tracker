@@ -2772,5 +2772,21 @@
     "homepage": "https://jellybox.app/",
     "version": "2.12.0",
     "detected_at": "2026-11-21T04:48:32.595300453Z"
+  },
+  {
+    "token": "shellrs",
+    "name": "ShellRS",
+    "desc": "SSH and SFTP client",
+    "homepage": "https://shellrs.com/",
+    "version": "0.1.19",
+    "detected_at": "2026-11-21T13:53:58.263998404Z"
+  },
+  {
+    "token": "smartgit@preview",
+    "name": "SmartGit",
+    "desc": "Git client",
+    "homepage": "https://www.smartgit.dev/",
+    "version": "26.2.024,rc",
+    "detected_at": "2026-11-21T13:53:58.263998404Z"
   }
 ]
