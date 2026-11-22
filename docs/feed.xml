@@ -4,7 +4,14 @@
     <title>New Homebrew Casks</title>
     <link>https://allenhouchins.github.io/new-casks-tracker/</link>
     <description>Newly added Homebrew casks, checked every 6 hours</description>
-    <lastBuildDate>Sun, 22 Nov 2026 04:03:42 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 22 Nov 2026 13:47:15 +0000</lastBuildDate>
+    <item>
+      <title>Octo Browser 3.2.7</title>
+      <link>https://formulae.brew.sh/cask/octo-browser</link>
+      <description>Anti-detect browser for managing multiple profiles — https://octobrowser.net/</description>
+      <guid isPermaLink="false">octo-browser@2026-11-22T13:47:15Z</guid>
+      <pubDate>Sun, 22 Nov 2026 13:47:15 +0000</pubDate>
+    </item>
     <item>
       <title>Lucide 1.77.0</title>
       <link>https://formulae.brew.sh/cask/font-lucide</link>
@@ -697,13 +704,6 @@
       <description>Parametric 3D CAD modeller — https://solidcraft.io/</description>
       <guid isPermaLink="false">solidcraft@2026-10-28T22:00:11Z</guid>
       <pubDate>Wed, 28 Oct 2026 22:00:11 +0000</pubDate>
-    </item>
-    <item>
-      <title>DeutschlandGPT 0.16.0</title>
-      <link>https://formulae.brew.sh/cask/deutschlandgpt</link>
-      <description>Desktop client for the DeutschlandGPT AI assistant — https://www.deutschlandgpt.de/</description>
-      <guid isPermaLink="false">deutschlandgpt@2026-10-28T17:39:02Z</guid>
-      <pubDate>Wed, 28 Oct 2026 17:39:02 +0000</pubDate>
     </item>
   </channel>
 </rss>

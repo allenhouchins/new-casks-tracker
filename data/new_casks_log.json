@@ -2796,5 +2796,13 @@
     "homepage": "https://lucide.dev/",
     "version": "1.77.0",
     "detected_at": "2026-11-21T22:35:33.253155618Z"
+  },
+  {
+    "token": "octo-browser",
+    "name": "Octo Browser",
+    "desc": "Anti-detect browser for managing multiple profiles",
+    "homepage": "https://octobrowser.net/",
+    "version": "3.2.7",
+    "detected_at": "2026-11-22T13:47:15.359072541Z"
   }
 ]
