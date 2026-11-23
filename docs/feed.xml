@@ -4,7 +4,21 @@
     <title>New Homebrew Casks</title>
     <link>https://allenhouchins.github.io/new-casks-tracker/</link>
     <description>Newly added Homebrew casks, checked every 6 hours</description>
-    <lastBuildDate>Mon, 23 Nov 2026 04:45:34 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 23 Nov 2026 16:51:25 +0000</lastBuildDate>
+    <item>
+      <title>CodeQL Bundle 2.27.5</title>
+      <link>https://formulae.brew.sh/cask/codeql-bundle</link>
+      <description>Semantic code analysis engine with precompiled standard query packs — https://codeql.github.com/</description>
+      <guid isPermaLink="false">codeql-bundle@2026-11-23T16:51:25Z</guid>
+      <pubDate>Mon, 23 Nov 2026 16:51:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>VelaTerm 0.3.5</title>
+      <link>https://formulae.brew.sh/cask/velaterm</link>
+      <description>Terminal multiplexer and agentic development environment for AI coding agents — https://velaterm.com/</description>
+      <guid isPermaLink="false">velaterm@2026-11-23T16:51:25Z</guid>
+      <pubDate>Mon, 23 Nov 2026 16:51:25 +0000</pubDate>
+    </item>
     <item>
       <title>Octo Browser 3.2.7</title>
       <link>https://formulae.brew.sh/cask/octo-browser</link>
@@ -690,20 +704,6 @@
       <description>Disk space analyser — https://github.com/phalladar/MacDirStat</description>
       <guid isPermaLink="false">macdirstat@2026-10-29T18:01:30Z</guid>
       <pubDate>Thu, 29 Oct 2026 18:01:30 +0000</pubDate>
-    </item>
-    <item>
-      <title>Spencer 1.7.5</title>
-      <link>https://formulae.brew.sh/cask/spencer</link>
-      <description>Window and workspace layout manager across Spaces and displays — https://macspencer.app/</description>
-      <guid isPermaLink="false">spencer@2026-10-29T18:01:30Z</guid>
-      <pubDate>Thu, 29 Oct 2026 18:01:30 +0000</pubDate>
-    </item>
-    <item>
-      <title>SolidCraft 0.24.0</title>
-      <link>https://formulae.brew.sh/cask/solidcraft</link>
-      <description>Parametric 3D CAD modeller — https://solidcraft.io/</description>
-      <guid isPermaLink="false">solidcraft@2026-10-28T22:00:11Z</guid>
-      <pubDate>Wed, 28 Oct 2026 22:00:11 +0000</pubDate>
     </item>
   </channel>
 </rss>
