@@ -2820,5 +2820,21 @@
     "homepage": "https://velaterm.com/",
     "version": "0.3.5",
     "detected_at": "2026-11-23T16:51:25.081551886Z"
+  },
+  {
+    "token": "dimble",
+    "name": "Dimble",
+    "desc": "Menu bar manager",
+    "homepage": "https://dimble.fif7y.com/",
+    "version": "0.4.0",
+    "detected_at": "2026-11-24T03:37:28.134831833Z"
+  },
+  {
+    "token": "ladybird",
+    "name": "Ladybird",
+    "desc": "Web browser",
+    "homepage": "https://ladybird.org/",
+    "version": "2026.47.7",
+    "detected_at": "2026-11-24T03:37:28.134831833Z"
   }
 ]

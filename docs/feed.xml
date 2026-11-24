@@ -4,7 +4,21 @@
     <title>New Homebrew Casks</title>
     <link>https://allenhouchins.github.io/new-casks-tracker/</link>
     <description>Newly added Homebrew casks, checked every 6 hours</description>
-    <lastBuildDate>Mon, 23 Nov 2026 16:51:25 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 24 Nov 2026 03:37:28 +0000</lastBuildDate>
+    <item>
+      <title>Dimble 0.4.0</title>
+      <link>https://formulae.brew.sh/cask/dimble</link>
+      <description>Menu bar manager — https://dimble.fif7y.com/</description>
+      <guid isPermaLink="false">dimble@2026-11-24T03:37:28Z</guid>
+      <pubDate>Tue, 24 Nov 2026 03:37:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ladybird 2026.47.7</title>
+      <link>https://formulae.brew.sh/cask/ladybird</link>
+      <description>Web browser — https://ladybird.org/</description>
+      <guid isPermaLink="false">ladybird@2026-11-24T03:37:28Z</guid>
+      <pubDate>Tue, 24 Nov 2026 03:37:28 +0000</pubDate>
+    </item>
     <item>
       <title>CodeQL Bundle 2.27.5</title>
       <link>https://formulae.brew.sh/cask/codeql-bundle</link>
@@ -690,20 +704,6 @@
       <description>Agentic development environment — https://thinkrail.ai/</description>
       <guid isPermaLink="false">thinkrail@2026-10-30T11:51:58Z</guid>
       <pubDate>Fri, 30 Oct 2026 11:51:58 +0000</pubDate>
-    </item>
-    <item>
-      <title>tl;dv 3.0.399</title>
-      <link>https://formulae.brew.sh/cask/tldv</link>
-      <description>AI meeting recorder and note taker — https://tldv.io/</description>
-      <guid isPermaLink="false">tldv@2026-10-30T11:51:58Z</guid>
-      <pubDate>Fri, 30 Oct 2026 11:51:58 +0000</pubDate>
-    </item>
-    <item>
-      <title>MacDirStat 0.2.0</title>
-      <link>https://formulae.brew.sh/cask/macdirstat</link>
-      <description>Disk space analyser — https://github.com/phalladar/MacDirStat</description>
-      <guid isPermaLink="false">macdirstat@2026-10-29T18:01:30Z</guid>
-      <pubDate>Thu, 29 Oct 2026 18:01:30 +0000</pubDate>
     </item>
   </channel>
 </rss>
