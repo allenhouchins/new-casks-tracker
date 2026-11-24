@@ -2836,5 +2836,29 @@
     "homepage": "https://ladybird.org/",
     "version": "2026.47.7",
     "detected_at": "2026-11-24T03:37:28.134831833Z"
+  },
+  {
+    "token": "microsoft-copilot",
+    "name": "Microsoft Copilot",
+    "desc": "AI assistant",
+    "homepage": "https://www.microsoft.com/en-us/copilot/download-copilot-app",
+    "version": "158.0.4370.33,aebe7225-40e8-4c6e-a6ae-0a98c6b2c713",
+    "detected_at": "2026-11-24T16:42:49.115805493Z"
+  },
+  {
+    "token": "passenger-ide",
+    "name": "Passenger",
+    "desc": "IDE for C# and .NET",
+    "homepage": "https://passenger-ide.net/",
+    "version": "0.4.3",
+    "detected_at": "2026-11-24T16:42:49.115805493Z"
+  },
+  {
+    "token": "tactile",
+    "name": "Tactile",
+    "desc": "System-wide haptic feedback for Force Touch trackpads",
+    "homepage": "https://tactile.masn.studio/",
+    "version": "1.1.5",
+    "detected_at": "2026-11-24T16:42:49.115805493Z"
   }
 ]
