@@ -2868,5 +2868,13 @@
     "homepage": "https://layoutdepartment.com/",
     "version": "0.9.1",
     "detected_at": "2026-11-25T01:45:02.43177649Z"
+  },
+  {
+    "token": "anomaly-spaceman",
+    "name": "Spaceman",
+    "desc": "Tiling window manager",
+    "homepage": "https://anoma.ly/spaceman/",
+    "version": "0.3.5,0184acc428b25c7826639800a5c8a4f5fa20117062c48ca309b6b35fae08046a",
+    "detected_at": "2026-11-25T16:27:54.185255777Z"
   }
 ]
