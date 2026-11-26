@@ -2876,5 +2876,29 @@
     "homepage": "https://anoma.ly/spaceman/",
     "version": "0.3.5,0184acc428b25c7826639800a5c8a4f5fa20117062c48ca309b6b35fae08046a",
     "detected_at": "2026-11-25T16:27:54.185255777Z"
+  },
+  {
+    "token": "chapar",
+    "name": "Chapar",
+    "desc": "Native API client",
+    "homepage": "https://chapar.rest/",
+    "version": "0.14.1",
+    "detected_at": "2026-11-26T16:01:27.388167142Z"
+  },
+  {
+    "token": "insta360-wave-controller",
+    "name": "Insta360 Wave Controller",
+    "desc": "Controller for Insta360 Wave devices",
+    "homepage": "https://www.insta360.com/download/insta360-wave",
+    "version": "1.1.0,build7,_20261008_101106_signed_1791425478377,85661444411946edb17399282f5b0683",
+    "detected_at": "2026-11-26T16:01:27.388167142Z"
+  },
+  {
+    "token": "paradev",
+    "name": "Paradev",
+    "desc": "Workspace for running coding agents in parallel",
+    "homepage": "https://paradev.com/",
+    "version": "2.0.12",
+    "detected_at": "2026-11-26T16:01:27.388167142Z"
   }
 ]

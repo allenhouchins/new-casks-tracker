@@ -4,7 +4,28 @@
     <title>New Homebrew Casks</title>
     <link>https://allenhouchins.github.io/new-casks-tracker/</link>
     <description>Newly added Homebrew casks, checked every 6 hours</description>
-    <lastBuildDate>Thu, 26 Nov 2026 01:19:05 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 16:01:27 +0000</lastBuildDate>
+    <item>
+      <title>Chapar 0.14.1</title>
+      <link>https://formulae.brew.sh/cask/chapar</link>
+      <description>Native API client — https://chapar.rest/</description>
+      <guid isPermaLink="false">chapar@2026-11-26T16:01:27Z</guid>
+      <pubDate>Thu, 26 Nov 2026 16:01:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>Insta360 Wave Controller 1.1.0,build7,_20261008_101106_signed_1791425478377,85661444411946edb17399282f5b0683</title>
+      <link>https://formulae.brew.sh/cask/insta360-wave-controller</link>
+      <description>Controller for Insta360 Wave devices — https://www.insta360.com/download/insta360-wave</description>
+      <guid isPermaLink="false">insta360-wave-controller@2026-11-26T16:01:27Z</guid>
+      <pubDate>Thu, 26 Nov 2026 16:01:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>Paradev 2.0.12</title>
+      <link>https://formulae.brew.sh/cask/paradev</link>
+      <description>Workspace for running coding agents in parallel — https://paradev.com/</description>
+      <guid isPermaLink="false">paradev@2026-11-26T16:01:27Z</guid>
+      <pubDate>Thu, 26 Nov 2026 16:01:27 +0000</pubDate>
+    </item>
     <item>
       <title>Spaceman 0.3.5,0184acc428b25c7826639800a5c8a4f5fa20117062c48ca309b6b35fae08046a</title>
       <link>https://formulae.brew.sh/cask/anomaly-spaceman</link>
@@ -683,27 +704,6 @@
       <description>Desktop calendar — https://rencal.org/</description>
       <guid isPermaLink="false">rencal@2026-10-31T03:17:32Z</guid>
       <pubDate>Sat, 31 Oct 2026 03:17:32 +0000</pubDate>
-    </item>
-    <item>
-      <title>Herdr 0.1.9</title>
-      <link>https://formulae.brew.sh/cask/herdr-app</link>
-      <description>Desktop app for terminals and coding agents — https://herdr.dev/</description>
-      <guid isPermaLink="false">herdr-app@2026-10-30T21:47:46Z</guid>
-      <pubDate>Fri, 30 Oct 2026 21:47:46 +0000</pubDate>
-    </item>
-    <item>
-      <title>VoceVista Pro 6.0.2.10487</title>
-      <link>https://formulae.brew.sh/cask/vocevista-pro</link>
-      <description>High-resolution voice spectrum and vibrato analyzer — https://www.vocevista.com/en/</description>
-      <guid isPermaLink="false">vocevista-pro@2026-10-30T17:27:45Z</guid>
-      <pubDate>Fri, 30 Oct 2026 17:27:45 +0000</pubDate>
-    </item>
-    <item>
-      <title>Junie 3893.6</title>
-      <link>https://formulae.brew.sh/cask/junie</link>
-      <description>AI coding agent by JetBrains — https://junie.jetbrains.com/</description>
-      <guid isPermaLink="false">junie@2026-10-30T11:51:58Z</guid>
-      <pubDate>Fri, 30 Oct 2026 11:51:58 +0000</pubDate>
     </item>
   </channel>
 </rss>
