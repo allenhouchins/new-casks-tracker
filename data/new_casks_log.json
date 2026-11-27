@@ -2900,5 +2900,13 @@
     "homepage": "https://paradev.com/",
     "version": "2.0.12",
     "detected_at": "2026-11-26T16:01:27.388167142Z"
+  },
+  {
+    "token": "stablebar",
+    "name": "StableBar",
+    "desc": "Configurable menu bar",
+    "homepage": "https://stablebar.app/",
+    "version": "0.19.0",
+    "detected_at": "2026-11-27T15:50:04.510735342Z"
   }
 ]

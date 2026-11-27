@@ -4,7 +4,14 @@
     <title>New Homebrew Casks</title>
     <link>https://allenhouchins.github.io/new-casks-tracker/</link>
     <description>Newly added Homebrew casks, checked every 6 hours</description>
-    <lastBuildDate>Fri, 27 Nov 2026 01:17:30 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 15:50:04 +0000</lastBuildDate>
+    <item>
+      <title>StableBar 0.19.0</title>
+      <link>https://formulae.brew.sh/cask/stablebar</link>
+      <description>Configurable menu bar — https://stablebar.app/</description>
+      <guid isPermaLink="false">stablebar@2026-11-27T15:50:04Z</guid>
+      <pubDate>Fri, 27 Nov 2026 15:50:04 +0000</pubDate>
+    </item>
     <item>
       <title>Chapar 0.14.1</title>
       <link>https://formulae.brew.sh/cask/chapar</link>
@@ -696,13 +703,6 @@
       <link>https://formulae.brew.sh/cask/font-geist-serif</link>
       <description>— https://vercel.com/font</description>
       <guid isPermaLink="false">font-geist-serif@2026-10-31T03:17:32Z</guid>
-      <pubDate>Sat, 31 Oct 2026 03:17:32 +0000</pubDate>
-    </item>
-    <item>
-      <title>renCal 0.9.0</title>
-      <link>https://formulae.brew.sh/cask/rencal</link>
-      <description>Desktop calendar — https://rencal.org/</description>
-      <guid isPermaLink="false">rencal@2026-10-31T03:17:32Z</guid>
       <pubDate>Sat, 31 Oct 2026 03:17:32 +0000</pubDate>
     </item>
   </channel>
