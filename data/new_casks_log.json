@@ -2908,5 +2908,13 @@
     "homepage": "https://stablebar.app/",
     "version": "0.19.0",
     "detected_at": "2026-11-27T15:50:04.510735342Z"
+  },
+  {
+    "token": "bloopemail",
+    "name": "Bloop.email",
+    "desc": "Email client",
+    "homepage": "https://bloop.email/",
+    "version": "1.7.60",
+    "detected_at": "2026-11-28T14:45:10.522994015Z"
   }
 ]

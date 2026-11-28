@@ -4,7 +4,14 @@
     <title>New Homebrew Casks</title>
     <link>https://allenhouchins.github.io/new-casks-tracker/</link>
     <description>Newly added Homebrew casks, checked every 6 hours</description>
-    <lastBuildDate>Sat, 28 Nov 2026 00:51:03 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 28 Nov 2026 14:45:10 +0000</lastBuildDate>
+    <item>
+      <title>Bloop.email 1.7.60</title>
+      <link>https://formulae.brew.sh/cask/bloopemail</link>
+      <description>Email client — https://bloop.email/</description>
+      <guid isPermaLink="false">bloopemail@2026-11-28T14:45:10Z</guid>
+      <pubDate>Sat, 28 Nov 2026 14:45:10 +0000</pubDate>
+    </item>
     <item>
       <title>StableBar 0.19.0</title>
       <link>https://formulae.brew.sh/cask/stablebar</link>
@@ -697,13 +704,6 @@
       <description>Store and retrieve notes — https://notational.net/</description>
       <guid isPermaLink="false">notational-velocity@2026-10-31T16:30:56Z</guid>
       <pubDate>Sat, 31 Oct 2026 16:30:56 +0000</pubDate>
-    </item>
-    <item>
-      <title>Geist Serif 1.9.0</title>
-      <link>https://formulae.brew.sh/cask/font-geist-serif</link>
-      <description>— https://vercel.com/font</description>
-      <guid isPermaLink="false">font-geist-serif@2026-10-31T03:17:32Z</guid>
-      <pubDate>Sat, 31 Oct 2026 03:17:32 +0000</pubDate>
     </item>
   </channel>
 </rss>
